@@ -63,16 +63,19 @@ export default function Home({
   })
 
   return (
-    <main className="flex min-h-screen flex-col items-center gap-32">
+    <main className="flex min-h-screen flex-col items-center">
       <div
-        className="h-64 w-full flex items-center justify-center"
+        className="py-4 w-full flex items-center justify-center bg-black text-white"
+      >
+        INSTA 꿀팁 저장소
+      </div>
+      <div
+        className="py-4 w-full flex items-center justify-center sticky top-0 mb-32"
         style={{ background: 'linear-gradient(54.09deg,#0348dd 2.03%,#8142f5 48.63%,#ee4dd4 96.22%)' }}
       >
-        <Input type="text" placeholder="instagram link" className="w-[500px]" />
-        <Button>추가</Button>
+        <Navigation />
       </div>
       <div className="w-min-[960px]">
-        <Navigation />
         <div className="grid grid-cols-4 gap-4">
           {filterItem.map(item =>
             <Video key={item.id} link={item.link} poster={item.poster} />
@@ -81,6 +84,17 @@ export default function Home({
       </div>
     </main>
   );
+}
+function SearchTop() {
+  return (
+    <div
+      className="h-64 w-full flex items-center justify-center"
+      style={{ background: 'linear-gradient(54.09deg,#0348dd 2.03%,#8142f5 48.63%,#ee4dd4 96.22%)' }}
+    >
+      <Input type="text" placeholder="instagram link" className="w-[500px]" />
+      <Button>추가</Button>
+    </div>
+  )
 }
 function Video({ link, poster }: { link: string, poster: string }) {
   return (
