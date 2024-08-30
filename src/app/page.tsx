@@ -8,7 +8,7 @@ export default function Home() {
     </main>
   );
 }
-export function Video({ link }: { link: string }) {
+function Video({ link }: { link: string }) {
   return (
     <video width="320" height="240" controls preload="none" className="w-64">
       <source src={link} type="video/mp4" />
