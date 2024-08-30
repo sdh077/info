@@ -3,8 +3,63 @@ import { Input } from "@/components/ui/input"
 import { Button } from "@/components/ui/button";
 import exerciseThumb from '@public/image/exercise_thumb.jpg'
 import foodThumb from '@public/image/food_thumb.jpg'
+import { Navigation } from "@/components/navigation";
 
-export default function Home() {
+export default function Home({
+  params,
+  searchParams,
+}: {
+  params: { slug: string }
+  searchParams: { [key: string]: string | string[] | undefined }
+}) {
+  const items = [
+    {
+      id: 1,
+      cate: 'exercise',
+      type: 'waist',
+      link: '/video/exercise.mp4',
+      poster: '/image/exercise_thumb.jpg'
+    },
+    {
+      id: 2,
+      cate: 'food',
+      type: 'diet',
+      link: '/video/food.mp4',
+      poster: '/image/food_thumb.jpg'
+    }, {
+      id: 3,
+      cate: 'exercise',
+      type: 'waist',
+      link: '/video/exercise.mp4',
+      poster: '/image/exercise_thumb.jpg'
+    },
+    {
+      id: 4,
+      cate: 'food',
+      type: 'diet',
+      link: '/video/food.mp4',
+      poster: '/image/food_thumb.jpg'
+    }, {
+      id: 5,
+      cate: 'exercise',
+      type: 'waist',
+      link: '/video/exercise.mp4',
+      poster: '/image/exercise_thumb.jpg'
+    },
+    {
+      id: 6,
+      cate: 'food',
+      type: 'diet',
+      link: '/video/food.mp4',
+      poster: '/image/food_thumb.jpg'
+    }
+  ]
+  const filterItem = items.filter(item => {
+    if (!searchParams.cate) return true
+    if (!searchParams.type) return item.cate === searchParams.cate
+    return item.cate === searchParams.cate && item.type === searchParams.type
+  })
+  console.log(searchParams)
   return (
     <main className="flex min-h-screen flex-col items-center gap-32">
       <div
@@ -14,9 +69,13 @@ export default function Home() {
         <Input type="text" placeholder="instagram link" className="w-[500px]" />
         <Button>추가</Button>
       </div>
-      <div className="flex gap-4">
-        <Video link="/video/food.mp4" poster="/image/exercise_thumb.jpg" />
-        <Video link="/video/exercise.mp4" poster="/image/food_thumb.jpg" />
+      <div className="w-min-[960px]">
+        <Navigation />
+        <div className="grid grid-cols-4 gap-4">
+          {filterItem.map(item =>
+            <Video key={item.id} link={item.link} poster={item.poster} />
+          )}
+        </div>
       </div>
     </main>
   );
