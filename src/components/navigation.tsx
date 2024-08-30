@@ -67,28 +67,38 @@ export function Navigation() {
           <NavigationMenuTrigger>운동</NavigationMenuTrigger>
           <NavigationMenuContent>
             <ul className="grid gap-3 p-6 md:w-[400px] lg:w-[500px] lg:grid-cols-[.75fr_1fr]">
-              <ListItem href="/?cate=exercise" title="Installation">
+              <ListItem href="/?cate=exercise" title="Exercise">
                 운동 전체
               </ListItem>
-              <ListItem href="/?cate=exercise&type=waist" title="Introduction">
+              <ListItem href="/?cate=exercise&type=waist" title="Waist">
                 허리
               </ListItem>
             </ul>
           </NavigationMenuContent>
         </NavigationMenuItem>
         <NavigationMenuItem>
-          <NavigationMenuTrigger>요리</NavigationMenuTrigger>
+          <NavigationMenuTrigger>음식</NavigationMenuTrigger>
           <NavigationMenuContent>
-            <ul className="grid w-[400px] gap-3 p-4 md:w-[500px] md:grid-cols-2 lg:w-[600px] ">
-              {components.map((component) => (
-                <ListItem
-                  key={component.title}
-                  title={component.title}
-                  href={component.href}
-                >
-                  {component.description}
-                </ListItem>
-              ))}
+            <ul className="grid gap-3 p-6 md:w-[400px] lg:w-[500px] lg:grid-cols-[.75fr_1fr]">
+              <ListItem href="/?cate=food" title="Food">
+                음식 전체
+              </ListItem>
+              <ListItem href="/?cate=food&type=diet" title="Diet">
+                다이어트
+              </ListItem>
+            </ul>
+          </NavigationMenuContent>
+        </NavigationMenuItem>
+        <NavigationMenuItem>
+          <NavigationMenuTrigger>웰빙</NavigationMenuTrigger>
+          <NavigationMenuContent>
+            <ul className="grid gap-3 p-6 md:w-[400px] lg:w-[500px] lg:grid-cols-[.75fr_1fr]">
+              <ListItem href="/?cate=wellbeing" title="Wellbeing">
+                웰빙 전체
+              </ListItem>
+              <ListItem href="/?cate=wellbeing&type=supplement" title="Supplement">
+                영양제
+              </ListItem>
             </ul>
           </NavigationMenuContent>
         </NavigationMenuItem>

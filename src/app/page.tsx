@@ -1,3 +1,5 @@
+'use client'
+import { useEffect } from 'react';
 import Image from "next/image";
 import { Input } from "@/components/ui/input"
 import { Button } from "@/components/ui/button";
@@ -28,10 +30,10 @@ export default function Home({
       poster: '/image/food_thumb.jpg'
     }, {
       id: 3,
-      cate: 'exercise',
-      type: 'waist',
-      link: '/video/exercise.mp4',
-      poster: '/image/exercise_thumb.jpg'
+      cate: 'wellbeing',
+      type: 'supplement',
+      link: '/video/wellbeing.mp4',
+      poster: '/image/wellbeing_thumb.jpg'
     },
     {
       id: 4,
@@ -59,7 +61,7 @@ export default function Home({
     if (!searchParams.type) return item.cate === searchParams.cate
     return item.cate === searchParams.cate && item.type === searchParams.type
   })
-  console.log(searchParams)
+
   return (
     <main className="flex min-h-screen flex-col items-center gap-32">
       <div
