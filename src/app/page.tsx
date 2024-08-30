@@ -76,7 +76,7 @@ export default function Home({
         <Navigation />
       </div>
       <div className="w-min-[960px]">
-        <div className="grid grid-cols-4 gap-4">
+        <div className="grid grid-cols-4 gap-8">
           {filterItem.map(item =>
             <Video key={item.id} link={item.link} poster={item.poster} />
           )}
