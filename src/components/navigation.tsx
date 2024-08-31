@@ -64,6 +64,19 @@ export function Navigation() {
           </Link>
         </NavigationMenuItem>
         <NavigationMenuItem>
+          <NavigationMenuTrigger>메뉴 주문</NavigationMenuTrigger>
+          <NavigationMenuContent>
+            <ul className="grid gap-3 p-6 md:w-[400px] lg:w-[500px] lg:grid-cols-[.75fr_1fr]">
+              <ListItem href="/?cate=order" title="Order">
+                주문 전체
+              </ListItem>
+              <ListItem href="/?cate=order&type=starbucks" title="Starbucks">
+                스타벅스
+              </ListItem>
+            </ul>
+          </NavigationMenuContent>
+        </NavigationMenuItem>
+        <NavigationMenuItem>
           <NavigationMenuTrigger>운동</NavigationMenuTrigger>
           <NavigationMenuContent>
             <ul className="grid gap-3 p-6 md:w-[400px] lg:w-[500px] lg:grid-cols-[.75fr_1fr]">

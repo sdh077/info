@@ -6,6 +6,8 @@ import { Button } from "@/components/ui/button";
 import exerciseThumb from '@public/image/exercise_thumb.jpg'
 import foodThumb from '@public/image/food_thumb.jpg'
 import { Navigation } from "@/components/navigation";
+import { InfoCard } from '@/components/infoCard';
+import { IContent, isVideo, isCard, IVideo } from '@/interface/info';
 
 export default function Home({
   params,
@@ -14,22 +16,26 @@ export default function Home({
   params: { slug: string }
   searchParams: { [key: string]: string | string[] | undefined }
 }) {
-  const items = [
+  const items: IContent[] = [
     {
       id: 1,
+      source: 'video',
       cate: 'exercise',
       type: 'waist',
       link: '/video/exercise.mp4',
-      poster: '/image/exercise_thumb.jpg'
+      poster: '/image/exercise_thumb.jpg',
     },
     {
       id: 2,
+      source: 'video',
       cate: 'food',
       type: 'diet',
       link: '/video/food.mp4',
       poster: '/image/food_thumb.jpg'
-    }, {
+    },
+    {
       id: 3,
+      source: 'video',
       cate: 'wellbeing',
       type: 'supplement',
       link: '/video/wellbeing.mp4',
@@ -37,12 +43,15 @@ export default function Home({
     },
     {
       id: 4,
+      source: 'video',
       cate: 'food',
       type: 'diet',
       link: '/video/food.mp4',
       poster: '/image/food_thumb.jpg'
-    }, {
+    },
+    {
       id: 5,
+      source: 'video',
       cate: 'exercise',
       type: 'waist',
       link: '/video/exercise.mp4',
@@ -50,10 +59,29 @@ export default function Home({
     },
     {
       id: 6,
+      source: 'video',
       cate: 'food',
       type: 'diet',
       link: '/video/food.mp4',
       poster: '/image/food_thumb.jpg'
+    },
+    {
+      id: 7,
+      source: 'card',
+      cate: 'order',
+      type: 'starbucks',
+      title: '추천메뉴1 시그니쳐 초콜릿 (샷추가, 진하게, 휘핑많이)',
+      description: ['샷추가는 무조건 밤샘 가능하신거 아시쥬?', '급하게 날 새야할때 이거 한잔 마셔보세요!'],
+      poster: '/image/starbucks/starbucks1.jpg'
+    },
+    {
+      id: 8,
+      source: 'card',
+      cate: 'order',
+      type: 'starbucks',
+      title: '추천메뉴2 망고패션티 블렌디드 (티 빼고 얼음 만땅)',
+      description: ['스타벅스 숙취 음료'],
+      poster: '/image/starbucks/starbucks2.jpg'
     }
   ]
   const filterItem = items.filter(item => {
@@ -67,7 +95,7 @@ export default function Home({
       <div
         className="py-4 w-full flex items-center justify-center bg-black text-white"
       >
-        INSTA 꿀팁 저장소
+        꿀팁 저장소
       </div>
       <div
         className="py-4 w-full flex items-center justify-center sticky top-0 mb-32"
@@ -75,11 +103,15 @@ export default function Home({
       >
         <Navigation />
       </div>
-      <div className="w-min-[960px]">
-        <div className="grid grid-cols-4 gap-8">
-          {filterItem.map(item =>
-            <Video key={item.id} link={item.link} poster={item.poster} />
-          )}
+      <div className="w-[1200px] mx-4">
+        <div className="grid md:grid-cols-4 grid-cols-2 gap-8">
+          {filterItem.map(content => {
+            if (isVideo(content)) {
+              return <Video key={content.id} content={content} />
+            } else if (isCard(content)) {
+              return <InfoCard key={content.id} content={content} />
+            }
+          })}
         </div>
       </div>
     </main>
@@ -96,17 +128,19 @@ function SearchTop() {
     </div>
   )
 }
-function Video({ link, poster }: { link: string, poster: string }) {
+function Video({ content }: { content: IVideo }) {
   return (
-    <video width="320" height="240" controls preload="none" className="w-64" poster={poster}>
-      <source src={link} type="video/mp4" />
-      <track
-        src="/image/exercise_thumb.jpg"
-        kind="subtitles"
-        srcLang="ko"
-        label="English"
-      />
-      Your browser does not support the video tag.
-    </video>
+    <div>
+      <video controls preload="none" poster={content.poster}>
+        <source src={content.link} type="video/mp4" />
+        <track
+          src="/image/exercise_thumb.jpg"
+          kind="subtitles"
+          srcLang="ko"
+          label="English"
+        />
+        Your browser does not support the video tag.
+      </video>
+    </div>
   )
 }
