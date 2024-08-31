@@ -103,7 +103,7 @@ export default function Home({
       >
         <Navigation />
       </div>
-      <div className="w-[1200px] mx-4">
+      <div className="md:w-[1200px] mx-4">
         <div className="grid md:grid-cols-4 grid-cols-2 gap-8">
           {filterItem.map(content => {
             if (isVideo(content)) {
