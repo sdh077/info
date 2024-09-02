@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { Inter as FontSans } from "next/font/google"
 import "./globals.css";
 import { cn } from "@/lib/utils";
+import { Button } from "@/components/ui/button";
+import Link from "next/link";
 
 const fontSans = FontSans({
   subsets: ["latin"],
@@ -25,7 +27,23 @@ export default function RootLayout({
           fontSans.variable
         )}
       >
-        {children}
+        <main className="flex min-h-screen flex-col items-center">
+          <div
+            className="py-4 w-full flex items-center justify-center bg-black text-white"
+          >
+            <Link href={'/'}>
+              <Button variant={'ghost'}>
+                꿀팁 저장소
+              </Button>
+            </Link>
+            <Link href={'/place'}>
+              <Button variant={'ghost'}>
+                장소 저장소
+              </Button>
+            </Link>
+          </div>
+          {children}
+        </main>
       </body>
     </html>
   );

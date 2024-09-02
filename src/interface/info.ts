@@ -12,6 +12,7 @@ export interface IVideo extends IInfo {
 
 export interface ICard extends IInfo {
   title: string;
+  subTitle: string;
   description: string[];
   poster: string;
 }
@@ -20,5 +21,5 @@ export function isVideo(content: IContent): content is IVideo {
   return (content as IVideo).link !== undefined;
 }
 export function isCard(content: IContent): content is ICard {
-  return !isVideo(content);
+  return (content as ICard).subTitle !== undefined;
 }

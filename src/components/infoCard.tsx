@@ -15,7 +15,7 @@ export function InfoCard({ content }: { content: ICard }) {
     <Card className={cn("w-full")}>
       <CardHeader>
         <CardTitle>{content.title}</CardTitle>
-        <CardDescription><Image className="rounded-md" src={content.poster} alt="content image" objectFit="cover" width={320} height={320} />.</CardDescription>
+        <CardDescription>{content.subTitle}<Image className="rounded-md" src={content.poster} alt="content image" objectFit="cover" width={320} height={320} />.</CardDescription>
       </CardHeader>
       <CardContent className="grid gap-4">
         <div>

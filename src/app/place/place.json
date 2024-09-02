@@ -1,0 +1,23 @@
+[
+  {
+    "data": {
+      "announcements": [
+        {
+          "feedId": 13595707,
+          "category": "알림",
+          "categoryI18n": null,
+          "title": "신메뉴 출시 - 쩝짝뼈 칼국수 🍜",
+          "relativeCreated": "2024.04.05.",
+          "period": "2024.04.05. ~ 2024.12.31.",
+          "thumbnail": {
+            "url": "https://video-phinf.pstatic.net/20240405_5/1712283355870lrXtU_JPEG/67a63fa4-f2f2-11ee-bb83-80615f0bcfa2_03.jpg",
+            "count": 3,
+            "isVideo": true,
+            "__typename": "FeedThumnail"
+          },
+          "__typename": "Feed"
+        }
+      ]
+    }
+  }
+]
