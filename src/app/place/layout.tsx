@@ -59,7 +59,7 @@ export default function Layout({
   ]
   return (
     <>
-      <div className='bg-black w-full py-4 w-full flex items-center justify-center sticky top-0 mb-32'>
+      <div className='bg-black w-full py-4 w-full flex items-center justify-center sticky top-0 mb-32 z-10'>
         <Navigation navis={navis} />
       </div>
       {children}
