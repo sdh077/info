@@ -14,11 +14,12 @@ import {
   navigationMenuTriggerStyle,
 } from "@/components/ui/navigation-menu"
 import { INavi } from "@/interface/navi"
+import { usePathname } from "next/navigation"
 
 
 
 export function Navigation({ navis }: { navis: INavi[] }) {
-
+  const pathname = usePathname()
   return (
     <NavigationMenu>
       <NavigationMenuList>
@@ -34,11 +35,11 @@ export function Navigation({ navis }: { navis: INavi[] }) {
             <NavigationMenuTrigger>{navi.menu}</NavigationMenuTrigger>
             <NavigationMenuContent>
               <ul className="grid gap-3 p-6 md:w-[400px] lg:w-[500px] lg:grid-cols-[.75fr_1fr]">
-                <ListItem href={`/?cate=${navi.cate}`} title={navi.cate}>
+                <ListItem href={`${pathname}?cate=${navi.cate}`} title={navi.cate}>
                   {navi.menu} 전체
                 </ListItem>
                 {navi.types.map(type =>
-                  <ListItem key={type.type} href={`/?cate=${navi.cate}&type=${type.type}`} title={type.type}>
+                  <ListItem key={type.type} href={`${pathname}?cate=${navi.cate}&type=${type.type}`} title={type.type}>
                     {type.title}
                   </ListItem>
                 )}
