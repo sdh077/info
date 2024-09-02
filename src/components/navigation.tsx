@@ -24,7 +24,7 @@ export function Navigation({ navis, width }: { navis: INavi[], width?: string })
     <NavigationMenu>
       <NavigationMenuList>
         <NavigationMenuItem>
-          <Link href="/" legacyBehavior passHref>
+          <Link href={pathname} legacyBehavior passHref>
             <NavigationMenuLink className={navigationMenuTriggerStyle()}>
               전체
             </NavigationMenuLink>
@@ -34,9 +34,9 @@ export function Navigation({ navis, width }: { navis: INavi[], width?: string })
           return navi.types.length ?
             <NavigationMenuItem key={navi.cate} className="relative">
               <NavigationMenuTrigger>{navi.menu}</NavigationMenuTrigger>
-              <NavigationMenuContent className="w-full">
+              <NavigationMenuContent className="right-0 left-auto">
                 <ul className="grid gap-3 p-4 grid-cols-4" style={{ width: width ?? '500px' }}>
-                  <ListItem href={`${pathname}?cate=${navi.cate}`} title={`${navi.cate} 전체`}>
+                  <ListItem href={`${pathname}?cate=${navi.cate}`} title={`ALL`}>
                   </ListItem>
                   {navi.types.map(type =>
                     <ListItem key={type.type} href={`${pathname}?cate=${navi.cate}&type=${type.type}`} title={type.title}>

@@ -11,8 +11,8 @@ export default function Layout({
 }>) {
   const navis: INavi[] = [
     {
-      menu: '종로구&중구',
-      cate: '종로구&중구',
+      menu: '종로구,중구',
+      cate: '종로구,중구',
       types: [
         {
           type: '을지로',
@@ -57,8 +57,8 @@ export default function Layout({
       ]
     },
     {
-      menu: '용산&이태원',
-      cate: '용산&이태원',
+      menu: '용산,이태원',
+      cate: '용산,이태원',
       types: [
         {
           type: '용산',
@@ -79,16 +79,16 @@ export default function Layout({
       ]
     },
     {
-      menu: '마포&서대문구',
-      cate: '마포&서대문구',
+      menu: '마포,서대문구',
+      cate: '마포,서대문구',
       types: [
         {
-          type: '합정&망원',
-          title: '합정&망원'
+          type: '합정,망원',
+          title: '합정,망원'
         },
         {
-          type: '연남&연희',
-          title: '연남&연희'
+          type: '연남,연희',
+          title: '연남,연희'
         },
         {
           type: '공덕',
@@ -97,22 +97,22 @@ export default function Layout({
       ]
     },
     {
-      menu: '여의도&영등포',
-      cate: '여의도&영등포',
+      menu: '여의도,영등포',
+      cate: '여의도,영등포',
       types: [
         {
           type: '여의도',
           title: '여의도'
         },
         {
-          type: '영등포&문래',
-          title: '영등포&문래'
+          type: '영등포,문래',
+          title: '영등포,문래'
         },
       ]
     },
     {
-      menu: '강남&서초',
-      cate: '강남&서초',
+      menu: '강남,서초',
+      cate: '강남,서초',
       types: [
         {
           type: '압구정',
@@ -129,12 +129,12 @@ export default function Layout({
       ]
     },
     {
-      menu: '성수&잠실',
-      cate: '성수&잠실',
+      menu: '성수,잠실',
+      cate: '성수,잠실',
       types: [
         {
-          type: '성수&서울숲',
-          title: '성수&서울숲'
+          type: '성수,서울숲',
+          title: '성수,서울숲'
         },
         {
           type: '건대',

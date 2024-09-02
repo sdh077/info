@@ -33,7 +33,7 @@ export default function RootLayout({
           >
             <Link href={'/'}>
               <Button variant={'ghost'}>
-                꿀팁 저장소
+                정보 저장소
               </Button>
             </Link>
             <Link href={'/place'}>
@@ -41,11 +41,11 @@ export default function RootLayout({
                 서울 저장소
               </Button>
             </Link>
-            <Link href={'/restaurant'}>
+            {/* <Link href={'/restaurant'}>
               <Button variant={'ghost'}>
                 서울 맛집
               </Button>
-            </Link>
+            </Link> */}
           </div>
           {children}
         </main>

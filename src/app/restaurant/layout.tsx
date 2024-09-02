@@ -16,7 +16,7 @@ export default function Layout({
       types: [
         {
           type: '1-1',
-          title: '가디, 독산, 금천구청'
+          title: '가디, 독산'
         },
         {
           type: '1-2',
