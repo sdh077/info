@@ -18,7 +18,7 @@ import { usePathname } from "next/navigation"
 
 
 
-export function Navigation({ navis }: { navis: INavi[] }) {
+export function Navigation({ navis, width }: { navis: INavi[], width?: string }) {
   const pathname = usePathname()
   return (
     <NavigationMenu>
@@ -30,22 +30,30 @@ export function Navigation({ navis }: { navis: INavi[] }) {
             </NavigationMenuLink>
           </Link>
         </NavigationMenuItem>
-        {navis.map(navi =>
-          <NavigationMenuItem key={navi.cate}>
-            <NavigationMenuTrigger>{navi.menu}</NavigationMenuTrigger>
-            <NavigationMenuContent>
-              <ul className="grid gap-3 p-6 md:w-[400px] lg:w-[500px] lg:grid-cols-[.75fr_1fr]">
-                <ListItem href={`${pathname}?cate=${navi.cate}`} title={navi.cate}>
-                  {navi.menu} 전체
-                </ListItem>
-                {navi.types.map(type =>
-                  <ListItem key={type.type} href={`${pathname}?cate=${navi.cate}&type=${type.type}`} title={type.type}>
-                    {type.title}
+        {navis.map(navi => {
+          return navi.types.length ?
+            <NavigationMenuItem key={navi.cate} className="relative">
+              <NavigationMenuTrigger>{navi.menu}</NavigationMenuTrigger>
+              <NavigationMenuContent className="w-full">
+                <ul className="grid gap-3 p-4 grid-cols-4" style={{ width: width ?? '500px' }}>
+                  <ListItem href={`${pathname}?cate=${navi.cate}`} title={`${navi.cate} 전체`}>
                   </ListItem>
-                )}
-              </ul>
-            </NavigationMenuContent>
-          </NavigationMenuItem>
+                  {navi.types.map(type =>
+                    <ListItem key={type.type} href={`${pathname}?cate=${navi.cate}&type=${type.type}`} title={type.title}>
+                    </ListItem>
+                  )}
+                </ul>
+              </NavigationMenuContent>
+            </NavigationMenuItem>
+            :
+            <NavigationMenuItem key={navi.cate}>
+              <Link href={`${pathname}?cate=${navi.cate}`} legacyBehavior passHref>
+                <NavigationMenuLink className={navigationMenuTriggerStyle()}>
+                  {navi.menu}
+                </NavigationMenuLink>
+              </Link>
+            </NavigationMenuItem>
+        }
         )}
       </NavigationMenuList>
     </NavigationMenu>
