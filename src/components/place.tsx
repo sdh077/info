@@ -81,16 +81,19 @@ function PlaceImageCarousel({ images }: { images: string[] }) {
       <CarouselContent className='h-[500px]'>
         {images.map(image =>
           <CarouselItem key={image}>
-            <Image src={image}
-              className='rounded-md'
-              width={560}
-              height={560}
-              alt=''
-              style={{
-                height: '100%',
-                objectFit: 'cover'
-              }}
-            />
+            <div className='w-full h-[500px] overflow-hidden relative'>
+              <Image src={image}
+                className='rounded-md'
+                // width={560}
+                // height={560}
+                fill
+                alt=''
+                style={{
+                  height: '100%',
+                  objectFit: 'cover'
+                }}
+              />
+            </div>
           </CarouselItem>
         )}
       </CarouselContent>

@@ -54,6 +54,21 @@ export default async function page({
       timetable: '10:00 ~ 22:00',
       description: '일상을 여행처럼',
       placeLink: 'https://naver.me/FIgqtcS8'
+    },
+    {
+      id: 4,
+      source: "",
+      cate: "강남,서초",
+      type: "압구정",
+      images: ['/image/place/sddler1.jpeg', '/image/place/sddler2.jpeg', '/image/place/sddler3.jpeg'],
+      title: 'SADDLER HAUS',
+      subTitle: '카페,디저트',
+      sns: '@saddlerhaus_bakery',
+      snsLink: 'https://www.instagram.com/saddlerhaus_bakery',
+      location: '가로수길점 : 서울 강남구 도산대로 17길 10, 성수점 : 서울 성동구 성덕정11길 5-12',
+      timetable: '10:00 ~ 19:00',
+      description: 'Eat more pastries',
+      placeLink: 'https://naver.me/FT0knomh'
     }
   ]
   const filterItem = places.filter(item => {

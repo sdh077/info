@@ -28,7 +28,7 @@ export default function RootLayout({
         )}
       >
         <main className="flex min-h-screen flex-col items-center">
-          <div
+          {/* <div
             className="py-4 w-full flex items-center justify-center bg-background text-white"
           >
             <Link href={'/'}>
@@ -41,12 +41,7 @@ export default function RootLayout({
                 서울 저장소
               </Button>
             </Link>
-            {/* <Link href={'/restaurant'}>
-              <Button variant={'ghost'}>
-                서울 맛집
-              </Button>
-            </Link> */}
-          </div>
+          </div> */}
           {children}
         </main>
       </body>
