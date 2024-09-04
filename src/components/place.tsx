@@ -11,8 +11,6 @@ import {
   CarouselPrevious,
 } from "@/components/ui/carousel"
 
-import pky from '@public/image/mood/pky.jpg'
-import pky2 from '@public/image/mood/pky2.jpg'
 import { Pagination, PaginationContent, PaginationItem, PaginationLink } from '@/components/ui/pagination'
 import { cn } from '@/lib/utils'
 import { IPlace } from '@/interface/place'
@@ -86,10 +84,9 @@ function PlaceImageCarousel({ images }: { images: string[] }) {
             <Image src={image}
               className='rounded-md'
               width={560}
-              height={300}
+              height={560}
               alt=''
               style={{
-                objectFit: 'cover',
                 height: '100%'
               }}
             />
@@ -103,7 +100,7 @@ function PlaceImageCarousel({ images }: { images: string[] }) {
         <PaginationContent>
           {Array.from({ length: count }).map((_, i) =>
             <PaginationItem key={i}>
-              <PaginationLink onClick={() => api?.scrollTo(i)}><div className={cn("rounded-full w-1 h-1 p-2", current === i + 1 ? 'bg-primary' : 'bg-[#D9D9D9]')}></div></PaginationLink>
+              <PaginationLink onClick={() => api?.scrollTo(i)}><div className={cn("rounded-full w-1 h-1 p-1", current === i + 1 ? 'bg-primary' : 'bg-[#D9D9D9]')}></div></PaginationLink>
             </PaginationItem>
           )}
         </PaginationContent>
