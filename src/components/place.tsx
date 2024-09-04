@@ -87,7 +87,8 @@ function PlaceImageCarousel({ images }: { images: string[] }) {
               height={560}
               alt=''
               style={{
-                height: '100%'
+                height: '100%',
+                objectFit: 'cover'
               }}
             />
           </CarouselItem>
