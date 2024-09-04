@@ -58,7 +58,7 @@ export function Place({ place }: { place: IPlace }) {
     </div>
   )
 }
-function PlaceImageCarousel({ images }: { images: string[] }) {
+export function PlaceImageCarousel({ images }: { images: string[] }) {
   const [api, setApi] = useState<CarouselApi>()
   const [current, setCurrent] = useState(0)
   const [count, setCount] = useState(0)

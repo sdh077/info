@@ -14,7 +14,7 @@ export interface ICard extends IInfo {
   title: string;
   subTitle: string;
   description: string[];
-  poster: string;
+  poster: string | string[];
 }
 export type IContent = IVideo | ICard;
 export function isVideo(content: IContent): content is IVideo {
