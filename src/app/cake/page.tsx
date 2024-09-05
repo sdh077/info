@@ -12,7 +12,7 @@ import { BsFillStarFill } from "react-icons/bs";
 
 export default function page() {
   return (
-    <div className='p-4'>
+    <div className='p-4 font-family-cake'>
       <h1 className='text-[#FCCB4F] text-4xl'>MyCake</h1>
       <div className='grid grid-cols-1 md:grid-cols-4 gap-1'>
         <CakeCard image={cake4} />

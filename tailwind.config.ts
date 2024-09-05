@@ -20,7 +20,8 @@ const config = {
     },
     extend: {
       fontFamily: {
-        // sans: ["var(--font-sans)", ...fontFamily.sans],
+        sans: ["var(--font-sans)", ...fontFamily.sans],
+        cake: ["var(--font-cake"]
       },
       colors: {
         border: "hsl(var(--border))",
