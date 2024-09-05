@@ -81,7 +81,15 @@
     --chart-3: 30 80% 55%;
     --chart-4: 280 65% 60%;
     --chart-5: 340 75% 55%;
+    --font-sans: 'HakgyoansimDunggeunmisoTTF-B';
   }
+}
+
+@font-face {
+  font-family: 'Uiyeun';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2105@1.1/Uiyeun.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 }
 
 @layer base {
@@ -91,5 +99,6 @@
 
   body {
     @apply bg-background text-foreground;
+    font-family: 'Uiyeun';
   }
 }
