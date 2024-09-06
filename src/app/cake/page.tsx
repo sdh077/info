@@ -3,14 +3,16 @@ import Image, { StaticImageData } from 'next/image'
 
 import { BsFillStarFill } from "react-icons/bs";
 import { Metadata } from 'next'
-import { DrawerDialogDemo } from './components/cakeDetail'
 import { IShop, ICake } from '@/interface/cake'
 import { CakeCard } from './components/cakeCard';
+import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: "MyCake",
   description: "내가 주문한 레터링 케이크 자랑",
 };
+
+
 
 export default function page() {
   const shop: IShop = {

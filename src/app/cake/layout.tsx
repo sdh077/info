@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   description: "내가 주문한 레터링 케이크 자랑",
 };
 
-export default function layout({
+export default function CakeLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;

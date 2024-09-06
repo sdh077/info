@@ -9,6 +9,7 @@ import { Navigation } from "@/components/navigation";
 import { InfoCard } from '@/components/infoCard';
 import { IContent, isVideo, isCard, IVideo } from '@/interface/info';
 import { INavi } from '@/interface/navi';
+import Link from 'next/link';
 
 export default function Home({
   params,
