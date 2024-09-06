@@ -95,6 +95,12 @@ function ProfileForm({ className, cake }: React.ComponentProps<"form"> & { cake:
         <div>{cake.description}</div>
       </div>
       <hr />
+      <div className="flex">
+        <IconWrapper><BsHeart /></IconWrapper>
+        <IconWrapper><BsBookmark /></IconWrapper>
+        <IconWrapper><BsShare /></IconWrapper>
+      </div>
+      <hr />
       <div className='flex items-center justify-between gap-4'>
         <div className='flex items-center gap-4'>
           <div><Image src={'/image/place/sddler2.jpeg'} alt='shop' width={48} height={48} /></div>
@@ -110,12 +116,6 @@ function ProfileForm({ className, cake }: React.ComponentProps<"form"> & { cake:
         <IconWrapper>
           <BsChevronRight />
         </IconWrapper>
-      </div>
-      <hr />
-      <div className="flex h-[50px]">
-        <IconWrapper><BsHeart /></IconWrapper>
-        <IconWrapper><BsBookmark /></IconWrapper>
-        <IconWrapper><BsShare /></IconWrapper>
       </div>
     </div>
   )

@@ -37,7 +37,7 @@ export default function page() {
 }
 
 
-export function InputFile() {
+function InputFile() {
   return (
     <div className="grid w-full max-w-sm items-center gap-1.5 cursor-pointer">
       <Label htmlFor="picture" className='w-[373px] h-[451px] bg-[#E9E9E9] rounded-[32px] flex flex-col gap-4 items-center justify-center text-black relative'>
