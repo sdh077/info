@@ -22,7 +22,7 @@ export default function layout({
   children: React.ReactNode;
 }>) {
   return (
-    <div className='p-4 font-family-cake w-[1080px]'>
+    <div className='p-4 font-family-cake md:w-[1080px]'>
 
       <h1 className='text-[#FCCB4F] text-4xl my-8'>
         <Link href={'/cake'}>

@@ -26,6 +26,7 @@ import { BsHeart, BsBookmark, BsShare, BsChevronRight } from "react-icons/bs";
 import { ICake } from "@/interface/cake"
 import Image from "next/image"
 import IconWrapper from "@/components/IconWrapper"
+import Link from "next/link"
 type ContainerProps<T extends React.ElementType> = {
   as?: T
   className?: string
@@ -48,9 +49,9 @@ export function DrawerDialogDemo<T extends React.ElementType = 'div'>({
           {children}
         </DialogTrigger>
         <DialogContent className="flex w-full max-w-[80vw] h-[80vh]">
-          <div className="max-w-[calc(80vw-64px-64px)] max-h-[calc(80vh-40px)] w-[50%] overflow-hidden">
-            <div className="aspect-square h-full w-full relative flex items-center justify-center">
-              <Image src={cake.image} fill alt="cake" />
+          <div className="max-w-[calc(80vw-64px-64px)] max-h-[calc(80vh-40px)] w-[50%] overflow-hidden flex items-center justify-center">
+            <div className="aspect-square w-full relative flex">
+              <Image src={cake.image} fill alt="cake" className="object-cover" />
             </div>
           </div>
           <ProfileForm cake={cake} />
@@ -65,12 +66,6 @@ export function DrawerDialogDemo<T extends React.ElementType = 'div'>({
         {children}
       </DrawerTrigger>
       <DrawerContent>
-        <DrawerHeader className="text-left ">
-          <DrawerTitle>Edit profile</DrawerTitle>
-          <DrawerDescription>
-            Make changes to your profile here. Click save when you re done.
-          </DrawerDescription>
-        </DrawerHeader>
         <ProfileForm className="px-4" cake={cake} />
         <DrawerFooter className="pt-2">
           <DrawerClose asChild>
@@ -101,7 +96,7 @@ function ProfileForm({ className, cake }: React.ComponentProps<"form"> & { cake:
         <IconWrapper><BsShare /></IconWrapper>
       </div>
       <hr />
-      <div className='flex items-center justify-between gap-4'>
+      <Link href={`/cake/shop/${cake.shop.id}`} className='flex items-center justify-between gap-4 w-full'>
         <div className='flex items-center gap-4'>
           <div><Image src={'/image/place/sddler2.jpeg'} alt='shop' width={48} height={48} /></div>
           <div>
@@ -116,7 +111,7 @@ function ProfileForm({ className, cake }: React.ComponentProps<"form"> & { cake:
         <IconWrapper>
           <BsChevronRight />
         </IconWrapper>
-      </div>
+      </Link>
     </div>
   )
 }

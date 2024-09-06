@@ -12,4 +12,5 @@ export interface ICake {
 export interface IShop {
   id: number;
   title: string;
+  profile: string;
 }

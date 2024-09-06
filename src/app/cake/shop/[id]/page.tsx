@@ -1,18 +1,15 @@
 import React from 'react'
-import Image, { StaticImageData } from 'next/image'
-
-import { BsFillStarFill } from "react-icons/bs";
-import { Metadata } from 'next'
-import { DrawerDialogDemo } from './components/cakeDetail'
+import { CakeCard } from '../../components/cakeCard'
 import { IShop, ICake } from '@/interface/cake'
-import { CakeCard } from './components/cakeCard';
+import Image from 'next/image'
 
-export const metadata: Metadata = {
-  title: "MyCake",
-  description: "내가 주문한 레터링 케이크 자랑",
-};
-
-export default function page() {
+export default function page({
+  params,
+  searchParams,
+}: {
+  params: { id: string }
+  searchParams: { [key: string]: string | string[] | undefined }
+}) {
   const shop: IShop = {
     id: 1,
     title: '루시',
@@ -71,10 +68,19 @@ export default function page() {
     }
   ]
   return (
-    <div className='grid grid-cols-1 md:grid-cols-4 gap-1'>
-      {cakes.map(cake =>
-        <CakeCard cake={cake} key={cake.id} />
-      )}
+    <div>
+      <div className='my-16 flex items-center justify-start gap-16'>
+        <Image src={shop.profile} width={200} height={200} alt='shop profile' className='aspect-square rounded-full object-cover' />
+        <div>
+          <h1 className='text-4xl'>{shop.title}</h1>
+          <div>게시물 <span className='font-semibold'>312</span></div>
+        </div>
+      </div>
+      <div className='grid grid-cols-1 md:grid-cols-4 gap-1'>
+        {cakes.map(cake =>
+          <CakeCard cake={cake} key={cake.id} />
+        )}
+      </div>
     </div>
   )
 }
