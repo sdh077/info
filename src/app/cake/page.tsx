@@ -73,7 +73,7 @@ export default function page() {
     }
   ]
   return (
-    <div className='grid grid-cols-1 md:grid-cols-4 gap-1'>
+    <div className='w-full grid grid-cols-1 px-4 md:grid-cols-4 gap-4'>
       {cakes.map(cake =>
         <CakeCard cake={cake} key={cake.id} />
       )}

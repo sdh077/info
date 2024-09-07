@@ -44,7 +44,7 @@ export function CakeDetail() {
   }
   if (isDesktop) {
     return (
-      <div className="flex w-full max-w-[80vw] h-[80vh] items-center">
+      <div className="flex w-full max-w-[80vw] h-[80vh] items-center gap-8">
         <div className="max-w-[calc(80vw-64px-64px)] max-h-[calc(80vh-40px)] w-[50%] overflow-hidden flex items-center justify-center">
           <div className="aspect-square w-full relative flex">
             <Image src={cake.image} fill alt="cake" className="object-cover" />
@@ -56,21 +56,18 @@ export function CakeDetail() {
   }
 
   return (
-    <div></div>
-    // <DrawerContent>
-    //   <ProfileForm className="px-4" cake={cake} />
-    //   <DrawerFooter className="pt-2">
-    //     <DrawerClose asChild>
-    //       <Button variant="outline">Cancel</Button>
-    //     </DrawerClose>
-    //   </DrawerFooter>
-    // </DrawerContent>
+    <div className="flex flex-col w-full items-center w-full h-full">
+      <div className="aspect-square w-full relative flex">
+        <Image src={cake.image} fill alt="cake" className="object-cover" />
+      </div>
+      <ProfileForm cake={cake} />
+    </div>
   )
 }
 
 function ProfileForm({ className, cake }: React.ComponentProps<"form"> & { cake: ICake }) {
   return (
-    <div className={cn("flex flex-col gap-4 h-full justify-between w-[60vh] max-w-[500px] grow m-8", className)}>
+    <div className={cn("flex flex-col gap-4 h-full justify-between md:w-[60vh] md:max-w-[500px] grow w-full my-8 mx-12", className)}>
       <h1 className="text-xl font-semibold flex gap-2 items-center h-[50px]">
         <Image src={'/image/profile/profile-rec.png'} alt='profile' width={28} height={20} className="rounded-full" />
         {cake.title}

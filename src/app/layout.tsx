@@ -44,8 +44,8 @@ export default function RootLayout({
               </Button>
             </Link>
           </div> */}
-          {children}
           {modal}
+          {children}
           <div id="modal-root" />
         </main>
       </body>

@@ -22,9 +22,9 @@ export default function CakeLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <div className='p-4 font-family-cake md:w-[1080px]'>
+    <div className='m-4 font-family-cake w-full md:w-[1080px]'>
 
-      <h1 className='text-[#FCCB4F] text-4xl my-8'>
+      <h1 className='text-[#FCCB4F] text-4xl my-8 mx-4'>
         <Link href={'/cake'}>
           내가만든케이크
         </Link>

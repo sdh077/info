@@ -1,3 +1,4 @@
+'use client'
 import React from 'react'
 import { ICake, IShop } from '@/interface/cake'
 import { CakeCard } from '@/app/cake/components/cakeCard'
@@ -27,8 +28,62 @@ export default function page({
     shop: shop
   }
   return (
-    <Modal><CakeDetailPage params={{
+    <DrawerDialogDemo><CakeDetailPage params={{
       id: id
-    }} /></Modal>
+    }} /></DrawerDialogDemo>
   )
 }
+
+import { cn } from "@/lib/utils"
+import { useMediaQuery } from "@/hooks/use-media-query"
+import { Button } from "@/components/ui/button"
+import {
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogHeader,
+  DialogTitle,
+  DialogTrigger,
+} from "@/components/ui/dialog"
+import {
+  Drawer,
+  DrawerClose,
+  DrawerContent,
+  DrawerDescription,
+  DrawerFooter,
+  DrawerHeader,
+  DrawerTitle,
+  DrawerTrigger,
+} from "@/components/ui/drawer"
+import { Input } from "@/components/ui/input"
+import { Label } from "@/components/ui/label"
+import { useRouter } from 'next/navigation'
+
+export function DrawerDialogDemo({ children }: { children: React.ReactNode }) {
+  const [open, setOpen] = React.useState(true)
+  const isDesktop = useMediaQuery("(min-width: 768px)")
+  const router = useRouter();
+
+  function onDismiss(open: boolean) {
+    if (!open) router.back();
+    setOpen(open)
+  }
+  if (isDesktop) {
+    return (
+      <Dialog open={open} onOpenChange={onDismiss}>
+        <DialogContent className="m-full">
+          {children}
+        </DialogContent>
+      </Dialog>
+    )
+  }
+
+  return (
+    <Drawer open={open} onOpenChange={onDismiss}>
+      <DrawerContent>
+        {children}
+      </DrawerContent>
+    </Drawer>
+  )
+}
+
