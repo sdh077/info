@@ -21,7 +21,7 @@ import { usePathname } from "next/navigation"
 export function Navigation({ navis, width }: { navis: INavi[], width?: string }) {
   const pathname = usePathname()
   return (
-    <NavigationMenu>
+    <NavigationMenu className="bg-background mb-8 py-2">
       <NavigationMenuList>
         <NavigationMenuItem>
           <Link href={pathname} legacyBehavior passHref>
@@ -36,10 +36,10 @@ export function Navigation({ navis, width }: { navis: INavi[], width?: string })
               <NavigationMenuTrigger>{navi.menu}</NavigationMenuTrigger>
               <NavigationMenuContent className="right-0 left-auto">
                 <ul className="grid gap-3 p-4 grid-cols-4" style={{ width: width ?? '500px' }}>
-                  <ListItem href={`${pathname}?cate=${navi.cate}`} title={`ALL`}>
+                  <ListItem href={`/place?cate=${navi.cate}`} title={`ALL`}>
                   </ListItem>
                   {navi.types.map(type =>
-                    <ListItem key={type.type} href={`${pathname}?cate=${navi.cate}&type=${type.type}`} title={type.title}>
+                    <ListItem key={type.type} href={`/place?cate=${navi.cate}&type=${type.type}`} title={type.title}>
                     </ListItem>
                   )}
                 </ul>
@@ -47,7 +47,7 @@ export function Navigation({ navis, width }: { navis: INavi[], width?: string })
             </NavigationMenuItem>
             :
             <NavigationMenuItem key={navi.cate}>
-              <Link href={`${pathname}?cate=${navi.cate}`} legacyBehavior passHref>
+              <Link href={`/place?cate=${navi.cate}`} legacyBehavior passHref>
                 <NavigationMenuLink className={navigationMenuTriggerStyle()}>
                   {navi.menu}
                 </NavigationMenuLink>

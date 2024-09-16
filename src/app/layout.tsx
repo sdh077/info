@@ -4,6 +4,9 @@ import "./globals.css";
 import { cn } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
+import { Container } from "@/components/Container";
+import FloatingActionButton from "@/components/floatingButton";
+import { FilterStoreProvider } from "@/stores/filter-store-provider";
 
 // const fontSans = FontSans({
 //   subsets: ["latin"],
@@ -16,9 +19,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout({
   children,
-  modal,
 }: Readonly<{
-  modal: React.ReactNode;
   children: React.ReactNode;
 }>) {
   return (
@@ -29,25 +30,12 @@ export default function RootLayout({
           // fontSans.variable
         )}
       >
-        <main className="flex min-h-screen flex-col items-center">
-          {/* <div
-            className="py-4 w-full flex items-center justify-center bg-background text-white"
-          >
-            <Link href={'/'}>
-              <Button variant={'ghost'}>
-                정보 저장소
-              </Button>
-            </Link>
-            <Link href={'/place'}>
-              <Button variant={'ghost'}>
-                서울 저장소
-              </Button>
-            </Link>
-          </div> */}
-          {modal}
-          {children}
-          <div id="modal-root" />
-        </main>
+        <FilterStoreProvider>
+          <div className="flex min-h-screen flex-col">
+            {children}
+            <FloatingActionButton />
+          </div>
+        </FilterStoreProvider>
       </body>
     </html>
   );

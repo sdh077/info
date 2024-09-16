@@ -16,42 +16,45 @@ import { cn } from '@/lib/utils'
 import { IPlace } from '@/interface/place'
 
 
-export function Place({ place }: { place: IPlace }) {
+export function Place({ place, isView }: { place: IPlace, isView: boolean }) {
   return (
-    <div>
-      <div className='rounded-sm grid md:grid-cols-2 gap-8 md:w-[1080px]'>
-        <PlaceImageCarousel images={place.images} />
-        <div className='flex flex-col justify-between gap-8 mx-6 md:mx-0'>
-          <div >
-            <div className='text-3xl font-medium'>{place.title} <span className='text-xs text-[#999] font-regular'>{place.subTitle}</span></div>
-            <div className='border-b mt-4 mb-8' />
-            <div className='flex flex-col gap-2'>
-              {place.snsLink && <span>
-                <Link href={place.snsLink} className='text-[#E0F1FF]'>
-                  {place.sns}
-                </Link>
-              </span>}
-              <div>
-                위치: {place.location}
-              </div>
-              <div>
-                운영시간 : {place.timetable}
-              </div>
-              <div>
-                {place.description}
-              </div>
+    <div className={`rounded-sm grid md:grid-cols-2 gap-8 md:w-[1080px]`}>
+      <PlaceImageCarousel images={place.images} />
+      <div className='flex flex-col justify-between gap-8 mx-6 md:mx-0'>
+        <div >
+          <div className='text-3xl font-medium'>{place.title} <span className='text-xs text-[#999] font-regular'>{place.subTitle}</span></div>
+          <div className='border-b mt-4 mb-8' />
+          <div className='flex flex-col gap-2'>
+            {place.snsLink && <span>
+              <Link href={place.snsLink} className='text-[#E0F1FF]'>
+                {place.sns}
+              </Link>
+            </span>}
+            <div>
+              위치: {place.location}
+            </div>
+            <div>
+              운영시간 : {place.timetable}
+            </div>
+            <div>
+              {place.description}
             </div>
           </div>
-          <div className='flex items-center justify-between gap-2'>
-            <Link href={place.placeLink}
-              className='flex items-center justify-center h-9 w-full cursor-pointer rounded-md'
-              style={{ border: '1px solid rgb(221, 221, 221)' }}
-            >방문
-            </Link>
-            <div className='flex items-center justify-center h-9 w-full cursor-pointer rounded-md'
-              style={{ border: '1px solid rgb(221, 221, 221)' }}
-            >저장
-            </div>
+        </div>
+        <div className='flex items-center justify-between gap-2'>
+          <Link href={`/place/${place.id}`}
+            className='flex items-center justify-center h-9 w-full cursor-pointer rounded-md'
+            style={{ border: '1px solid rgb(221, 221, 221)' }}
+          >상세
+          </Link>
+          <Link href={place.placeLink}
+            className='flex items-center justify-center h-9 w-full cursor-pointer rounded-md'
+            style={{ border: '1px solid rgb(221, 221, 221)' }}
+          >방문
+          </Link>
+          <div className='flex items-center justify-center h-9 w-full cursor-pointer rounded-md'
+            style={{ border: '1px solid rgb(221, 221, 221)' }}
+          >저장
           </div>
         </div>
       </div>

@@ -10,4 +10,5 @@ export interface IPlace extends IInfo {
   timetable: string;
   description: string;
   placeLink: string;
+  categories: number[];
 }
