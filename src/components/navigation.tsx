@@ -24,7 +24,7 @@ export function Navigation({ navis, width }: { navis: INavi[], width?: string })
     <NavigationMenu className="bg-background mb-8 py-2">
       <NavigationMenuList>
         <NavigationMenuItem>
-          <Link href={pathname} legacyBehavior passHref>
+          <Link href={'/place'} legacyBehavior passHref>
             <NavigationMenuLink className={navigationMenuTriggerStyle()}>
               전체
             </NavigationMenuLink>
