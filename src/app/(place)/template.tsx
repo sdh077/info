@@ -5,21 +5,22 @@ import { INavi } from '@/interface/navi';
 import { Container } from '@/components/Container';
 import navis from './navis.json'
 import { MobileNavigation } from '@/components/mobilte-navigation';
+import Link from 'next/link';
 
-export default function Layout({
+export default function Template({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
   return (
     <div>
-      <div className='md:hidden block'>
+      <div className='md:hidden block sticky top-0 z-50 bg-background'>
         <MobileNavigation navis={navis} />
       </div>
       <Container className="my-8 hidden md:block">
-        <div className='text-4xl'>
-          INFO
-        </div>
+        <Link href={'/'} className='text-4xl'>
+          The Place
+        </Link>
       </Container>
       <div className='sticky top-0 z-10'
       >

@@ -109,23 +109,43 @@
   {
     "id": 6,
     "source": "",
-    "cate": "강남,서초",
-    "type": "압구정",
+    "cate": "종로구,중구",
+    "type": "서촌",
     "images": [
-      "/image/place/sddler1.jpeg",
-      "/image/place/sddler2.jpeg",
-      "/image/place/sddler3.jpeg"
+      "/image/place/go1.jpg",
+      "/image/place/go2.jpg"
     ],
-    "title": "SADDLER HAUS",
-    "subTitle": "카페,디저트",
-    "sns": "@saddlerhaus_bakery",
-    "snsLink": "https://www.instagram.com/saddlerhaus_bakery",
-    "location": "가로수길점 : 서울 강남구 도산대로 17길 10, 성수점 : 서울 성동구 성덕정11길 5-12",
-    "timetable": "10:00 ~ 19:00",
-    "description": "Eat more pastries",
-    "placeLink": "https://naver.me/FT0knomh",
+    "title": "고트델리",
+    "subTitle": "샌드위치",
+    "sns": "@goattdeli",
+    "snsLink": "https://www.instagram.com/goattdeli",
+    "location": "서울 종로구 누하동 100",
+    "timetable": "11:30-21:00 / Last order 20:00",
+    "description": "GOATT DELICATESSEN",
+    "placeLink": "https://naver.me/FxLoAK2g",
     "categories": [
-      3
+      1
+    ]
+  },
+  {
+    "id": 7,
+    "source": "",
+    "cate": "종로구,중구",
+    "type": "서촌",
+    "images": [
+      "/image/place/daeo.jpg"
+    ],
+    "title": "대오서점",
+    "subTitle": "카페",
+    "sns": "@goattdeli",
+    "snsLink": "https://www.instagram.com/explore/locations/593933610/",
+    "location": "서울 종로구 자하문로7길 55",
+    "timetable": "12:00 - 21:00",
+    "description": "",
+    "placeLink": "https://naver.me/xTeSaooG",
+    "categories": [
+      1,
+      2
     ]
   }
 ]

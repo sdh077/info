@@ -31,10 +31,10 @@ export default function RootLayout({
         )}
       >
         <FilterStoreProvider>
-          <div className="flex min-h-screen flex-col">
+          <Container className="flex min-h-screen flex-col">
             {children}
             <FloatingActionButton />
-          </div>
+          </Container>
         </FilterStoreProvider>
       </body>
     </html>

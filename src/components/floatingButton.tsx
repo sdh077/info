@@ -1,19 +1,20 @@
 'use client'
 
 import { useState } from 'react'
-import { Plus, X, Bell, Settings, User } from 'lucide-react'
+import { Plus, X } from 'lucide-react'
 import { Button } from "@/components/ui/button"
-import { useFilterStore } from '@/stores/filter-store-provider'
-
+import { FilterState } from '@/lib/constants'
+import { revalidateTag } from 'next/cache';
+import { cn } from '@/lib/utils';
+import Cookies from 'js-cookie'
+import cookieSet from '@/app/actions'
 export default function FloatingActionButton() {
   const [isOpen, setIsOpen] = useState(false)
-  const { items, changeState } = useFilterStore(state => state);
-
-  const toggleButtons = [
-    { icon: Bell, label: '알림' },
-    { icon: Settings, label: '설정' },
-    { icon: User, label: '프로필' },
-  ]
+  const handleState = (value: string) => {
+    cookieSet('pfs', value)
+    setIsOpen(false);
+  }
+  const pfs = Number(Cookies.get('pfs') ?? '0');
 
   return (
     <div className="fixed bottom-6 right-6 flex flex-col-reverse items-end space-y-4 space-y-reverse">
@@ -26,26 +27,26 @@ export default function FloatingActionButton() {
         {isOpen ? (
           <X className="h-6 w-6" />
         ) : (
-          <Plus className="h-6 w-6" />
+          pfs === 0 ? <Plus className="h-6 w-6" /> : FilterState[pfs].name
         )}
         <span className="sr-only">토글 메뉴</span>
       </Button>
       {isOpen && (
-        <div className="flex flex-col space-y-2">
-          {items.map((item, index) => (
+        <div className="flex gap-2">
+          {FilterState.map((item, index) => (
             <Button
               key={index}
               variant="outline"
               size="icon"
-              className="transition-all duration-200 ease-in-out w-full"
+              className={cn("transition-all duration-200 ease-in-out w-16", item.id === pfs ? 'text-black bg-gray-200' : '')}
               style={{
                 transform: `translateY(${isOpen ? '0' : '20px'})`,
                 opacity: isOpen ? 1 : 0,
                 transitionDelay: `${index * 50}ms`
               }}
-              onClick={() => changeState({ ...item, isUse: !item.isUse })}
+              onClick={() => handleState(item.id.toString())}
             >
-              <span className={item.isUse ? '' : 'text-gray'}>{item.name}</span>
+              <span>{item.name}</span>
             </Button>
           ))}
         </div>

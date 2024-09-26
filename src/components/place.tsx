@@ -18,8 +18,7 @@ import { IPlace } from '@/interface/place'
 
 export function Place({ place, isView }: { place: IPlace, isView: boolean }) {
   return (
-    <div className={`rounded-sm grid md:grid-cols-2 gap-8 md:w-[1080px]`}>
-      <PlaceImageCarousel images={place.images} />
+    <div className={`rounded-sm grid md:grid-cols-3 gap-8 md:w-[1080px] mx-auto my-8`}>
       <div className='flex flex-col justify-between gap-8 mx-6 md:mx-0'>
         <div >
           <div className='text-3xl font-medium'>{place.title} <span className='text-xs text-[#999] font-regular'>{place.subTitle}</span></div>
@@ -42,7 +41,7 @@ export function Place({ place, isView }: { place: IPlace, isView: boolean }) {
           </div>
         </div>
         <div className='flex items-center justify-between gap-2'>
-          <Link href={`/place/${place.id}`}
+          <Link href={`/${place.id}`}
             className='flex items-center justify-center h-9 w-full cursor-pointer rounded-md'
             style={{ border: '1px solid rgb(221, 221, 221)' }}
           >상세
@@ -58,6 +57,7 @@ export function Place({ place, isView }: { place: IPlace, isView: boolean }) {
           </div>
         </div>
       </div>
+      <PlaceImageCarousel images={place.images} />
     </div>
   )
 }
@@ -80,7 +80,7 @@ export function PlaceImageCarousel({ images }: { images: string[] }) {
   }, [api])
 
   return (
-    <Carousel setApi={setApi} className=''>
+    <Carousel setApi={setApi} className='col-span-2'>
       <CarouselContent className='h-[500px]'>
         {images.map(image =>
           <CarouselItem key={image}>

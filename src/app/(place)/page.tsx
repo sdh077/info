@@ -21,9 +21,7 @@ export default async function page({
     <Container className=''>
       {!searchParams.type ?
         <Tile places={filterItem} /> :
-        <div className='grid grid-cols-1 gap-16'>
-          <PlaceBox places={filterItem} />
-        </div>
+        <PlaceBox places={filterItem} />
       }
     </Container>
   )

@@ -18,6 +18,7 @@ import { cn } from "@/lib/utils"
 import Link, { LinkProps } from "next/link"
 import { useRouter } from "next/navigation"
 import { useState } from "react"
+import { ScrollArea } from "./scroll-area"
 
 
 
@@ -65,7 +66,7 @@ export function MobileNavigationUl({ navis }: { navis: INavi[] }) {
             <SheetDescription>
             </SheetDescription>
           </SheetHeader>
-          <div className="flex flex-col space-y-2">
+          <ScrollArea className="flex flex-col space-y-2 h-[calc(100vh-8rem)] ">
             {navis.map((navi, index) => (
               <div key={index} className="flex flex-col space-y-3 pt-6">
                 <h4 className="font-medium text-base">{navi.menu}</h4>
@@ -86,10 +87,9 @@ export function MobileNavigationUl({ navis }: { navis: INavi[] }) {
                 )}
               </div>
             ))}
-          </div>
+          </ScrollArea>
           <SheetFooter>
             <SheetClose asChild>
-              <Button type="submit">Save changes</Button>
             </SheetClose>
           </SheetFooter>
         </SheetContent>
