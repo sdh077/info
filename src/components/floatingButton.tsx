@@ -31,26 +31,25 @@ export default function FloatingActionButton() {
         )}
         <span className="sr-only">토글 메뉴</span>
       </Button>
-      {isOpen && (
-        <div className="flex gap-2">
-          {FilterState.map((item, index) => (
-            <Button
-              key={index}
-              variant="outline"
-              size="icon"
-              className={cn("transition-all duration-200 ease-in-out w-16", item.id === pfs ? 'text-black bg-gray-200' : '')}
-              style={{
-                transform: `translateY(${isOpen ? '0' : '20px'})`,
-                opacity: isOpen ? 1 : 0,
-                transitionDelay: `${index * 50}ms`
-              }}
-              onClick={() => handleState(item.id.toString())}
-            >
-              <span>{item.name}</span>
-            </Button>
-          ))}
-        </div>
-      )}
+
+      <div className="flex gap-2 scale-up-center" style={{ opacity: isOpen ? '1' : '0' }}>
+        {FilterState.map((item, index) => (
+          <Button
+            key={index}
+            variant="outline"
+            size="icon"
+            className={cn("transition-all duration-200 ease-in-out w-16", item.id === pfs ? 'text-black bg-gray-200' : '')}
+            style={{
+              transform: `translateY(${isOpen ? '0' : '20px'})`,
+              opacity: isOpen ? 1 : 0,
+              transitionDelay: `${index * 50}ms`
+            }}
+            onClick={() => handleState(item.id.toString())}
+          >
+            <span>{item.name}</span>
+          </Button>
+        ))}
+      </div>
     </div>
   )
 }

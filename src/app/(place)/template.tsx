@@ -17,11 +17,11 @@ export default function Template({
       <div className='md:hidden block sticky top-0 z-50 bg-background'>
         <MobileNavigation navis={navis} />
       </div>
-      <Container className="my-8 hidden md:block">
+      <div className="my-8 hidden md:block">
         <Link href={'/'} className='text-4xl'>
           The Place
         </Link>
-      </Container>
+      </div>
       <div className='sticky top-0 z-10'
       >
         <div className='bg-background w-full hidden md:block'>

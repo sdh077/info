@@ -2,8 +2,9 @@ import { Container } from "@/components/Container";
 import IconWrapper from "@/components/IconWrapper";
 import { IPlace } from "@/interface/place";
 import Image from "next/image";
-import { BsCardText, BsGeoAlt, BsHeart, BsInstagram, BsPeople, BsShare, BsTable } from "react-icons/bs";
+import { BsCardText, BsGeoAlt, BsHeart, BsInstagram, BsMap, BsPeople, BsShare, BsTable } from "react-icons/bs";
 import places from '../place.json'
+import Link from "next/link";
 
 
 export default async function page({
@@ -24,7 +25,8 @@ export default async function page({
             <h4 className="text-gray">{place.cate} / {place.type}</h4>
           </div>
           <div className="flex gap-4">
-            <IconWrapper><BsInstagram /></IconWrapper>
+            <Link href={place.placeLink} target="_blank"><IconWrapper><BsMap /></IconWrapper></Link>
+            {place.snsLink && <Link href={place.snsLink} target="_blank"><IconWrapper><BsInstagram /></IconWrapper></Link>}
             <IconWrapper><BsShare /></IconWrapper>
           </div>
         </header>

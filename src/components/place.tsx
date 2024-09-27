@@ -47,9 +47,10 @@ export function Place({ place, isView }: { place: IPlace, isView: boolean }) {
           >상세
           </Link>
           <Link href={place.placeLink}
+            target='_blank'
             className='flex items-center justify-center h-9 w-full cursor-pointer rounded-md'
             style={{ border: '1px solid rgb(221, 221, 221)' }}
-          >방문
+          >지도
           </Link>
           <div className='flex items-center justify-center h-9 w-full cursor-pointer rounded-md'
             style={{ border: '1px solid rgb(221, 221, 221)' }}
