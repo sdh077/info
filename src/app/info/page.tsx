@@ -19,8 +19,9 @@ export default function Home({
 }) {
   const navis: INavi[] = [
     {
+      id: 1,
       menu: '주문',
-      cate: 'order',
+      cate: ['order'],
       types: [
         {
           type: 'starbucks',
@@ -29,8 +30,9 @@ export default function Home({
       ]
     },
     {
+      id: 2,
       menu: '건강',
-      cate: 'health',
+      cate: ['health'],
       types: [
         {
           type: 'exercise',
@@ -43,8 +45,9 @@ export default function Home({
       ]
     },
     {
+      id: 3,
       menu: '요리',
-      cate: 'food',
+      cate: ['food'],
       types: [
         {
           type: 'diet',

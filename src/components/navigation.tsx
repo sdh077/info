@@ -46,7 +46,7 @@ export function Navigation({ navis, width }: { navis: INavi[], width?: string })
           //     </NavigationMenuContent>
           //   </NavigationMenuItem>
           // :
-          return <NavigationMenuItem key={navi.cate}>
+          return <NavigationMenuItem key={navi.id}>
             <Link href={`/?cate=${navi.id}`} legacyBehavior passHref>
               <NavigationMenuLink className={navigationMenuTriggerStyle()}>
                 {navi.menu}

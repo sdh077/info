@@ -5,6 +5,6 @@ export interface INaviType {
 export interface INavi {
   id: number;
   menu: string;
-  cate: string;
+  cate: string[];
   types: INaviType[];
 }
