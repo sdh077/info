@@ -41,7 +41,7 @@ export function Place({ place, isView }: { place: IPlace, isView: boolean }) {
           </div>
         </div>
         <div className='flex items-center justify-between gap-2'>
-          <Link href={`/${place.id}`}
+          <Link href={`/place/${place.id}`}
             className='flex items-center justify-center h-9 w-full cursor-pointer rounded-md'
             style={{ border: '1px solid rgb(221, 221, 221)' }}
           >상세

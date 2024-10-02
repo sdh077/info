@@ -3,7 +3,7 @@ import IconWrapper from "@/components/IconWrapper";
 import { IPlace } from "@/interface/place";
 import Image from "next/image";
 import { BsCardText, BsGeoAlt, BsHeart, BsInstagram, BsMap, BsPeople, BsShare, BsTable } from "react-icons/bs";
-import places from '../../place.json'
+import places from '../../place2.json'
 import Link from "next/link";
 
 
@@ -14,7 +14,23 @@ export default async function page({
   params: { id: string }
   searchParams: { [key: string]: string | string[] | undefined }
 }) {
-  const place: IPlace = places.find(place => place.id === Number(params.id)) ?? places[0]
+  const placeFind = places.find(place => place.sid === params.id) ?? places[0]
+  const place = {
+    id: Number(placeFind.sid),
+    source: '',
+    cate: placeFind.address.split(' ')[1],
+    type: '',
+    images: ["/image/place2/" + placeFind.sid + ".jpg", `/image/place2/${placeFind.sid}.jpg`],
+    title: placeFind.name,
+    subTitle: placeFind.mcidName,
+    sns: '',
+    snsLink: '',
+    location: placeFind.address,
+    timetable: '',
+    description: placeFind.placeInfo.category,
+    placeLink: `https://map.naver.com/p/entry/place/${placeFind.sid}`,
+    categories: []
+  }
   const box = 'w-5/6 mx-auto md:w-[300px] md:h-[300px] bg-black flex justify-center items-center flex-col p-4'
   return (
     <div>

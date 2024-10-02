@@ -81,47 +81,6 @@
     "isIndoor": true
   },
   {
-    "bookmarkId": 2104894637,
-    "name": "호텔 나루 서울 엠갤러리",
-    "displayName": "",
-    "px": 126.9442803,
-    "py": 37.5374497,
-    "type": "place",
-    "useTime": 1726446752000,
-    "lastUpdateTime": 1726446752000,
-    "creationTime": 1726446752000,
-    "order": 65535,
-    "sid": "1923905766",
-    "address": "서울 마포구 마포대로 8",
-    "memo": null,
-    "url": null,
-    "mcid": "ACCOMMODATION",
-    "mcidName": "숙박",
-    "rcode": "09440107",
-    "cidPath": [
-      "221941",
-      "221942",
-      "222293"
-    ],
-    "available": true,
-    "folderMappings": null,
-    "placeInfo": {
-      "streetPanorama": {
-        "id": "xTB7cEfWNASQUmSD0l6jAg==",
-        "pan": "-176.67",
-        "tilt": "10.00",
-        "lng": "126.9442898",
-        "lat": "37.5376073",
-        "fov": "120"
-      },
-      "thumbnailUrls": [
-        "https://ldb-phinf.pstatic.net/20240912_278/17261179792554eHEn_JPEG/HotelNaruSeoul_MGallery_Exterior_Night_low.jpg"
-      ],
-      "category": "호텔"
-    },
-    "isIndoor": true
-  },
-  {
     "bookmarkId": 2092775558,
     "name": "오키드고멧 안국",
     "displayName": "",
