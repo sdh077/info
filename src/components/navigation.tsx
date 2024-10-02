@@ -31,28 +31,28 @@ export function Navigation({ navis, width }: { navis: INavi[], width?: string })
           </Link>
         </NavigationMenuItem>
         {navis.map(navi => {
-          return navi.types.length ?
-            <NavigationMenuItem key={navi.cate} className="relative">
-              <NavigationMenuTrigger>{navi.menu}</NavigationMenuTrigger>
-              <NavigationMenuContent className="right-0 left-auto">
-                <ul className="grid gap-3 p-4 grid-cols-4" style={{ width: width ?? '500px' }}>
-                  <ListItem href={`/?cate=${navi.cate}`} title={`ALL`}>
-                  </ListItem>
-                  {navi.types.map(type =>
-                    <ListItem key={type.type} href={`/?cate=${navi.cate}&type=${type.type}`} title={type.title}>
-                    </ListItem>
-                  )}
-                </ul>
-              </NavigationMenuContent>
-            </NavigationMenuItem>
-            :
-            <NavigationMenuItem key={navi.cate}>
-              <Link href={`/?cate=${navi.cate}`} legacyBehavior passHref>
-                <NavigationMenuLink className={navigationMenuTriggerStyle()}>
-                  {navi.menu}
-                </NavigationMenuLink>
-              </Link>
-            </NavigationMenuItem>
+          // return navi.types.length ?
+          //   <NavigationMenuItem key={navi.cate} className="relative">
+          //     <NavigationMenuTrigger>{navi.menu}</NavigationMenuTrigger>
+          //     <NavigationMenuContent className="right-0 left-auto">
+          //       <ul className="grid gap-3 p-4 grid-cols-4" style={{ width: width ?? '500px' }}>
+          //         <ListItem href={`/?cate=${navi.id}`} title={`ALL`}>
+          //         </ListItem>
+          //         {navi.types.map(type =>
+          //           <ListItem key={type.type} href={`/?cate=${navi.id}&type=${type.type}`} title={type.title}>
+          //           </ListItem>
+          //         )}
+          //       </ul>
+          //     </NavigationMenuContent>
+          //   </NavigationMenuItem>
+          // :
+          return <NavigationMenuItem key={navi.cate}>
+            <Link href={`/?cate=${navi.id}`} legacyBehavior passHref>
+              <NavigationMenuLink className={navigationMenuTriggerStyle()}>
+                {navi.menu}
+              </NavigationMenuLink>
+            </Link>
+          </NavigationMenuItem>
         }
         )}
       </NavigationMenuList>

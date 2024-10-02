@@ -7,7 +7,7 @@ const nextConfig = {
         hostname: 'search.pstatic.net',
         port: '',
         pathname: '/**',
-      },
+      }
     ],
   },
 };

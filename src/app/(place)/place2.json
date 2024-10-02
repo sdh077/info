@@ -1,0 +1,7048 @@
+[
+  {
+    "bookmarkId": 2106175478,
+    "name": "업스탠딩",
+    "displayName": "",
+    "px": 126.984968,
+    "py": 37.5449601,
+    "type": "place",
+    "useTime": 1726469751000,
+    "lastUpdateTime": 1726469751000,
+    "creationTime": 1726469750000,
+    "order": 65535,
+    "sid": "1681935587",
+    "address": "서울 용산구 신흥로 99-11",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09170102",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221212"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "s3MOB9dyp6XO2J0OJkde+g==",
+        "pan": "67.55",
+        "tilt": "10.00",
+        "lng": "126.9849274",
+        "lat": "37.5449433",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "http://blogfiles.naver.net/MjAyMzEyMDJfMjM4/MDAxNzAxNDczMDEzOTAz.R5_XLhea6AP16Pzb9pWwW0H3CpW1QxDEJ1Nf9_z_31cg.pGrG6ktDuT5vC70rex3mWTVck-kKx-lgcJKUjkAlGgUg.JPEG.soaql1219/IMG_1443.jpg#900x1200"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 2105452197,
+    "name": "콘하스 ddp점",
+    "displayName": "",
+    "px": 127.0068049,
+    "py": 37.5638522,
+    "type": "place",
+    "useTime": 1726456310000,
+    "lastUpdateTime": 1726456310000,
+    "creationTime": 1726456309000,
+    "order": 65535,
+    "sid": "1123371020",
+    "address": "서울 중구 장충단로 215",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09140146",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "MN6kw/KmazLHxLE868T4vQ==",
+        "pan": "147.84",
+        "tilt": "10.00",
+        "lng": "127.0066754",
+        "lat": "37.5640576",
+        "fov": "120"
+      },
+      "thumbnailUrls": [],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 2104894637,
+    "name": "호텔 나루 서울 엠갤러리",
+    "displayName": "",
+    "px": 126.9442803,
+    "py": 37.5374497,
+    "type": "place",
+    "useTime": 1726446752000,
+    "lastUpdateTime": 1726446752000,
+    "creationTime": 1726446752000,
+    "order": 65535,
+    "sid": "1923905766",
+    "address": "서울 마포구 마포대로 8",
+    "memo": null,
+    "url": null,
+    "mcid": "ACCOMMODATION",
+    "mcidName": "숙박",
+    "rcode": "09440107",
+    "cidPath": [
+      "221941",
+      "221942",
+      "222293"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "xTB7cEfWNASQUmSD0l6jAg==",
+        "pan": "-176.67",
+        "tilt": "10.00",
+        "lng": "126.9442898",
+        "lat": "37.5376073",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240912_278/17261179792554eHEn_JPEG/HotelNaruSeoul_MGallery_Exterior_Night_low.jpg"
+      ],
+      "category": "호텔"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 2092775558,
+    "name": "오키드고멧 안국",
+    "displayName": "",
+    "px": 126.9891377,
+    "py": 37.5791065,
+    "type": "place",
+    "useTime": 1726204571000,
+    "lastUpdateTime": 1726204571000,
+    "creationTime": 1726204571000,
+    "order": 65535,
+    "sid": "1414582523",
+    "address": "서울 종로구 창덕궁길 35",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09110149",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "S/zwbhHKUsf26D3aVJLWlw==",
+        "pan": "-71.66",
+        "tilt": "10.00",
+        "lng": "126.9892608",
+        "lat": "37.5790656",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20230602_155/1685665881518EfPxL_JPEG/3.jpg",
+        "https://ldb-phinf.pstatic.net/20240503_224/1714703508972SuLpk_JPEG/KakaoTalk_20240222_112234527.jpg",
+        "https://ldb-phinf.pstatic.net/20230602_70/1685665884895pbt1e_JPEG/2.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 2089387434,
+    "name": "콤파일",
+    "displayName": "",
+    "px": 126.9163779,
+    "py": 37.5540011,
+    "type": "place",
+    "useTime": 1726137295000,
+    "lastUpdateTime": 1726137295000,
+    "creationTime": 1726137294000,
+    "order": 65535,
+    "sid": "1049314421",
+    "address": "서울 마포구 잔다리로 73",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09440120",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "koYHz69j498DRietT9kTrg==",
+        "pan": "-127.88",
+        "tilt": "10.00",
+        "lng": "126.9165468",
+        "lat": "37.5541322",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20230630_294/1688061072029tuOaK_JPEG/20230334_%B0%F8%B0%A3%C1%F6%C8%C6_%C4%DE%C6%C4%C0%CF_69.jpeg",
+        "https://ldb-phinf.pstatic.net/20231109_237/1699508236375sKMv0_JPEG/IMG_6413.jpeg",
+        "https://ldb-phinf.pstatic.net/20230606_77/1685985824039GhWLc_JPEG/IMG_5630.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 2080220064,
+    "name": "브루클린커피",
+    "displayName": "",
+    "px": 126.9831484,
+    "py": 37.5668243,
+    "type": "place",
+    "useTime": 1725945994000,
+    "lastUpdateTime": 1725945994000,
+    "creationTime": 1725945994000,
+    "order": 65535,
+    "sid": "1460968982",
+    "address": "서울 중구 남대문로10길 6",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09140108",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "+Pg+eY74foPYbpFAn4+O3Q==",
+        "pan": "92.84",
+        "tilt": "10.00",
+        "lng": "126.9828295",
+        "lat": "37.5668399",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240328_169/1711587808689pF1Sj_JPEG/KakaoTalk_20240327_143044004_03.jpg",
+        "https://ldb-phinf.pstatic.net/20240407_21/1712417076543wefoC_JPEG/1712417056074.jpg",
+        "https://ldb-phinf.pstatic.net/20240407_52/1712417100128uBLYH_JPEG/20240328_135214.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 2051254074,
+    "name": "커피사는세상",
+    "displayName": "",
+    "px": 126.9889311,
+    "py": 37.5810174,
+    "type": "place",
+    "useTime": 1725344672000,
+    "lastUpdateTime": 1725344672000,
+    "creationTime": 1725344671000,
+    "order": 65535,
+    "sid": "1657702588",
+    "address": "서울 종로구 창덕궁길 73",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09110149",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "GQFkNcF29jLP/eJBCQY31Q==",
+        "pan": "-69.40",
+        "tilt": "10.00",
+        "lng": "126.9892790",
+        "lat": "37.5808864",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20230110_220/1673341552800wRrD2_JPEG/1.jpg",
+        "https://ldb-phinf.pstatic.net/20230110_50/1673341552746N8c4t_JPEG/2.jpg",
+        "https://ldb-phinf.pstatic.net/20230110_177/16733415527940BRo1_JPEG/3.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 2050407055,
+    "name": "에어드랍커피 성수",
+    "displayName": "",
+    "px": 127.0544868,
+    "py": 37.544177,
+    "type": "place",
+    "useTime": 1725327322000,
+    "lastUpdateTime": 1725327322000,
+    "creationTime": 1725327322000,
+    "order": 65535,
+    "sid": "1553249208",
+    "address": "서울 성동구 연무장7길 13",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09200115",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "UwfFlyLjOr3O2cyKi4LYxQ==",
+        "pan": "-154.68",
+        "tilt": "10.00",
+        "lng": "127.0545792",
+        "lat": "37.5443716",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://naverbooking-phinf.pstatic.net/20240723_274/1721707044125URqHT_JPEG/image_%289%29.jpg",
+        "https://ldb-phinf.pstatic.net/20240613_153/17182399355476B9gl_JPEG/057A0828_%282%29.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 2024857821,
+    "name": "콤포트",
+    "displayName": "",
+    "px": 126.9833092,
+    "py": 37.5494047,
+    "type": "place",
+    "useTime": 1724773061000,
+    "lastUpdateTime": 1724773061000,
+    "creationTime": 1724773060000,
+    "order": 65535,
+    "sid": "1540168051",
+    "address": "서울 용산구 ",
+    "memo": null,
+    "url": null,
+    "mcid": "GENERAL",
+    "mcidName": "일반",
+    "rcode": "09170101",
+    "cidPath": [
+      "225111",
+      "225129",
+      "225316",
+      "225950"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "xgyuyQC5Y9mnEN/VvXkX1w==",
+        "pan": "64.48",
+        "tilt": "26.13",
+        "lng": "126.9831430",
+        "lat": "37.5493780",
+        "fov": "80"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20220616_60/1655305738552lJJVl_JPEG/001.jpg",
+        "https://ldb-phinf.pstatic.net/20220616_29/1655305738232jPJPo_JPEG/002.JPG",
+        "https://ldb-phinf.pstatic.net/20220616_176/1655305738691DdvMU_JPEG/003.jpg"
+      ],
+      "category": "전시,행사대행"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 2016551158,
+    "name": "히즈빈스 성수점",
+    "displayName": "",
+    "px": 127.0468637,
+    "py": 37.5430785,
+    "type": "place",
+    "useTime": 1724593103000,
+    "lastUpdateTime": 1724593103000,
+    "creationTime": 1724593102000,
+    "order": 65535,
+    "sid": "1103507675",
+    "address": "서울 성동구 왕십리로2길 20",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09200114",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221352"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "DHkhLg/riq3GjRXbpoUNHg==",
+        "pan": "128.70",
+        "tilt": "4.56",
+        "lng": "127.0467255",
+        "lat": "37.5431846",
+        "fov": "40"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20200316_285/1584339445754t4Tx6_JPEG/6HdE2Aw72Uq3fW5hXlb5xd9Q.jpg",
+        "https://ldb-phinf.pstatic.net/20210305_162/1614940661708QPfuB_JPEG/%C7%DA%B5%E5%B5%E5%B8%B31.jpg",
+        "https://ldb-phinf.pstatic.net/20200316_236/1584339421237VNVeO_JPEG/kEYFdk_JcVOnr6b7cKcBg-Qs.jpg"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1980241072,
+    "name": "디벙크",
+    "displayName": "",
+    "px": 126.915129,
+    "py": 37.547935,
+    "type": "place",
+    "useTime": 1723811726000,
+    "lastUpdateTime": 1723811726000,
+    "creationTime": 1723811725000,
+    "order": 65535,
+    "sid": "1141833339",
+    "address": "서울 마포구 성지1길 30",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09440122",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "gxf3qVpHwP6NS2/Ou7AXuA==",
+        "pan": "-122.67",
+        "tilt": "1.31",
+        "lng": "126.9149100",
+        "lat": "37.5480648",
+        "fov": "80"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20230101_74/1672567748243qvL8e_JPEG/2BE732CB-0F38-4A39-8631-F083D6D72080.jpeg",
+        "https://ldb-phinf.pstatic.net/20201014_80/1602661865804H931s_JPEG/6dnqBeaI2aeqkWcHqVtCZCcE.jpg",
+        "https://ldb-phinf.pstatic.net/20201014_103/16026588038008bJdS_JPEG/RBtduHDyEcrXBzIRMUvuqWP-.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1942956205,
+    "name": "어트랙트커피",
+    "displayName": "",
+    "px": 126.9401728,
+    "py": 37.4846496,
+    "type": "place",
+    "useTime": 1722989521000,
+    "lastUpdateTime": 1722989521000,
+    "creationTime": 1722989520000,
+    "order": 65535,
+    "sid": "1012674165",
+    "address": "서울 관악구 봉천로31길 35",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09620101",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "fBzCOQaNziOqglc337Tg9g==",
+        "pan": "105.79",
+        "tilt": "10.00",
+        "lng": "126.9400720",
+        "lat": "37.4846780",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240703_98/1719996954262cSkWN_JPEG/_MG_2748.JPG",
+        "https://ldb-phinf.pstatic.net/20240703_170/1719997035886lrpep_JPEG/KakaoTalk_20240703_172630087_02.jpg",
+        "https://ldb-phinf.pstatic.net/20240703_200/1719997063938WWE1a_JPEG/KakaoTalk_20240703_172630087_01.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1935697116,
+    "name": "정동전망대",
+    "displayName": "",
+    "px": 126.9756661,
+    "py": 37.5644216,
+    "type": "place",
+    "useTime": 1722810342000,
+    "lastUpdateTime": 1722810342000,
+    "creationTime": 1722810341000,
+    "order": 65535,
+    "sid": "35806834",
+    "address": "서울 중구 덕수궁길 15",
+    "memo": null,
+    "url": null,
+    "mcid": "TRAVEL",
+    "mcidName": "여행",
+    "rcode": "09140166",
+    "cidPath": [
+      "222117",
+      "222120",
+      "222152"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "wB6U8AVD0nLrPzZgliwRgg==",
+        "pan": "-115.96",
+        "tilt": "17.96",
+        "lng": "126.9758105",
+        "lat": "37.5649249",
+        "fov": "80"
+      },
+      "thumbnailUrls": [
+        "http://blogfiles.naver.net/MjAyNDAyMThfNDkg/MDAxNzA4MjY1MzA2NzMy.TO1FO-8unO-cKJiNsAW8QyZSoCdZzO5N4v3MWdESLlAg.9QiuLoPE3jrjB2XDAWK8Ih4HcHCvnRFuCri-Uh6Xr7Qg.JPEG.blessed76/20240113%A3%DF151024.jpg#900x675"
+      ],
+      "category": "전망대"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1935695257,
+    "name": "강변서재",
+    "displayName": "",
+    "px": 126.9164345,
+    "py": 37.532989,
+    "type": "place",
+    "useTime": 1722810285000,
+    "lastUpdateTime": 1722810285000,
+    "creationTime": 1722810285000,
+    "order": 65535,
+    "sid": "1489831691",
+    "address": "서울 영등포구 의사당대로 1",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09560110",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "K1DgfXX9Yu6+s/bHJe/Phg==",
+        "pan": "-170.03",
+        "tilt": "10.00",
+        "lng": "126.9164974",
+        "lat": "37.5333436",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20230921_41/1695279804701dvihJ_JPEG/3.jpg",
+        "https://ldb-phinf.pstatic.net/20230921_56/1695279800986dBDOJ_JPEG/2.jpg",
+        "https://ldb-phinf.pstatic.net/20230921_152/1695279796776tPxq1_JPEG/1.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1923074676,
+    "name": "미학당",
+    "displayName": "",
+    "px": 126.9605784,
+    "py": 37.4945837,
+    "type": "place",
+    "useTime": 1722500731000,
+    "lastUpdateTime": 1722500731000,
+    "creationTime": 1722500730000,
+    "order": 65535,
+    "sid": "38506334",
+    "address": "서울 동작구 사당로 56",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09590102",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "obNorJAW0KZfMzUZlq7+Bw==",
+        "pan": "-166.04",
+        "tilt": "10.00",
+        "lng": "126.9606330",
+        "lat": "37.4948019",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20220804_190/1659622953127DvvtQ_JPEG/KakaoTalk_20220804_232023908.jpg",
+        "https://ldb-phinf.pstatic.net/20200831_167/15988058506004wolJ_JPEG/KakaoTalk_20200831_014243865.jpg",
+        "https://ldb-phinf.pstatic.net/20170417_6/1492422882920GuK3T_JPEG/186367588462774_4.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1919983305,
+    "name": "PITC",
+    "displayName": "",
+    "px": 126.9162859,
+    "py": 37.5612003,
+    "type": "place",
+    "useTime": 1722425329000,
+    "lastUpdateTime": 1722425329000,
+    "creationTime": 1722425329000,
+    "order": 65535,
+    "sid": "1403632278",
+    "address": "서울 마포구 성미산로11길 13",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09440125",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "hG1dPEBbLMGr2WSkYhgyBg==",
+        "pan": "18.16",
+        "tilt": "10.00",
+        "lng": "126.9162537",
+        "lat": "37.5611021",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20220928_182/1664326862074uOeWM_JPEG/AC1209F3-1778-416F-9904-955AAC8A61F5.jpeg",
+        "https://ldb-phinf.pstatic.net/20220928_179/1664326805717ruRwi_JPEG/23755922-DC1F-4F42-A761-4F2A8E3AA50C.jpeg",
+        "https://ldb-phinf.pstatic.net/20220928_37/1664326894853l40tj_JPEG/E91AB66A-8430-4CAC-8ECF-2DF71AD10839.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1912300573,
+    "name": "오커쇼어",
+    "displayName": "",
+    "px": 126.9733437,
+    "py": 37.5753767,
+    "type": "place",
+    "useTime": 1722227183000,
+    "lastUpdateTime": 1722227183000,
+    "creationTime": 1722227182000,
+    "order": 65535,
+    "sid": "1593690876",
+    "address": "서울 종로구 사직로 130",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09110107",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220564",
+      "221161"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "9PZ4ma+O+eeloVB2UBXi0Q==",
+        "pan": "-178.45",
+        "tilt": "10.00",
+        "lng": "126.9733546",
+        "lat": "37.5757572",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240804_230/1722779782751hgviL_JPEG/IMG_4728.jpeg",
+        "https://ldb-phinf.pstatic.net/20240804_256/1722779785077S6jCm_PNG/IMG_5033.png",
+        "https://ldb-phinf.pstatic.net/20240804_271/1722779782875QB3A1_JPEG/IMG_4903.jpeg"
+      ],
+      "category": "베이커리"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1902392112,
+    "name": "티엔플로우",
+    "displayName": "",
+    "px": 126.9453217,
+    "py": 37.5458819,
+    "type": "place",
+    "useTime": 1721963314000,
+    "lastUpdateTime": 1721963314000,
+    "creationTime": 1721963313000,
+    "order": 65535,
+    "sid": "1144898603",
+    "address": "서울 마포구 백범로24길 5-3",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09440109",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220564",
+      "221161"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "KGhw8H1/A5MAz8dN0cUc5Q==",
+        "pan": "41.81",
+        "tilt": "10.00",
+        "lng": "126.9450223",
+        "lat": "37.5455469",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240205_188/1707114308759UWY1v_JPEG/IMG_8671.jpg",
+        "https://ldb-phinf.pstatic.net/20240810_15/1723259514820GYPVz_JPEG/C3016952-0C36-41E1-9511-DF0B8CF58112.jpeg",
+        "https://ldb-phinf.pstatic.net/20240723_43/1721712242111nxI7x_JPEG/BFDE91E9-4515-45F4-AE6C-BF10F8244C76.jpeg"
+      ],
+      "category": "베이커리"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1902140338,
+    "name": "나이스워크투데이",
+    "displayName": "",
+    "px": 126.9397607,
+    "py": 37.5482359,
+    "type": "place",
+    "useTime": 1721957615000,
+    "lastUpdateTime": 1721957615000,
+    "creationTime": 1721957614000,
+    "order": 65535,
+    "sid": "1317049468",
+    "address": "서울 마포구 백범로10길 26",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09440111",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "nMgwKuBOlLngGPGG83f8IA==",
+        "pan": "-145.26",
+        "tilt": "10.00",
+        "lng": "126.9398294",
+        "lat": "37.5483347",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20230906_208/1693981413691Bud8a_JPEG/6.jpeg",
+        "https://ldb-phinf.pstatic.net/20230906_204/16939814217526lzUn_JPEG/3.jpeg",
+        "https://ldb-phinf.pstatic.net/20230906_268/1693981418404RgAEy_JPEG/4.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1900544170,
+    "name": "포어플랜",
+    "displayName": "",
+    "px": 127.0475587,
+    "py": 37.5482007,
+    "type": "place",
+    "useTime": 1721911553000,
+    "lastUpdateTime": 1721911553000,
+    "creationTime": 1721911553000,
+    "order": 65535,
+    "sid": "1193971273",
+    "address": "서울 성동구 왕십리로14길 30-11",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09200114",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "7dqPblUk6sRtS5L/hymVyw==",
+        "pan": "-57.94",
+        "tilt": "10.00",
+        "lng": "127.0477400",
+        "lat": "37.5480870",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240902_5/1725270807696bioNS_JPEG/JK206369.jpg",
+        "https://ldb-phinf.pstatic.net/20220802_96/165941677674395N3r_JPEG/KakaoTalk_20220731_014819899.jpg",
+        "https://ldb-phinf.pstatic.net/20220802_53/1659416782345YQnBO_JPEG/KakaoTalk_20220731_014819899_01.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1898959713,
+    "name": "브라이트사이드",
+    "displayName": "",
+    "px": 127.0228949,
+    "py": 37.5777047,
+    "type": "place",
+    "useTime": 1721869983000,
+    "lastUpdateTime": 1721869983000,
+    "creationTime": 1721869983000,
+    "order": 65535,
+    "sid": "1764560721",
+    "address": "서울 종로구 보문로7길 3",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09110175",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221212"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "Jn+0tLgdZW6cHU32FX+TZg==",
+        "pan": "126.27",
+        "tilt": "-11.06",
+        "lng": "127.0228885",
+        "lat": "37.5777867",
+        "fov": "65"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20221015_47/1665815220282DD9O5_JPEG/5BB0F45B-F61E-4BE6-AD06-401DF5F0971B.jpeg",
+        "https://ldb-phinf.pstatic.net/20221105_180/1667618372941dCNcP_JPEG/ED73DCFE-43E9-4036-A02D-CF59E985EC13.jpeg",
+        "https://ldb-phinf.pstatic.net/20221105_164/1667618372590rG5lh_JPEG/D6E3932F-FA07-4AF5-84C5-3820148E85B7.jpeg"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1854118737,
+    "name": "브루니치",
+    "displayName": "",
+    "px": 126.9474322,
+    "py": 37.5450349,
+    "type": "place",
+    "useTime": 1720653360000,
+    "lastUpdateTime": 1720653360000,
+    "creationTime": 1720653359000,
+    "order": 65535,
+    "sid": "1265188677",
+    "address": "서울 마포구 백범로 152",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09440102",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "ofr6Gax+ACM94hZkCboKaA==",
+        "pan": "20.13",
+        "tilt": "10.00",
+        "lng": "126.9473868",
+        "lat": "37.5449108",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20200314_154/1584175680261zWte5_JPEG/iKl1qeHa1jA9aGmCv3ml94y6.jpg",
+        "https://ldb-phinf.pstatic.net/20200314_114/1584175717072rwEJi_JPEG/FzathelCP-_69IGTExix5ajt.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1844813295,
+    "name": "커피리브레 연남점",
+    "displayName": "",
+    "px": 126.9237657,
+    "py": 37.5636887,
+    "type": "place",
+    "useTime": 1720403968000,
+    "lastUpdateTime": 1720403968000,
+    "creationTime": 1720403968000,
+    "order": 65535,
+    "sid": "21856573",
+    "address": "서울 마포구 성미산로32길 20-5",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09440124",
+    "cidPath": [
+      "220036",
+      "220052",
+      "1005213"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "vuSQZ8RBr3oYmdh0stysgQ==",
+        "pan": "-48.00",
+        "tilt": "10.00",
+        "lng": "126.9239551",
+        "lat": "37.5635181",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20241001_99/1727760414749wr9Aj_PNG/5.png",
+        "https://ldb-phinf.pstatic.net/20230831_114/1693409395642FJSDB_PNG/5.png",
+        "https://ldb-phinf.pstatic.net/20230831_215/1693409391711EVYgq_PNG/6.png"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1842738754,
+    "name": "도망",
+    "displayName": "",
+    "px": 127.0553579,
+    "py": 37.5874574,
+    "type": "place",
+    "useTime": 1720345142000,
+    "lastUpdateTime": 1720345142000,
+    "creationTime": 1720345141000,
+    "order": 65535,
+    "sid": "1882312139",
+    "address": "서울 동대문구 망우로6길 3",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09230109",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "ZPwM7WAwajomD4/0b938sw==",
+        "pan": "122.51",
+        "tilt": "2.38",
+        "lng": "127.0553250",
+        "lat": "37.5875800",
+        "fov": "40"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240110_278/1704868698232EONzC_JPEG/4B109EAE-66A1-4815-A8CA-3853DE384264.jpeg",
+        "https://ldb-phinf.pstatic.net/20211111_232/16366392393855AkUR_JPEG/A08B7802-F148-4395-9B7E-567050F2624C.jpeg",
+        "https://ldb-phinf.pstatic.net/20240110_82/1704868698515Icrz7_JPEG/CD957808-01B3-45B7-AD1B-1A11B652106A.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 400597682,
+    "name": "진을림",
+    "displayName": "",
+    "px": 126.9105259,
+    "py": 37.5005129,
+    "type": "place",
+    "useTime": 1720261932000,
+    "lastUpdateTime": 1720261932000,
+    "creationTime": 1626479716000,
+    "order": 65535,
+    "sid": "1655313614",
+    "address": "서울특별시 영등포구 신길동 3574-15",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09560132",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "39lr7FrozQcJet2hZPppNQ==",
+        "pan": "99.79",
+        "tilt": "10.00",
+        "lng": "126.9104338",
+        "lat": "37.5005287",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20230425_253/1682395315259GlwLx_JPEG/20200523_114941.jpg",
+        "https://ldb-phinf.pstatic.net/20230425_165/1682394859646fqHaA_JPEG/20230322_180556-01.jpeg",
+        "https://ldb-phinf.pstatic.net/20231116_218/1700126902535FN4nl_JPEG/1000011035-01.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1824853471,
+    "name": "북카페 다독다독",
+    "displayName": "",
+    "px": 126.924237,
+    "py": 37.5541726,
+    "type": "place",
+    "useTime": 1719880795000,
+    "lastUpdateTime": 1719880795000,
+    "creationTime": 1719880794000,
+    "order": 65535,
+    "sid": "393955541",
+    "address": "서울 마포구 홍익로2길 16",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09440120",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220585",
+      "231392"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "vYbWxxBH3GAWVO3jVYA1Eg==",
+        "pan": "-19.59",
+        "tilt": "10.00",
+        "lng": "126.9243035",
+        "lat": "37.5539858",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20170126_300/148541320729091rJK_JPEG/186073583371901_0.jpeg",
+        "https://ldb-phinf.pstatic.net/20170126_238/1485413207329YBi3F_JPEG/186073583371901_1.jpeg",
+        "https://ldb-phinf.pstatic.net/20170126_23/1485413207396aVBqo_JPEG/186073583371901_2.jpeg"
+      ],
+      "category": "북카페"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1823152288,
+    "name": "뷰클런즈",
+    "displayName": "",
+    "px": 127.1096044,
+    "py": 37.5083451,
+    "type": "place",
+    "useTime": 1719833450000,
+    "lastUpdateTime": 1719833450000,
+    "creationTime": 1719833450000,
+    "order": 65535,
+    "sid": "1700876781",
+    "address": "서울 송파구 백제고분로43길 10",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09710104",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "Hhv2asc/WByC+W8hmqMGoA==",
+        "pan": "-91.02",
+        "tilt": "-6.29",
+        "lng": "127.1097420",
+        "lat": "37.5083686",
+        "fov": "100"
+      },
+      "thumbnailUrls": [
+        "https://naverbooking-phinf.pstatic.net/20240904_280/1725451892921LwuRs_JPEG/KakaoTalk_Photo_2023-05-17-23-18-36_003.jpeg",
+        "https://ldb-phinf.pstatic.net/20240904_93/1725456307966EC5h9_JPEG/KakaoTalk_20240904_222208208.jpg",
+        "https://ldb-phinf.pstatic.net/20240801_203/1722489205149DUpDa_JPEG/KakaoTalk_20240725_163818035_07.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1783464965,
+    "name": "인텔리젠시아 커피 서촌",
+    "displayName": "",
+    "px": 126.9717542,
+    "py": 37.5791114,
+    "type": "place",
+    "useTime": 1718765216000,
+    "lastUpdateTime": 1718765216000,
+    "creationTime": 1718765216000,
+    "order": 65535,
+    "sid": "1856920150",
+    "address": "서울 종로구 자하문로 34",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09110106",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "XBA4Iw1sTXugeK+5f+J4kA==",
+        "pan": "92.67",
+        "tilt": "10.00",
+        "lng": "126.9715463",
+        "lat": "37.5791210",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240219_231/1708333935400vKVFa_JPEG/DSC00825_%BA%B9%BB%E7%BA%BB.jpg",
+        "https://ldb-phinf.pstatic.net/20240228_55/1709107697295ETvi3_JPEG/DSC00756.jpeg",
+        "https://ldb-phinf.pstatic.net/20240218_204/1708221500355hTWRE_JPEG/DSC00819-2.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1777196869,
+    "name": "이너커피공덕",
+    "displayName": "",
+    "px": 126.9478316,
+    "py": 37.5447956,
+    "type": "place",
+    "useTime": 1718594503000,
+    "lastUpdateTime": 1718594503000,
+    "creationTime": 1718594503000,
+    "order": 65535,
+    "sid": "1643382530",
+    "address": "서울 마포구 백범로 152",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09440102",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "WPU+PyguwWlr8BVevI8njw==",
+        "pan": "11.66",
+        "tilt": "10.00",
+        "lng": "126.9478170",
+        "lat": "37.5447248",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20230811_115/1691729205937OpMR0_JPEG/7817DF11-2887-417D-BEA7-0E6320D7DB95.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1776795469,
+    "name": "코인 명동2호점",
+    "displayName": "",
+    "px": 126.9841519,
+    "py": 37.5650338,
+    "type": "place",
+    "useTime": 1718585062000,
+    "lastUpdateTime": 1718585062000,
+    "creationTime": 1718585062000,
+    "order": 65535,
+    "sid": "1324994980",
+    "address": "서울 중구 명동9길 29",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09140105",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "+mZkSGUk4tbWFHqyJzjrNA==",
+        "pan": "9.47",
+        "tilt": "10.00",
+        "lng": "126.9841453",
+        "lat": "37.5649937",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20201118_16/16056264937486Y9I4_JPEG/DMgph_Gao-pGj7vrJHIceYVQ.JPG.jpg",
+        "https://ldb-phinf.pstatic.net/20230621_46/1687327664089ulObh_JPEG/a_%28195%29-2.jpg",
+        "https://ldb-phinf.pstatic.net/20230621_34/1687327658237Pc1nB_JPEG/a_%28200%29-2.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1776793163,
+    "name": "리사르커피 종로점",
+    "displayName": "",
+    "px": 126.9803157,
+    "py": 37.5704192,
+    "type": "place",
+    "useTime": 1718585007000,
+    "lastUpdateTime": 1718585007000,
+    "creationTime": 1718585006000,
+    "order": 65535,
+    "sid": "1373394425",
+    "address": "서울 종로구 종로5길 7",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09110122",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "mUmu7/6eCM8blPpJ7nvd4Q==",
+        "pan": "-18.77",
+        "tilt": "10.00",
+        "lng": "126.9803631",
+        "lat": "37.5702799",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240130_236/170662661054190XFs_JPEG/Untitled-7.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1776789468,
+    "name": "알레그리아 덕수궁 디팰리스점",
+    "displayName": "",
+    "px": 126.9721561,
+    "py": 37.5688577,
+    "type": "place",
+    "useTime": 1718584912000,
+    "lastUpdateTime": 1718584912000,
+    "creationTime": 1718584912000,
+    "order": 65535,
+    "sid": "1203199583",
+    "address": "서울 종로구 새문안로2길 10",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09110121",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221212"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "BgFakeXJ+7Tit1xHcQwnKg==",
+        "pan": "106.83",
+        "tilt": "1.81",
+        "lng": "126.9719525",
+        "lat": "37.5691040",
+        "fov": "37"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240409_127/1712637455448x5ztd_JPEG/IMG_0466.jpeg",
+        "https://ldb-phinf.pstatic.net/20230207_176/16757326489061K1TR_JPEG/F05572A2-FF37-42E5-B139-2F5773903193.JPG",
+        "https://ldb-phinf.pstatic.net/20230207_245/1675732648481128sr_JPEG/4BBE6A68-7DB6-4750-BAF8-D72901A46762.JPG"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1768319618,
+    "name": "센트럴사이트 연남점",
+    "displayName": "",
+    "px": 126.9268517,
+    "py": 37.561549,
+    "type": "place",
+    "useTime": 1718346849000,
+    "lastUpdateTime": 1718346849000,
+    "creationTime": 1718346848000,
+    "order": 65535,
+    "sid": "1012556465",
+    "address": "서울 마포구 연희로 29-1",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09440121",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "8jqUF59SGoXxG0Pxl7QFZQ==",
+        "pan": "-69.42",
+        "tilt": "10.00",
+        "lng": "126.9269535",
+        "lat": "37.5615107",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20230731_277/1690771311837HY2Iw_JPEG/KakaoTalk_20230731_111558994_19.jpg",
+        "https://ldb-phinf.pstatic.net/20240527_183/1716793275420xWrc1_JPEG/20231114%A3%DF154523.jpg",
+        "https://ldb-phinf.pstatic.net/20240527_94/1716793275444ipmxB_JPEG/20231114%A3%DF154510.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1767535064,
+    "name": "콘시드서울 공덕",
+    "displayName": "",
+    "px": 126.9443006,
+    "py": 37.5463566,
+    "type": "place",
+    "useTime": 1718328517000,
+    "lastUpdateTime": 1718328517000,
+    "creationTime": 1718328517000,
+    "order": 65535,
+    "sid": "1973223482",
+    "address": "서울 마포구 백범로24길 30",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09440109",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221212"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "SesKM/t9JAXhUbp8O0eLYg==",
+        "pan": "35.36",
+        "tilt": "10.00",
+        "lng": "126.9442528",
+        "lat": "37.5462893",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240820_270/1724142311669HnKBf_JPEG/F950AB60-A726-4F59-9B22-A6320C1E1A71.jpeg",
+        "https://ldb-phinf.pstatic.net/20240223_65/17086507432987sqpl_JPEG/IMG_7404.jpeg",
+        "https://ldb-phinf.pstatic.net/20240223_171/1708650760854CaDcU_JPEG/IMG_7554.jpeg"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1757572196,
+    "name": "포멜로빈 공덕점",
+    "displayName": "",
+    "px": 126.9486515,
+    "py": 37.5444336,
+    "type": "place",
+    "useTime": 1718065281000,
+    "lastUpdateTime": 1718065281000,
+    "creationTime": 1718065280000,
+    "order": 65535,
+    "sid": "1318599055",
+    "address": "서울 마포구 백범로 170",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09440102",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "9437Jcr6cZwSIy6gSZHDbA==",
+        "pan": "87.63",
+        "tilt": "11.81",
+        "lng": "126.9485295",
+        "lat": "37.5444934",
+        "fov": "90"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20200308_92/15835986877253DOnX_JPEG/PjIgsDfpNwWE57FOp1KDecIl.jpeg.jpg",
+        "https://ldb-phinf.pstatic.net/20200308_199/1583598714280fiVls_JPEG/fpDRTzVP3HGA3ynA9y2Slo2u.jpeg.jpg",
+        "https://ldb-phinf.pstatic.net/20200308_135/1583598736473ofFCJ_JPEG/-Yr81UJSCYy9XCTNo5KAy_7o.jpeg.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1754691839,
+    "name": "후엘고",
+    "displayName": "",
+    "px": 126.9477904,
+    "py": 37.5490487,
+    "type": "place",
+    "useTime": 1717982347000,
+    "lastUpdateTime": 1717982347000,
+    "creationTime": 1717982346000,
+    "order": 65535,
+    "sid": "1519288725",
+    "address": "서울 마포구 마포대로11길 118",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09440109",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "4KC/YYYT2dg6NGxdb3tfKA==",
+        "pan": "-65.38",
+        "tilt": "-2.63",
+        "lng": "126.9479416",
+        "lat": "37.5489693",
+        "fov": "57"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20180531_175/15277448500303LiWE_JPEG/h2M_zuozCmDOonSTE-eNkgNV.jpg",
+        "https://ldb-phinf.pstatic.net/20191022_34/15717435283351ljnQ_JPEG/LcHQ0opgAQChqn7DbV-_i0Ry.jpeg.jpg",
+        "https://ldb-phinf.pstatic.net/20191022_106/1571743545204jXclt_JPEG/H1T_PDhGKC4ZMPNnd-9pM4nP.jpeg.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1754560263,
+    "name": "영앤도터스",
+    "displayName": "",
+    "px": 126.9543528,
+    "py": 37.548145,
+    "type": "place",
+    "useTime": 1717978793000,
+    "lastUpdateTime": 1717978793000,
+    "creationTime": 1717978793000,
+    "order": 65535,
+    "sid": "1734297335",
+    "address": "서울 마포구 마포대로 156",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09440102",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221212"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "2HZlk6Qs47O7zfzzVXHMbA==",
+        "pan": "89.37",
+        "tilt": "6.56",
+        "lng": "126.9541341",
+        "lat": "37.5481321",
+        "fov": "80"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20200126_289/1580022799879mfm0I_JPEG/ufF2KuGjCrNXOyIez-lC1WKR.jpeg.jpg",
+        "https://ldb-phinf.pstatic.net/20231230_99/1703916686625xxMFf_JPEG/05_%B5%F6%C4%AB%B6%F3%B8%E1%B6%F3%B6%BC.jpg",
+        "https://ldb-phinf.pstatic.net/20231230_1/1703916692293WtJGY_JPEG/07_%B7%CE%BD%BA%C5%CD%B8%AE_%B3%BB%BA%CE.jpg"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1754535275,
+    "name": "일야커피",
+    "displayName": "",
+    "px": 126.9473157,
+    "py": 37.5434567,
+    "type": "place",
+    "useTime": 1717978144000,
+    "lastUpdateTime": 1717978144000,
+    "creationTime": 1717978144000,
+    "order": 65535,
+    "sid": "19886238",
+    "address": "서울 마포구 독막로 312",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09440109",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "cY2Dq6yWDN5NWOC5IFm2Qw==",
+        "pan": "102.65",
+        "tilt": "10.44",
+        "lng": "126.9472110",
+        "lat": "37.5436466",
+        "fov": "80"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20231228_242/1703774345269MdvW7_PNG/IYC.0521.230527_Resize3.png",
+        "https://ldb-phinf.pstatic.net/20231228_138/1703771259394qu1xJ_JPEG/MABP9634.JPG",
+        "https://ldb-phinf.pstatic.net/20230619_213/1687138616891wTpGz_JPEG/DSC02551-HDR.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1754534753,
+    "name": "리틀 힐 브루어스",
+    "displayName": "",
+    "px": 126.9459349,
+    "py": 37.5445302,
+    "type": "place",
+    "useTime": 1717978132000,
+    "lastUpdateTime": 1717978132000,
+    "creationTime": 1717978131000,
+    "order": 65535,
+    "sid": "1448490126",
+    "address": "서울 마포구 독막로 295",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09440109",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "NDUvDexqjBlyQ3g+lo2bQg==",
+        "pan": "37.76",
+        "tilt": "6.25",
+        "lng": "126.9457717",
+        "lat": "37.5443771",
+        "fov": "57"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20231006_14/1696573883637lKfsI_JPEG/DSC09325-01-01.jpeg",
+        "https://ldb-phinf.pstatic.net/20240928_51/1727502996092Hjp9y_JPEG/20230609175227_IMG_7304.JPG",
+        "https://ldb-phinf.pstatic.net/20230502_167/1683005715381H1yRB_JPEG/1682651500337-01.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1749605933,
+    "name": "모모스커피 마린시티점",
+    "displayName": "",
+    "px": 129.1444851,
+    "py": 35.1549068,
+    "type": "place",
+    "useTime": 1717834605000,
+    "lastUpdateTime": 1717834605000,
+    "creationTime": 1717834605000,
+    "order": 65535,
+    "sid": "1216704111",
+    "address": "부산 해운대구 마린시티1로 91",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "08350105",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "Qdz0WFvlV/r3wpmZTuauSQ==",
+        "pan": "17.69",
+        "tilt": "10.00",
+        "lng": "129.1442821",
+        "lat": "35.1542067",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240503_268/1714712147911YMmUO_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2024-05-03_%BF%C0%C8%C4_1.54.14.png",
+        "https://ldb-phinf.pstatic.net/20240503_226/1714712148053S45mN_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2024-05-03_%BF%C0%C8%C4_1.53.44.png",
+        "https://ldb-phinf.pstatic.net/20240503_216/1714712148274qfPyG_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2024-05-03_%BF%C0%C8%C4_1.54.36.png"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1659277943,
+    "name": "3025 coffee",
+    "displayName": "",
+    "px": 126.9593535,
+    "py": 37.6013185,
+    "type": "place",
+    "useTime": 1715131369000,
+    "lastUpdateTime": 1715131369000,
+    "creationTime": 1715131369000,
+    "order": 65535,
+    "sid": "1298470191",
+    "address": "서울 종로구 세검정로 243",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09110186",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "acyTU90IZnr7otiu8vVU+A==",
+        "pan": "-37.00",
+        "tilt": "-9.38",
+        "lng": "126.9594930",
+        "lat": "37.6010200",
+        "fov": "90"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20221108_91/1667872853391UPpkG_JPEG/DSC_2216.JPG",
+        "https://ldb-phinf.pstatic.net/20221108_196/1667881568382FlUFi_JPEG/h.JPG",
+        "https://ldb-phinf.pstatic.net/20221108_274/16678728634657MV81_JPEG/DSC_2318.JPG"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1656574579,
+    "name": "2층사무실",
+    "displayName": "",
+    "px": 126.9394218,
+    "py": 37.4836332,
+    "type": "place",
+    "useTime": 1715039280000,
+    "lastUpdateTime": 1715039280000,
+    "creationTime": 1715039279000,
+    "order": 65535,
+    "sid": "1596612606",
+    "address": "서울 관악구 남부순환로 1701",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09620101",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "R8YVubujUG0pCpvPcWaavg==",
+        "pan": "35.30",
+        "tilt": "10.00",
+        "lng": "126.9393328",
+        "lat": "37.4835074",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240327_182/17115086153789l2f8_JPEG/KakaoTalk_20240327_120314797.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1643136882,
+    "name": "아티스트웨이",
+    "displayName": "",
+    "px": 127.0741841,
+    "py": 37.628977,
+    "type": "place",
+    "useTime": 1714609532000,
+    "lastUpdateTime": 1714609532000,
+    "creationTime": 1714609531000,
+    "order": 65535,
+    "sid": "1155668912",
+    "address": "서울 노원구 동일로192다길 55",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09350103",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221212"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "cr5xymds5v1GwmIv66/wAQ==",
+        "pan": "-119.26",
+        "tilt": "10.00",
+        "lng": "127.0742988",
+        "lat": "37.6290411",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20190821_97/1566376820487w1c2t_JPEG/xDU5AF3wejN8myRxS7ZV_yok.jpg",
+        "https://ldb-phinf.pstatic.net/20200209_156/1581229482744CAjYt_JPEG/dESL57pfh4bk5s2VAMgLz9X5.jpg"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1631674161,
+    "name": "충무로 한옥카페 달강",
+    "displayName": "",
+    "px": 126.993561,
+    "py": 37.5584554,
+    "type": "place",
+    "useTime": 1714212292000,
+    "lastUpdateTime": 1714212292000,
+    "creationTime": 1714212291000,
+    "order": 65535,
+    "sid": "1071730987",
+    "address": "서울 중구 퇴계로34길 28",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09140138",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "XK4l4bmjN/si++8qjVM1Zg==",
+        "pan": "166.21",
+        "tilt": "10.00",
+        "lng": "126.9935467",
+        "lat": "37.5585133",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20220526_80/16535575489932DXhb_JPEG/6.jpg",
+        "https://ldb-phinf.pstatic.net/20220526_219/1653557502653ajcMa_JPEG/8.jpg",
+        "https://ldb-phinf.pstatic.net/20220526_298/1653557508576R8u7Q_JPEG/9.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1622296034,
+    "name": "콘하스 연남점",
+    "displayName": "",
+    "px": 126.9261488,
+    "py": 37.5590159,
+    "type": "place",
+    "useTime": 1713880362000,
+    "lastUpdateTime": 1713880362000,
+    "creationTime": 1713880362000,
+    "order": 65535,
+    "sid": "97642371",
+    "address": "서울 마포구 연희로 1-1",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09440121",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "hA+zG5H1Yjc/RZynMDDaAw==",
+        "pan": "-39.03",
+        "tilt": "10.00",
+        "lng": "126.9263314",
+        "lat": "37.5587905",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20230410_274/1681114048991VhXtK_JPEG/IMG_3473.jpeg",
+        "https://ldb-phinf.pstatic.net/20230410_243/1681114051156OvlWO_JPEG/IMG_3472.jpeg",
+        "https://ldb-phinf.pstatic.net/20230410_58/1681114054898dBBEa_JPEG/IMG_3477.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1614328307,
+    "name": "로아커피",
+    "displayName": "",
+    "px": 126.6869028,
+    "py": 37.3425125,
+    "type": "place",
+    "useTime": 1713591886000,
+    "lastUpdateTime": 1713591886000,
+    "creationTime": 1713591885000,
+    "order": 65535,
+    "sid": "1952375166",
+    "address": "경기 시흥시 오이도로 207",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "02390132",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "pWPett5nq5y1X+qGhmgW9g==",
+        "pan": "88.41",
+        "tilt": "-3.12",
+        "lng": "126.6866995",
+        "lat": "37.3425224",
+        "fov": "37"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20230308_240/1678243575161zWOXT_JPEG/DSC00581.JPG",
+        "https://ldb-phinf.pstatic.net/20231025_172/1698219282117E01kx_JPEG/A7402036.jpg",
+        "https://ldb-phinf.pstatic.net/20230308_117/1678243577243qycw8_JPEG/DSC00813.JPG"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1613070125,
+    "name": "노들섬 노들서가",
+    "displayName": "",
+    "px": 126.9577838,
+    "py": 37.5181937,
+    "type": "place",
+    "useTime": 1713538234000,
+    "lastUpdateTime": 1713538234000,
+    "creationTime": 1713538234000,
+    "order": 65535,
+    "sid": "1781684581",
+    "address": "서울 용산구 양녕로 445",
+    "memo": null,
+    "url": null,
+    "mcid": "SHOPPING",
+    "mcidName": "쇼핑",
+    "rcode": "09170129",
+    "cidPath": [
+      "223563",
+      "223572",
+      "223717",
+      "224300"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "5zjEowsRw8WoGYvZvjzlcw==",
+        "pan": "-159.63",
+        "tilt": "10.00",
+        "lng": "126.9577926",
+        "lat": "37.5182173",
+        "fov": "120"
+      },
+      "thumbnailUrls": [],
+      "category": "서점"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1613068576,
+    "name": "카페 오비스포",
+    "displayName": "",
+    "px": 127.0228505,
+    "py": 37.5806817,
+    "type": "place",
+    "useTime": 1713538175000,
+    "lastUpdateTime": 1713538175000,
+    "creationTime": 1713538175000,
+    "order": 65535,
+    "sid": "1632955574",
+    "address": "서울 성북구 안암로3길 41",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09290129",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "taTip+ESmdFVpPsLKYrlJA==",
+        "pan": "-96.19",
+        "tilt": "-1.31",
+        "lng": "127.0229259",
+        "lat": "37.5807007",
+        "fov": "63"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20230702_293/1688301681011GiW6N_JPEG/IMG_4289.jpeg",
+        "https://ldb-phinf.pstatic.net/20230702_259/1688301681090mYtcH_JPEG/D5F36775-04AD-43FB-8CD2-4A6116AC68B7.jpeg",
+        "https://ldb-phinf.pstatic.net/20230702_62/1688301681038uMxuM_JPEG/IMG_4294.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1613067532,
+    "name": "마스트리스보트",
+    "displayName": "",
+    "px": 127.072807,
+    "py": 37.6182031,
+    "type": "place",
+    "useTime": 1713538135000,
+    "lastUpdateTime": 1713538135000,
+    "creationTime": 1713538135000,
+    "order": 65535,
+    "sid": "1370222763",
+    "address": "서울 노원구 섬밭로 16",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09350103",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "ueOMHpb6XpiSrs/ACLIN4w==",
+        "pan": "69.66",
+        "tilt": "10.00",
+        "lng": "127.0726193",
+        "lat": "37.6181334",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240928_12/172750482723619lsE_JPEG/IMG_2556.jpeg",
+        "https://ldb-phinf.pstatic.net/20240930_25/17276852349468LsBb_JPEG/IMG_2564.jpeg",
+        "https://ldb-phinf.pstatic.net/20240930_154/17276852295123EFCc_JPEG/IMG_2565.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1613066487,
+    "name": "본지르르 성수",
+    "displayName": "",
+    "px": 127.0546695,
+    "py": 37.5493464,
+    "type": "place",
+    "useTime": 1713538095000,
+    "lastUpdateTime": 1713538095000,
+    "creationTime": 1713538095000,
+    "order": 65535,
+    "sid": "1771016332",
+    "address": "서울 성동구 광나루로4가길 13",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09200115",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "7UcY7MVxp5hDVeg2MpLw4Q==",
+        "pan": "72.89",
+        "tilt": "10.00",
+        "lng": "127.0545619",
+        "lat": "37.5493132",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20231104_243/1699067976293bHufr_JPEG/ACBB9BFD-04A6-40F7-A4A8-8D9C0CF55D20.jpeg",
+        "https://ldb-phinf.pstatic.net/20231104_115/1699067978264NyxKc_JPEG/608B823C-A403-4733-AEB6-F21FA94DE8CD.jpeg",
+        "https://ldb-phinf.pstatic.net/20231104_221/1699067977040j5DPS_JPEG/981C16A9-0692-4558-A080-8E7901CFE3F6.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1613064291,
+    "name": "프로토콜 상수점",
+    "displayName": "",
+    "px": 126.9201298,
+    "py": 37.5463337,
+    "type": "place",
+    "useTime": 1713538009000,
+    "lastUpdateTime": 1713538009000,
+    "creationTime": 1713538009000,
+    "order": 65535,
+    "sid": "1452804697",
+    "address": "서울 마포구 어울마당로2길 13-4",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09440118",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221212"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "Fxj6Ke4fmC3TmnWYjkk9gg==",
+        "pan": "33.52",
+        "tilt": "10.00",
+        "lng": "126.9200380",
+        "lat": "37.5461950",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20230927_200/1695746741996D5dlR_JPEG/44773914-DFE0-4128-9E3D-3F2D0717C4C0.jpeg",
+        "https://ldb-phinf.pstatic.net/20230927_28/1695746736731ps5LL_JPEG/1A99F7FF-8ACA-4461-8207-20C02988E506.jpeg",
+        "https://ldb-phinf.pstatic.net/20230927_270/1695746748405KEoqw_JPEG/D7CBB303-600F-418C-9C89-B4C546345F2D.jpeg"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1613063125,
+    "name": "HHSS HOUSE",
+    "displayName": "",
+    "px": 126.907621,
+    "py": 37.5584252,
+    "type": "place",
+    "useTime": 1713537965000,
+    "lastUpdateTime": 1713537965000,
+    "creationTime": 1713537965000,
+    "order": 65535,
+    "sid": "1237365247",
+    "address": "서울 마포구 월드컵로 113",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09440123",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "j9/q80sRNrqT1lg3QVeSag==",
+        "pan": "-121.08",
+        "tilt": "10.00",
+        "lng": "126.9077966",
+        "lat": "37.5585308",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20230626_186/1687767341464xp9EC_JPEG/KakaoTalk_Photo_2023-06-20-19-36-53.jpeg",
+        "https://ldb-phinf.pstatic.net/20230626_69/1687767341270YTlpp_JPEG/KakaoTalk_Photo_2023-06-20-19-36-58.jpeg",
+        "https://ldb-phinf.pstatic.net/20230626_75/1687767341017k63PU_JPEG/IMG_0292.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1613062011,
+    "name": "송정커피",
+    "displayName": "",
+    "px": 127.0671265,
+    "py": 37.5522888,
+    "type": "place",
+    "useTime": 1713537922000,
+    "lastUpdateTime": 1713537922000,
+    "creationTime": 1713537922000,
+    "order": 65535,
+    "sid": "1998320142",
+    "address": "서울 성동구 송정길 82-3",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09200118",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "UAgWt3VhRWf38nRm7EChAA==",
+        "pan": "152.74",
+        "tilt": "10.00",
+        "lng": "127.0670944",
+        "lat": "37.5523509",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20191124_115/1574587856647chvOY_JPEG/urFXxWoAkOlEGU4CU6Pi0TTf.jpg",
+        "https://ldb-phinf.pstatic.net/20191124_289/1574587880760dyGBs_JPEG/mvRfn_KyDlwUgbqTVWBmSkcI.jpg",
+        "https://ldb-phinf.pstatic.net/20191124_17/1574587896065KQpvD_JPEG/9DO7Hkjj8ynWDSsAyvO7sG7p.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1607717078,
+    "name": "카페퍼블리코",
+    "displayName": "",
+    "px": 126.9259331,
+    "py": 37.5000935,
+    "type": "place",
+    "useTime": 1713338364000,
+    "lastUpdateTime": 1713338364000,
+    "creationTime": 1713338363000,
+    "order": 65535,
+    "sid": "36652436",
+    "address": "서울 동작구 상도로 47",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09590108",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "lcyqzTzRY3ZRY69utExhRg==",
+        "pan": "-2.68",
+        "tilt": "7.69",
+        "lng": "126.9257674",
+        "lat": "37.4998470",
+        "fov": "40"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240811_32/1723351089363ADmoE_JPEG/RNI-Films-IMG-044F9A6E-3030-4C92-919C-6B5BBDE7A445.jpeg",
+        "https://ldb-phinf.pstatic.net/20231222_212/1703179775160p6MyT_JPEG/IMG_3551.jpeg",
+        "https://ldb-phinf.pstatic.net/20240123_208/1705981277017JrjXD_JPEG/IMG_4150.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1596732645,
+    "name": "코코로카라",
+    "displayName": "",
+    "px": 126.9209445,
+    "py": 37.5598025,
+    "type": "place",
+    "useTime": 1712927913000,
+    "lastUpdateTime": 1712927913000,
+    "creationTime": 1712927912000,
+    "order": 65535,
+    "sid": "1601437484",
+    "address": "서울 마포구 연남로1길 41",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09440124",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220564",
+      "221161"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "1nLVPvi8oL+5KHgV14wS4w==",
+        "pan": "139.12",
+        "tilt": "10.00",
+        "lng": "126.9208920",
+        "lat": "37.5598630",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240516_114/1715791670563Ndyaq_JPEG/KakaoTalk_20240505_161642568_10.jpg",
+        "https://ldb-phinf.pstatic.net/20240516_110/17157915224899Jvj9_JPEG/KakaoTalk_20240505_161642568_11.jpg",
+        "https://ldb-phinf.pstatic.net/20240516_245/1715791531752JO5kK_JPEG/KakaoTalk_20240505_161642568_06.jpg"
+      ],
+      "category": "베이커리"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1595093990,
+    "name": "북앤레스트",
+    "displayName": "",
+    "px": 127.0565584,
+    "py": 37.5110369,
+    "type": "place",
+    "useTime": 1712882352000,
+    "lastUpdateTime": 1712882352000,
+    "creationTime": 1712882351000,
+    "order": 65535,
+    "sid": "1756441572",
+    "address": "서울 강남구 삼성로104길 22",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09680105",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220585",
+      "231392"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "8aU0usBzdGuVh+KdshsmqQ==",
+        "pan": "67.49",
+        "tilt": "10.00",
+        "lng": "127.0564216",
+        "lat": "37.5109801",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20200811_215/1597138898342c1FTj_JPEG/pLOGhjPAI5IVzSQq3poJzHes.jpeg.jpg",
+        "https://ldb-phinf.pstatic.net/20200206_167/1580975223530vHzsx_JPEG/ffXw4pIzSvbaBfYit3D_nynO.jpeg.jpg",
+        "https://ldb-phinf.pstatic.net/20200206_226/1580975237202jAJl2_JPEG/0cnx-oAOHRBQFg2UbqRe7Lkr.jpeg.jpg"
+      ],
+      "category": "북카페"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1590544090,
+    "name": "블러",
+    "displayName": "",
+    "px": 126.9142075,
+    "py": 37.5450277,
+    "type": "place",
+    "useTime": 1712714382000,
+    "lastUpdateTime": 1712714382000,
+    "creationTime": 1712714382000,
+    "order": 65535,
+    "sid": "1042607763",
+    "address": "서울 마포구 토정로 28-10",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09440122",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "6yRiWqmN9XDfUXPDR1dGqA==",
+        "pan": "-172.44",
+        "tilt": "10.00",
+        "lng": "126.9142271",
+        "lat": "37.5451736",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240919_110/1726714653570LSd6X_JPEG/%B7%E7%C7%C1%C5%BE%B8%DE%C0%CE%BB%E7%C1%F8.jpg",
+        "https://ldb-phinf.pstatic.net/20240324_58/1711272058213vuHk5_JPEG/%B5%F0%C0%FA%C6%AE%B5%F0%C7%C7.jpg",
+        "https://ldb-phinf.pstatic.net/20221012_190/1665556940482exVxX_JPEG/20221007_173701.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1580195699,
+    "name": "센터커피 서울숲점",
+    "displayName": "",
+    "px": 127.0416166,
+    "py": 37.5465756,
+    "type": "place",
+    "useTime": 1712327697000,
+    "lastUpdateTime": 1712327697000,
+    "creationTime": 1712327696000,
+    "order": 65535,
+    "sid": "523890342",
+    "address": "서울 성동구 서울숲2길 28-11",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09200114",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221212"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "9wGVTDxKng69vAJYIr97Kw==",
+        "pan": "124.68",
+        "tilt": "10.00",
+        "lng": "127.0415349",
+        "lat": "37.5466320",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20180205_209/1517800015735jCCMo_JPEG/c3T6SHFtAlqOOg5omWZ5NhRQ.JPG.jpg",
+        "https://ldb-phinf.pstatic.net/20180205_262/1517800016095LUgXz_JPEG/6v8UpyuXUvgr6OYyDhC--3OH.JPG.jpg",
+        "https://ldb-phinf.pstatic.net/20180205_6/1517800016115FRk0s_JPEG/HHw00WO_Qd_dA1BMOCTld0W6.JPG.jpg"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1535570798,
+    "name": "콤포타블 남산",
+    "displayName": "",
+    "px": 126.9834248,
+    "py": 37.54932,
+    "type": "place",
+    "useTime": 1710683160000,
+    "lastUpdateTime": 1710683160000,
+    "creationTime": 1710683159000,
+    "order": 65535,
+    "sid": "1487216698",
+    "address": "서울 용산구 두텁바위로60길 49",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09170101",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "4Nl0AN5N4AIOh5YBqDkkfg==",
+        "pan": "-96.57",
+        "tilt": "10.00",
+        "lng": "126.9837849",
+        "lat": "37.5493612",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20230602_79/1685677448584IMCIJ_JPEG/0X7A0881.jpg",
+        "https://ldb-phinf.pstatic.net/20230602_3/1685677450109xupvL_JPEG/0X7A0885.jpg",
+        "https://ldb-phinf.pstatic.net/20230602_204/1685677448452kPDF4_JPEG/0X7A0977.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1501242325,
+    "name": "피어몬트",
+    "displayName": "",
+    "px": 127.1260579,
+    "py": 37.4288206,
+    "type": "place",
+    "useTime": 1709359902000,
+    "lastUpdateTime": 1709359902000,
+    "creationTime": 1709359901000,
+    "order": 65535,
+    "sid": "1074156354",
+    "address": "경기 성남시 중원구 둔촌대로64번길 4-7",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "02133101",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "0/SKQr/IbazK9dYTIxp/qA==",
+        "pan": "-115.96",
+        "tilt": "10.00",
+        "lng": "127.1261685",
+        "lat": "37.4288743",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20191202_175/1575235429689CIHNm_JPEG/84fOoDBVvTgj9IW4jB4zgf3U.jpeg.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1471810122,
+    "name": "성수동대림창고갤러리",
+    "displayName": "",
+    "px": 127.0562429,
+    "py": 37.541736,
+    "type": "place",
+    "useTime": 1708246237000,
+    "lastUpdateTime": 1708246237000,
+    "creationTime": 1708246237000,
+    "order": 65535,
+    "sid": "37910590",
+    "address": "서울 성동구 성수이로 78",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09200115",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "ih3sFgtIsUbWKTs2pEiCbw==",
+        "pan": "89.98",
+        "tilt": "2.60",
+        "lng": "127.0560755",
+        "lat": "37.5417709",
+        "fov": "100"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20220705_23/1656959975816l90nE_JPEG/KakaoTalk_Photo_2022-07-05-03-39-03_004.jpeg",
+        "https://ldb-phinf.pstatic.net/20220705_65/1656959975574rVrxW_JPEG/KakaoTalk_Photo_2022-07-05-03-39-02_001.jpeg",
+        "https://ldb-phinf.pstatic.net/20220705_133/1656959974893q280J_JPEG/KakaoTalk_Photo_2022-07-05-03-38-50_002.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1458938167,
+    "name": "프릳츠 양재점",
+    "displayName": "",
+    "px": 127.0322383,
+    "py": 37.4853569,
+    "type": "place",
+    "useTime": 1707730907000,
+    "lastUpdateTime": 1707730907000,
+    "creationTime": 1707730907000,
+    "order": 65535,
+    "sid": "460950912",
+    "address": "서울 서초구 강남대로37길 24-11",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09650108",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "Y/gxBFdHPjIC1rxV7qkNyg==",
+        "pan": "-84.21",
+        "tilt": "-11.45",
+        "lng": "127.0323322",
+        "lat": "37.4853312",
+        "fov": "100"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20230522_112/1684727062443d2ppM_JPEG/1.jpg",
+        "https://ldb-phinf.pstatic.net/20230522_152/1684727061070KKc0T_JPEG/2.jpg",
+        "https://ldb-phinf.pstatic.net/20230522_244/1684727061830548mH_JPEG/3.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1435158655,
+    "name": "니모닉커피하우스",
+    "displayName": "",
+    "px": 126.9639027,
+    "py": 37.595222,
+    "type": "place",
+    "useTime": 1706743241000,
+    "lastUpdateTime": 1706743241000,
+    "creationTime": 1706743241000,
+    "order": 65535,
+    "sid": "1040543629",
+    "address": "서울 종로구 자하문로 236",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09110184",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "yGodhXRQLp88QnuY7m23ow==",
+        "pan": "95.82",
+        "tilt": "11.50",
+        "lng": "126.9637655",
+        "lat": "37.5953325",
+        "fov": "47"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240706_13/1720196207032U2BXa_JPEG/1000048738.jpg",
+        "https://ldb-phinf.pstatic.net/20240501_26/1714572980699WsO77_JPEG/1000048318.jpg",
+        "https://ldb-phinf.pstatic.net/20240501_196/1714572980687lx7G1_JPEG/1000048321.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1404923837,
+    "name": "비엔나커피하우스 이수역점",
+    "displayName": "",
+    "px": 126.9824254,
+    "py": 37.4842784,
+    "type": "place",
+    "useTime": 1705472169000,
+    "lastUpdateTime": 1705472169000,
+    "creationTime": 1705472169000,
+    "order": 65535,
+    "sid": "1175086473",
+    "address": "서울 서초구 동작대로 86",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09650101",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "232021"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "hzbsqnBlxeZEYm0TGoLLng==",
+        "pan": "58.98",
+        "tilt": "8.44",
+        "lng": "126.9822346",
+        "lat": "37.4841093",
+        "fov": "65"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20181214_195/1544749510952qHzqp_JPEG/3lJocwEEuTRPqHjJFpMwgb3g.jpg",
+        "https://ldb-phinf.pstatic.net/20181214_277/1544749439568FlwPK_JPEG/PP40x4EDpYhyWx39OojeRq43.jpg",
+        "https://ldb-phinf.pstatic.net/20190308_94/1551982808923Ndtmh_JPEG/owpQNGxSNK6jNFMYCOvrPO_N.jpg"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1399259896,
+    "name": "커피스터프",
+    "displayName": "",
+    "px": 127.0827955,
+    "py": 37.5950398,
+    "type": "place",
+    "useTime": 1705229179000,
+    "lastUpdateTime": 1705229179000,
+    "creationTime": 1705229166000,
+    "order": 65535,
+    "sid": "1284783089",
+    "address": "서울 중랑구 망우로42길 10",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09260102",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "IVyySPRZQ7ln4O6F0swg6g==",
+        "pan": "-105.95",
+        "tilt": "-0.44",
+        "lng": "127.0829156",
+        "lat": "37.5950217",
+        "fov": "90"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20201217_229/1608186142306DKBlU_JPEG/V0SMqECVyS8ff3l7AdbPBYp9.jpg",
+        "https://ldb-phinf.pstatic.net/20201217_7/1608186149913Gln4z_JPEG/caT--tTRg_qGRjw4tHTWFEs9.jpg",
+        "https://ldb-phinf.pstatic.net/20201217_16/16081873781883st56_JPEG/sy3G2JfwfK36oxNRtwvraqCS.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1382176268,
+    "name": "앤트러사이트 한남점",
+    "displayName": "",
+    "px": 127.0001596,
+    "py": 37.536116,
+    "type": "place",
+    "useTime": 1704498779000,
+    "lastUpdateTime": 1704498779000,
+    "creationTime": 1704498778000,
+    "order": 65535,
+    "sid": "1392057734",
+    "address": "서울 용산구 이태원로 240",
+    "memo": null,
+    "url": null,
+    "mcid": "GENERAL",
+    "mcidName": "일반",
+    "rcode": "09170131",
+    "cidPath": [
+      "225111",
+      "225131",
+      "225332"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "qhO6gBikWBQF39tew2VbuQ==",
+        "pan": "135.07",
+        "tilt": "10.00",
+        "lng": "126.9999624",
+        "lat": "37.5363069",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20200811_121/1597123001106Gf7h1_JPEG/PHZQg1bYBgxlH_MrE7CRaLkB.jpg",
+        "https://ldb-phinf.pstatic.net/20200811_201/1597123007632HHL5T_JPEG/K_1GY6iboFtacK41mB9lH1d5.jpg",
+        "https://ldb-phinf.pstatic.net/20200811_151/1597123012876o4al9_PNG/u2m6s98DmuMt8yBuJKBp7k78.png"
+      ],
+      "category": "기업"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1376522269,
+    "name": "스타벅스 경동1960점",
+    "displayName": "",
+    "px": 127.038685,
+    "py": 37.5796141,
+    "type": "place",
+    "useTime": 1704243069000,
+    "lastUpdateTime": 1704243069000,
+    "creationTime": 1704243069000,
+    "order": 65535,
+    "sid": "1074329215",
+    "address": "서울 동대문구 고산자로36길 3",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09230103",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221275"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "c43fink/jHN8dgC7qvjvzA==",
+        "pan": "104.66",
+        "tilt": "10.00",
+        "lng": "127.0385150",
+        "lat": "37.5796580",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20190828_93/1566953601239OT9MQ_PNG/xX7Wv642gXMoTI0DAv0hRymS.png",
+        "https://naverbooking-phinf.pstatic.net/20240611_177/1718104571733eucgP_JPEG/image.jpg"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1375941520,
+    "name": "너디블루",
+    "displayName": "",
+    "px": 127.0529327,
+    "py": 37.585425,
+    "type": "place",
+    "useTime": 1704206203000,
+    "lastUpdateTime": 1704206203000,
+    "creationTime": 1704206202000,
+    "order": 65535,
+    "sid": "81033019",
+    "address": "서울 동대문구 전농로36길 9",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09230104",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "fHn2lg0Ue3K2IFqBTYpipA==",
+        "pan": "9.18",
+        "tilt": "-19.43",
+        "lng": "127.0529727",
+        "lat": "37.5853521",
+        "fov": "100"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20230427_109/1682592618184Dq3vv_JPEG/BCCC31D0-C895-49CD-BD38-BBEF9084866E.jpeg",
+        "https://ldb-phinf.pstatic.net/20230427_49/1682592618266aI8Ok_JPEG/9ED6AB95-02B8-45B9-8E18-D70817EC8783.jpeg",
+        "https://ldb-phinf.pstatic.net/20221104_36/1667510380050JzFGO_JPEG/IMG_9162.JPG"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1372079201,
+    "name": "지하실B1",
+    "displayName": "",
+    "px": 127.0854422,
+    "py": 37.5818922,
+    "type": "place",
+    "useTime": 1704011566000,
+    "lastUpdateTime": 1704011566000,
+    "creationTime": 1704011566000,
+    "order": 65535,
+    "sid": "1903329330",
+    "address": "서울 중랑구 사가정로45길 18",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09260101",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "oqwN/Ohdm7xI+RSTEcLo4w==",
+        "pan": "177.41",
+        "tilt": "10.00",
+        "lng": "127.0854388",
+        "lat": "37.5819648",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240528_106/1716888262260Vv2Cp_JPEG/IMG_8737.jpeg",
+        "https://ldb-phinf.pstatic.net/20240528_202/1716888262207MXBsu_JPEG/IMG_8738.jpeg",
+        "https://ldb-phinf.pstatic.net/20240528_202/1716888262315FpSSk_JPEG/IMG_8739.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1351786918,
+    "name": "마띠에르 bakery & roastery",
+    "displayName": "",
+    "px": 126.999305,
+    "py": 37.5823439,
+    "type": "place",
+    "useTime": 1703032516000,
+    "lastUpdateTime": 1703032516000,
+    "creationTime": 1703032515000,
+    "order": 65535,
+    "sid": "1299095472",
+    "address": "서울 종로구 대학로11길 41-6",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09110172",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "kJ9bMQ8+yQLeq2Snpz6k0A==",
+        "pan": "-145.58",
+        "tilt": "3.69",
+        "lng": "126.9994232",
+        "lat": "37.5825282",
+        "fov": "40"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240706_161/17202595074744bXgz_JPEG/1720259179609.jpg",
+        "https://ldb-phinf.pstatic.net/20240601_26/1717241396463thOhf_JPEG/1717148772817.jpg",
+        "https://ldb-phinf.pstatic.net/20240601_184/17172417349970X5Y5_JPEG/1713581398916.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1351784732,
+    "name": "해화",
+    "displayName": "",
+    "px": 127.0000409,
+    "py": 37.582989,
+    "type": "place",
+    "useTime": 1703032369000,
+    "lastUpdateTime": 1703032369000,
+    "creationTime": 1703032369000,
+    "order": 65535,
+    "sid": "1838729179",
+    "address": "서울 종로구 대명1길 16-12",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09110172",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "4Ebfwqn5UVnWt6rwN+gYXw==",
+        "pan": "-26.54",
+        "tilt": "0.72",
+        "lng": "127.0000425",
+        "lat": "37.5829224",
+        "fov": "80"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20231113_65/1699883805999P3PJa_JPEG/IMG_3965.jpeg",
+        "https://ldb-phinf.pstatic.net/20240417_168/17133386791099mU1j_JPEG/IMG_7563.jpeg",
+        "https://ldb-phinf.pstatic.net/20231113_235/1699884199956Xqgds_JPEG/IMG_4001.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1351257885,
+    "name": "어니스트팬케이크",
+    "displayName": "",
+    "px": 126.9248863,
+    "py": 37.5623435,
+    "type": "place",
+    "useTime": 1702994262000,
+    "lastUpdateTime": 1702994262000,
+    "creationTime": 1702994262000,
+    "order": 65535,
+    "sid": "1066853151",
+    "address": "서울 마포구 동교로38안길 13",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09440124",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "mDXiEx4MaYB6QClxIggzHg==",
+        "pan": "-18.58",
+        "tilt": "3.63",
+        "lng": "126.9248772",
+        "lat": "37.5622958",
+        "fov": "92"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240407_6/1712484165684qdIqe_JPEG/0B1DAE78-EBFD-443C-876F-7BB323E35B0C.jpeg",
+        "https://ldb-phinf.pstatic.net/20240407_27/1712484166130Ls8jV_JPEG/IMG_8923.jpeg",
+        "https://ldb-phinf.pstatic.net/20240407_231/1712484166207yiRVN_JPEG/IMG_8938.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1351252707,
+    "name": "띵크프룻",
+    "displayName": "",
+    "px": 126.9291914,
+    "py": 37.5553578,
+    "type": "place",
+    "useTime": 1702994047000,
+    "lastUpdateTime": 1702994047000,
+    "creationTime": 1702994047000,
+    "order": 65535,
+    "sid": "1507982265",
+    "address": "서울 마포구 와우산로29길 14-12",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09440120",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "YIIxhLPkB8U370CC+Bv/cw==",
+        "pan": "-101.34",
+        "tilt": "5.31",
+        "lng": "126.9292450",
+        "lat": "37.5554080",
+        "fov": "45"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20241001_159/17277549301971SBna_JPEG/%B4%D9%BF%EE%B7%CE%B5%E5.jpeg",
+        "https://ldb-phinf.pstatic.net/20240920_262/1726821924376tEg9v_JPEG/%B4%EB%C1%F6_4_%BB%E7%BA%BB_9-100.jpg",
+        "https://ldb-phinf.pstatic.net/20240920_160/1726821920618Qf06C_JPEG/%B4%EB%C1%F6_4_%BB%E7%BA%BB_8-100.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1332842798,
+    "name": "커피한약방",
+    "displayName": "",
+    "px": 126.9886013,
+    "py": 37.5665845,
+    "type": "place",
+    "useTime": 1702008215000,
+    "lastUpdateTime": 1702008215000,
+    "creationTime": 1702008215000,
+    "order": 65535,
+    "sid": "1614417324",
+    "address": "서울 중구 삼일대로12길 16-6",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09140105",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221212"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "JvQqk976l5k3oFoysXFo8w==",
+        "pan": "133.85",
+        "tilt": "10.00",
+        "lng": "126.9885919",
+        "lat": "37.5667364",
+        "fov": "100"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20230122_36/1674315081239Xmpdy_JPEG/DSC03967.jpg",
+        "https://ldb-phinf.pstatic.net/20230122_235/1674315134948AdYdI_JPEG/DSC03979.jpg",
+        "https://ldb-phinf.pstatic.net/20230122_57/1674315078499n8fkI_JPEG/DSC03955.jpg"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1279274660,
+    "name": "을지빈",
+    "displayName": "",
+    "px": 126.992204,
+    "py": 37.5652209,
+    "type": "place",
+    "useTime": 1699006034000,
+    "lastUpdateTime": 1699006034000,
+    "creationTime": 1699006034000,
+    "order": 65535,
+    "sid": "1206209216",
+    "address": "서울 중구 을지로14길 21 2층 을지빈",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09140155",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221212"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "I5D7DzGFEAdjUTkMALseNg==",
+        "pan": "126.99",
+        "tilt": "29.38",
+        "lng": "126.9921132",
+        "lat": "37.5654936",
+        "fov": "90"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20210205_211/16125166026167vx4J_JPEG/image.jpg",
+        "https://ldb-phinf.pstatic.net/20200217_1/1581949322667auUNY_JPEG/9BKZbi9Wr3HaeDxNsbQFp0NO.jpeg.jpg",
+        "https://ldb-phinf.pstatic.net/20240717_48/1721192106795kmmr1_JPEG/IMG_5651.jpeg"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1260819162,
+    "name": "더쌍화",
+    "displayName": "",
+    "px": 127.0057016,
+    "py": 37.5707402,
+    "type": "place",
+    "useTime": 1698034351000,
+    "lastUpdateTime": 1698034351000,
+    "creationTime": 1698034350000,
+    "order": 65535,
+    "sid": "38008354",
+    "address": "서울 종로구 종로 252-6 1층",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09110163",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220580",
+      "221395"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "Enyb7m8gGq46/EcS+mcK4w==",
+        "pan": "13.06",
+        "tilt": "10.00",
+        "lng": "127.0056853",
+        "lat": "37.5706699",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20201107_152/1604732541604p1UVb_JPEG/VvM5Zp0afoOPyXxEqQa4BrgV.jpg",
+        "https://ldb-phinf.pstatic.net/20201107_61/160473253542792wXL_JPEG/peNuQhzZIpl7u9VDVOsFDF8i.jpg",
+        "https://ldb-phinf.pstatic.net/20191116_252/1573899340389sDbMA_JPEG/DpooCx1xquU-AfTYCw1Hh34p.jpeg.jpg"
+      ],
+      "category": "차"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1251327832,
+    "name": "시애틀커피하우스",
+    "displayName": "",
+    "px": 126.9915576,
+    "py": 37.5706843,
+    "type": "place",
+    "useTime": 1697519059000,
+    "lastUpdateTime": 1697519059000,
+    "creationTime": 1697519058000,
+    "order": 65535,
+    "sid": "1058863783",
+    "address": "서울특별시 종로구 종로3가 18 1층",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09110156",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "vkG1h0pQPvIo5tsHzRz6jw==",
+        "pan": "-12.65",
+        "tilt": "10.00",
+        "lng": "126.9915996",
+        "lat": "37.5704970",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20230825_235/1692934451020IGV7c_JPEG/1691713019010.jpg",
+        "https://ldb-phinf.pstatic.net/20230728_67/1690533219091X3FkR_JPEG/KakaoTalk_20230728_173216489.jpg",
+        "https://ldb-phinf.pstatic.net/20230728_113/1690533220217xAYIw_JPEG/KakaoTalk_20230728_173151447.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1246691787,
+    "name": "브릭하우스",
+    "displayName": "",
+    "px": 127.0221757,
+    "py": 37.5652232,
+    "type": "place",
+    "useTime": 1697267649000,
+    "lastUpdateTime": 1697267649000,
+    "creationTime": 1697267649000,
+    "order": 65535,
+    "sid": "36939793",
+    "address": "서울특별시 중구 신당동 150-5 1,2층",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09140162",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "fSSk+qw59Wi8w5dbHnIMTQ==",
+        "pan": "-158.72",
+        "tilt": "5.88",
+        "lng": "127.0222856",
+        "lat": "37.5653839",
+        "fov": "40"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20150930_214/14435960320377Ionk_JPEG/SUBMIT_1443596028661_36939793.jpg",
+        "https://ldb-phinf.pstatic.net/20191019_263/1571449268444ptDOK_JPEG/mNdOV13syTc5gAEX1qxnNg23.jpg",
+        "https://ldb-phinf.pstatic.net/20210213_156/1613182513341h6H3F_JPEG/P5u_d6KM8BnHn48pS0uMs3w3.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1153159064,
+    "name": "커피그라운즈",
+    "displayName": "",
+    "px": 127.0578588,
+    "py": 37.5701782,
+    "type": "place",
+    "useTime": 1692095553000,
+    "lastUpdateTime": 1692095553000,
+    "creationTime": 1692095552000,
+    "order": 65535,
+    "sid": "32333211",
+    "address": "서울 동대문구 답십리로48길 57 1층",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09230105",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221212"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "rUXX9KzBgmPn2Y/YIpL3ZQ==",
+        "pan": "102.03",
+        "tilt": "10.00",
+        "lng": "127.0577575",
+        "lat": "37.5701997",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20171114_156/1510620543927S8IHp_JPEG/pIeuDu71h26N5P1onoHGz-Dr.jpg"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1153157971,
+    "name": "Cafe BK",
+    "displayName": "",
+    "px": 127.0919119,
+    "py": 37.5881877,
+    "type": "place",
+    "useTime": 1692095511000,
+    "lastUpdateTime": 1692095511000,
+    "creationTime": 1692095510000,
+    "order": 65535,
+    "sid": "32307989",
+    "address": "서울특별시 중랑구 면목동 70-67 금동빌딩 1층",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09260101",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "rIRneWNwW1q7hrqiDagsvQ==",
+        "pan": "112.23",
+        "tilt": "-19.31",
+        "lng": "127.0918433",
+        "lat": "37.5882368",
+        "fov": "57"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20220610_258/1654823780305yQ6km_JPEG/6644841E-AC96-4823-850F-232D96074C68.jpeg",
+        "https://ldb-phinf.pstatic.net/20200401_87/1585718435648eFPc9_JPEG/IS5KHt-ZDEkOcJXDA7cCcLLU.jpg",
+        "https://ldb-phinf.pstatic.net/20220610_222/16548240779423WqSz_JPEG/B8EC3463-04F7-4F0A-A552-2653D62D18A7.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1144766541,
+    "name": "쮸즈",
+    "displayName": "",
+    "px": 127.0246813,
+    "py": 37.5195117,
+    "type": "place",
+    "useTime": 1691675232000,
+    "lastUpdateTime": 1691675232000,
+    "creationTime": 1691675232000,
+    "order": 65535,
+    "sid": "34786487",
+    "address": "서울 강남구 도산대로17길 13 ",
+    "memo": null,
+    "url": null,
+    "mcid": "DINING",
+    "mcidName": "음식점",
+    "rcode": "09680107",
+    "cidPath": [
+      "220036",
+      "220039",
+      "220092"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "0JN4gWgEnA2O8y4/giHzEA==",
+        "pan": "-92.50",
+        "tilt": "10.00",
+        "lng": "127.0247452",
+        "lat": "37.5195348",
+        "fov": "100"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20150901_73/1441110006820xDlk9_JPEG/156370526675934_0.jpeg",
+        "https://ldb-phinf.pstatic.net/20150901_200/1441110007050lTNfl_JPEG/156370526675934_1.jpeg",
+        "https://ldb-phinf.pstatic.net/20150901_162/14411100073159fBEq_JPEG/156370526675934_2.jpeg"
+      ],
+      "category": "딤섬,중식만두"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1144765763,
+    "name": "SADDLER HAUS",
+    "displayName": "",
+    "px": 127.0249425,
+    "py": 37.5193887,
+    "type": "place",
+    "useTime": 1691675203000,
+    "lastUpdateTime": 1691675203000,
+    "creationTime": 1691675203000,
+    "order": 65535,
+    "sid": "38328122",
+    "address": "서울 강남구 도산대로17길 10 B1 새들러하우스",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09680107",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220567",
+      "221188"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "DBSNVo7QRK/m2KPTxlyjrQ==",
+        "pan": "80.09",
+        "tilt": "10.00",
+        "lng": "127.0248131",
+        "lat": "37.5193660",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20230413_149/1681376256167v4TDU_JPEG/%BF%CD%C7%C3%B7%CE%B0%ED%B8%DE%C0%CE.jpg",
+        "https://ldb-phinf.pstatic.net/20230413_182/1681376593749vgJWK_JPEG/%BF%CD%C7%C3%C1%F8%BF%AD%C0%E5.jpg",
+        "https://ldb-phinf.pstatic.net/20230416_111/1681651972183j3Qvm_JPEG/IMG_7388.jpeg"
+      ],
+      "category": "와플"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1139462036,
+    "name": "낙타날다 사당역점",
+    "displayName": "",
+    "px": 126.9807332,
+    "py": 37.4752159,
+    "type": "place",
+    "useTime": 1691383059000,
+    "lastUpdateTime": 1691383059000,
+    "creationTime": 1691383058000,
+    "order": 65535,
+    "sid": "1664183009",
+    "address": "서울 관악구 승방4길 32 ",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09620103",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "/cLMsl8SDJpE1+zh0+ayzA==",
+        "pan": "73.48",
+        "tilt": "10.00",
+        "lng": "126.9805468",
+        "lat": "37.4751605",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20230608_283/1686224552191qN0hl_JPEG/KakaoTalk_20230608_142915566_02.jpg",
+        "https://ldb-phinf.pstatic.net/20230608_125/1686224584258MXGFr_JPEG/KakaoTalk_20230608_142911128_02.jpg",
+        "https://ldb-phinf.pstatic.net/20230608_104/1686224585017SFu9x_JPEG/KakaoTalk_20230608_142911128_03.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1120361823,
+    "name": "소지카페",
+    "displayName": "",
+    "px": 126.9788922,
+    "py": 37.2953745,
+    "type": "place",
+    "useTime": 1690370635000,
+    "lastUpdateTime": 1690370635000,
+    "creationTime": 1690370634000,
+    "order": 65535,
+    "sid": "1256301640",
+    "address": "경기도 수원시 장안구 천천동 268-3 1층 101호",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "02111133",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "jIjcJecPYOdppmIhm5oy4Q==",
+        "pan": "137.63",
+        "tilt": "17.94",
+        "lng": "126.9788384",
+        "lat": "37.2954689",
+        "fov": "67"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20230227_229/1677458905663YuPbb_JPEG/1677458838576.jpg",
+        "https://ldb-phinf.pstatic.net/20230305_190/1678015678540ilMlx_JPEG/1678015665328.jpg",
+        "https://ldb-phinf.pstatic.net/20230223_267/1677146099332K1vfd_JPEG/1677146016272.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1110711917,
+    "name": "앤트러사이트 서교점",
+    "displayName": "",
+    "px": 126.9116843,
+    "py": 37.5555156,
+    "type": "place",
+    "useTime": 1689843220000,
+    "lastUpdateTime": 1689843220000,
+    "creationTime": 1689843220000,
+    "order": 65535,
+    "sid": "1088501208",
+    "address": "서울특별시 마포구 서교동 475-22",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09440120",
+    "cidPath": [
+      "220036",
+      "220052",
+      "1005672"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "FD8HLEBB3sDkxcI2+vMN2A==",
+        "pan": "-24.39",
+        "tilt": "10.00",
+        "lng": "126.9117958",
+        "lat": "37.5552695",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20200811_214/159712331666529Dma_JPEG/409ExA097rjwaHFlk8yA9e4u.jpg",
+        "https://ldb-phinf.pstatic.net/20200811_254/1597123324387GAuLX_JPEG/5a5KgMg6ocdIMQpheaMkz2l0.jpg",
+        "https://ldb-phinf.pstatic.net/20200811_54/15971233304472xvpy_JPEG/aR7P6xdjFp3KyGHaLPtSEF3t.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1110708672,
+    "name": "카페 레이어드 연남점",
+    "displayName": "",
+    "px": 126.9242086,
+    "py": 37.5649954,
+    "type": "place",
+    "useTime": 1689843081000,
+    "lastUpdateTime": 1689843081000,
+    "creationTime": 1689843080000,
+    "order": 65535,
+    "sid": "1500504643",
+    "address": "서울특별시 마포구 연남동 223-20",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09440124",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "0+Q5fK2C9RvF7Z0MAv192A==",
+        "pan": "21.54",
+        "tilt": "-8.61",
+        "lng": "126.9241647",
+        "lat": "37.5648654",
+        "fov": "100"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240618_134/1718671159145WEfro_JPEG/KakaoTalk_Photo_2024-06-18-09-30-50_012.jpeg",
+        "https://ldb-phinf.pstatic.net/20240618_229/1718671154269kCtTN_JPEG/KakaoTalk_Photo_2024-06-18-09-30-50_013.jpeg",
+        "https://ldb-phinf.pstatic.net/20240618_283/1718671151532Gng0j_JPEG/KakaoTalk_Photo_2024-06-18-09-30-50_014.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1110697632,
+    "name": "카페 키츠네 서울",
+    "displayName": "",
+    "px": 127.0227589,
+    "py": 37.5196606,
+    "type": "place",
+    "useTime": 1689842600000,
+    "lastUpdateTime": 1689842600000,
+    "creationTime": 1689842600000,
+    "order": 65535,
+    "sid": "1443104731",
+    "address": "서울특별시 강남구 신사동 535-13 1층",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09680107",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "QYGsJunMm6nLMx5jQI6W4g==",
+        "pan": "-101.46",
+        "tilt": "10.00",
+        "lng": "127.0230945",
+        "lat": "37.5197283",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20220823_85/1661246983275tUEmJ_JPEG/2022%B8%DE%B4%BA.jpg",
+        "https://ldb-phinf.pstatic.net/20200814_141/1597391411927URyLv_JPEG/pYXh4pucr22FLZyLmQhza3Jt.jpeg.jpg",
+        "https://ldb-phinf.pstatic.net/20200814_298/1597391408626R5VDe_JPEG/Znbd2Nwx-VRcVn5GB3QYmSr4.jpeg.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1110692523,
+    "name": "벙커컴퍼니 압구정점",
+    "displayName": "",
+    "px": 127.0312294,
+    "py": 37.5263818,
+    "type": "place",
+    "useTime": 1689842371000,
+    "lastUpdateTime": 1689842371000,
+    "creationTime": 1689842370000,
+    "order": 65535,
+    "sid": "1341393737",
+    "address": "서울특별시 강남구 신사동 607-20 단독주택 1, 2층",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09680107",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "NyO3AX5BotMsMgeKKOJ/zg==",
+        "pan": "-147.15",
+        "tilt": "10.00",
+        "lng": "127.0312757",
+        "lat": "37.5264533",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20230807_262/1691412291757V88QY_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2023-08-07_%BF%C0%C8%C4_9.44.20.png",
+        "https://ldb-phinf.pstatic.net/20240404_283/17121771200038bfc7_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2024-04-04_%BF%C0%C0%FC_5.43.26.png",
+        "https://ldb-phinf.pstatic.net/20240404_55/1712177012077v7cSk_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2024-04-04_%BF%C0%C0%FC_5.40.54.png"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1110680121,
+    "name": "어니언 성수",
+    "displayName": "",
+    "px": 127.0581051,
+    "py": 37.5446909,
+    "type": "place",
+    "useTime": 1689841809000,
+    "lastUpdateTime": 1689841809000,
+    "creationTime": 1689841808000,
+    "order": 65535,
+    "sid": "38561949",
+    "address": "서울특별시 성동구 성수동2가 277-135 어니언",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09200115",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "Bzymb55XzcLxaPxx7fDrBA==",
+        "pan": "80.18",
+        "tilt": "3.64",
+        "lng": "127.0579663",
+        "lat": "37.5446377",
+        "fov": "100"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20230612_255/1686562488552F0Omh_PNG/LOGO.png",
+        "https://ldb-phinf.pstatic.net/20190204_269/1549212634045uJAvX_PNG/Zfpnq_GUADvxtxA8DK6xvfOK.png",
+        "https://ldb-phinf.pstatic.net/20190204_50/1549212633872vIrQe_PNG/8iy8Cqn601ZkIAa8Ef1SViSA.png"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1109533061,
+    "name": "킵댓 로스터리",
+    "displayName": "",
+    "px": 127.0141266,
+    "py": 37.2836084,
+    "type": "place",
+    "useTime": 1689773543000,
+    "lastUpdateTime": 1689773543000,
+    "creationTime": 1689773542000,
+    "order": 65535,
+    "sid": "1789796602",
+    "address": "경기 수원시 팔달구 화서문로42번길 46 킵댓",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "02115130",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "wdx6vUUMmPyx3rcWdjtB4A==",
+        "pan": "146.66",
+        "tilt": "10.00",
+        "lng": "127.0140329",
+        "lat": "37.2837504",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20220628_88/1656405686581XxigB_JPEG/KakaoTalk_20220628_174033938_02.jpg",
+        "https://ldb-phinf.pstatic.net/20220628_6/1656405686543qaEN8_JPEG/KakaoTalk_20220628_174033938_01.jpg",
+        "https://ldb-phinf.pstatic.net/20220628_101/1656405686535h3bth_JPEG/KakaoTalk_20220628_174033938_04.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1106967591,
+    "name": "포티드",
+    "displayName": "",
+    "px": 126.9387731,
+    "py": 37.5581894,
+    "type": "place",
+    "useTime": 1689637551000,
+    "lastUpdateTime": 1689637551000,
+    "creationTime": 1689637551000,
+    "order": 65535,
+    "sid": "1946991741",
+    "address": "서울 서대문구 명물길 36-3 1층",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09410116",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "PnjfzKo4YRc/ehyK79Lf2w==",
+        "pan": "91.46",
+        "tilt": "8.00",
+        "lng": "126.9386874",
+        "lat": "37.5581853",
+        "fov": "83"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20200624_72/1592988705593uOPRT_JPEG/bo3Oypp3l9DtxwnndNH8oYM5.jpg",
+        "https://ldb-phinf.pstatic.net/20200624_110/15929887637459tUMK_JPEG/1k3M57_jpK_ojR6onxfQ1Wrb.jpg",
+        "https://ldb-phinf.pstatic.net/20200624_76/1592988763896NA4AX_JPEG/DvnLlHQI2OYp8NYMulgpwfL6.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": true
+  },
+  {
+    "bookmarkId": 1099137045,
+    "name": "먹고또먹고",
+    "displayName": "",
+    "px": 127.0255541,
+    "py": 37.572842,
+    "type": "place",
+    "useTime": 1689173840000,
+    "lastUpdateTime": 1689173840000,
+    "creationTime": 1689173839000,
+    "order": 65535,
+    "sid": "1879894432",
+    "address": "서울특별시 동대문구 신설동 109-5",
+    "memo": null,
+    "url": null,
+    "mcid": "DINING",
+    "mcidName": "음식점",
+    "rcode": "09230101",
+    "cidPath": [
+      "220036",
+      "220048",
+      "220185"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "a3yB/1OdObH/MEGsCpUtxA==",
+        "pan": "26.22",
+        "tilt": "10.00",
+        "lng": "127.0253538",
+        "lat": "37.5724351",
+        "fov": "120"
+      },
+      "thumbnailUrls": [],
+      "category": "종합분식"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1077054355,
+    "name": "레자미오네뜨",
+    "displayName": "",
+    "px": 127.0229232,
+    "py": 37.5120871,
+    "type": "place",
+    "useTime": 1687874936000,
+    "lastUpdateTime": 1687874936000,
+    "creationTime": 1687874935000,
+    "order": 65535,
+    "sid": "1643374390",
+    "address": "서울특별시 강남구 논현동 52-7 1층",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09680108",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220564",
+      "221161"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "9s9JLBUmFjzTr50iEFOiAA==",
+        "pan": "-96.93",
+        "tilt": "10.00",
+        "lng": "127.0231338",
+        "lat": "37.5121125",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20221114_243/1668379529420X5d3k_JPEG/%B7%B9%C0%DA%B9%CC%BF%C0%B3%D7%B6%DF.jpg"
+      ],
+      "category": "베이커리"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1075420276,
+    "name": "반다이크 브라운",
+    "displayName": "",
+    "px": 129.3172782,
+    "py": 35.9855657,
+    "type": "place",
+    "useTime": 1687779910000,
+    "lastUpdateTime": 1687779910000,
+    "creationTime": 1687779909000,
+    "order": 65535,
+    "sid": "1074059689",
+    "address": "경상북도 포항시 남구 연일읍 중명리 538 반다이크 브라운",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "0411125329",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "GXFOg+WSl8U5Ix88TEaqTw==",
+        "pan": "82.05",
+        "tilt": "10.00",
+        "lng": "129.3170453",
+        "lat": "35.9855330",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240925_118/1727254818578OwAj3_JPEG/%B9%DD%B4%D9%C0%CC%C5%A9_%BA%EA%B6%F3%BF%EE-6.jpg",
+        "https://ldb-phinf.pstatic.net/20240925_228/1727254817937F0LeR_JPEG/%B9%DD%B4%D9%C0%CC%C5%A9_%BA%EA%B6%F3%BF%EE-7.jpg",
+        "https://ldb-phinf.pstatic.net/20240416_282/1713264488291At57k_JPEG/%B9%DD%B4%D9%C0%CC%C5%A9_%BA%EA%B6%F3%BF%EE-1.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1070989956,
+    "name": "라프터커피바",
+    "displayName": "",
+    "px": 127.0148427,
+    "py": 37.2888758,
+    "type": "place",
+    "useTime": 1687513515000,
+    "lastUpdateTime": 1687513515000,
+    "creationTime": 1687513515000,
+    "order": 65535,
+    "sid": "1583324461",
+    "address": "경기도 수원시 팔달구 북수동 6-1 1층 라프터커피바",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "02115129",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "2KanV6NXB/wAAHKOrJyweQ==",
+        "pan": "138.78",
+        "tilt": "6.44",
+        "lng": "127.0148050",
+        "lat": "37.2889850",
+        "fov": "90"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20221201_200/1669870491689WUhXR_JPEG/KakaoTalk_Photo_2022-12-01-13-50-51.jpeg",
+        "https://ldb-phinf.pstatic.net/20220504_98/1651638361910YbsyG_JPEG/KakaoTalk_20220504_125609308_04.jpg",
+        "https://ldb-phinf.pstatic.net/20221201_268/1669870991408R2fVi_JPEG/KakaoTalk_Photo_2022-12-01-14-02-55.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1053221308,
+    "name": "더 스팟 패뷸러스",
+    "displayName": "",
+    "px": 126.9826004,
+    "py": 37.5623405,
+    "type": "place",
+    "useTime": 1686403203000,
+    "lastUpdateTime": 1686403203000,
+    "creationTime": 1686403203000,
+    "order": 65535,
+    "sid": "181633326",
+    "address": "서울특별시 중구 명동2가 105 1.2층",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09140127",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "kPS6AGDxQo03a4By1ofa7A==",
+        "pan": "-106.71",
+        "tilt": "4.03",
+        "lng": "126.9826956",
+        "lat": "37.5624393",
+        "fov": "100"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20200117_10/1579266380177M2JLY_JPEG/kCWopnX-fm4IDubRsf0g9Goa.jpg",
+        "https://ldb-phinf.pstatic.net/20240801_287/1722449721356IxBt4_JPEG/KakaoTalk_Photo_2024-08-01-03-07-21_006.jpeg",
+        "https://ldb-phinf.pstatic.net/20240801_194/1722449721346qTLCt_JPEG/KakaoTalk_Photo_2024-08-01-03-07-21_005.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1049265589,
+    "name": "카페하이웨스트 익선점",
+    "displayName": "",
+    "px": 126.9907084,
+    "py": 37.5731251,
+    "type": "place",
+    "useTime": 1686149219000,
+    "lastUpdateTime": 1686149219000,
+    "creationTime": 1686149219000,
+    "order": 65535,
+    "sid": "1827620160",
+    "address": "서울특별시 종로구 돈의동 13",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09110153",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "siyidq4h5LnFm8iR9eJ4mA==",
+        "pan": "83.32",
+        "tilt": "0.36",
+        "lng": "126.9906037",
+        "lat": "37.5731665",
+        "fov": "100"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240618_80/1718670724042Q6ptJ_JPEG/KakaoTalk_Photo_2024-06-18-09-30-49_009.jpeg",
+        "https://ldb-phinf.pstatic.net/20240618_132/1718693791598GwDPV_JPEG/KakaoTalk_Photo_2024-06-18-15-56-25.jpeg",
+        "https://ldb-phinf.pstatic.net/20240613_248/1718245171383xsOxw_JPEG/%BA%A3%C0%CC%BA%F1_%C5%D7%B5%F0%28%C7%CF%BF%FE%29.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1046333417,
+    "name": "로스톤",
+    "displayName": "",
+    "px": 126.8966378,
+    "py": 37.4956044,
+    "type": "place",
+    "useTime": 1685971443000,
+    "lastUpdateTime": 1685971443000,
+    "creationTime": 1685971443000,
+    "order": 65535,
+    "sid": "1139102374",
+    "address": "서울특별시 영등포구 대림동 726-7 1~4층",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09560133",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221212"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "wxbrmXSZkYN+raykwyl9SA==",
+        "pan": "93.80",
+        "tilt": "10.00",
+        "lng": "126.8965220",
+        "lat": "37.4956120",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20230531_164/1685529354219JqtFf_JPEG/KakaoTalk_20230515_195215080_2.jpg",
+        "https://ldb-phinf.pstatic.net/20231203_57/170152978151203axi_JPEG/IMG_0428.jpeg",
+        "https://ldb-phinf.pstatic.net/20231203_76/17015297816427JT1H_JPEG/IMG_0427.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1036013482,
+    "name": "커피콩",
+    "displayName": "",
+    "px": 127.0711671,
+    "py": 37.6259169,
+    "type": "place",
+    "useTime": 1685352679000,
+    "lastUpdateTime": 1685352679000,
+    "creationTime": 1685352679000,
+    "order": 65535,
+    "sid": "31744094",
+    "address": "서울특별시 노원구 공릉동 380-51 1층 커피콩",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09350103",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221212"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "tAQ45MQkHPkQCecP5KDQmw==",
+        "pan": "-101.05",
+        "tilt": "8.00",
+        "lng": "127.0712743",
+        "lat": "37.6259677",
+        "fov": "85"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20220117_195/16423856589390hQxf_JPEG/20220103_220616.jpg",
+        "https://ldb-phinf.pstatic.net/20220117_137/164238565963132ncE_JPEG/20220105_122949.jpg",
+        "https://ldb-phinf.pstatic.net/20220117_81/16423856596388Q83M_JPEG/20220105_122953.jpg"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1033268251,
+    "name": "테디뵈르하우스",
+    "displayName": "",
+    "px": 126.9725242,
+    "py": 37.5316404,
+    "type": "place",
+    "useTime": 1685188449000,
+    "lastUpdateTime": 1685188449000,
+    "creationTime": 1685188448000,
+    "order": 65535,
+    "sid": "1125171430",
+    "address": "서울특별시 용산구 한강로2가 49-1 1층",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09170125",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "sOt2AJWVtd/FmIJunPURjA==",
+        "pan": "90.81",
+        "tilt": "8.38",
+        "lng": "126.9724300",
+        "lat": "37.5316800",
+        "fov": "65"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20221007_212/16651062257035UoTL_JPEG/IMG_9BD6130A35BF-1.jpeg",
+        "https://ldb-phinf.pstatic.net/20240225_29/17088422551590j2Eq_PNG/%C1%A6%B8%F1_%BE%F8%C0%BD.png",
+        "https://ldb-phinf.pstatic.net/20221012_13/1665581636283q5QIO_JPEG/IMG_5515.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1012843707,
+    "name": "아파트먼트",
+    "displayName": "",
+    "px": 126.8929881,
+    "py": 37.5128429,
+    "type": "place",
+    "useTime": 1683885632000,
+    "lastUpdateTime": 1683885632000,
+    "creationTime": 1683885631000,
+    "order": 65535,
+    "sid": "1597683319",
+    "address": "서울특별시 영등포구 문래동2가 40-2 2층",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09560120",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "AsGbBRq74aSfbGqM+2zreQ==",
+        "pan": "76.03",
+        "tilt": "5.38",
+        "lng": "126.8929784",
+        "lat": "37.5127269",
+        "fov": "90"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20231001_8/1696089761777Ir6Lf_JPEG/2C6C798E-3C2A-4D90-BD0F-8AFA7B8B0F5D.jpeg",
+        "https://ldb-phinf.pstatic.net/20210827_282/1630075334867p4MS6_JPEG/RrrmH0-Hnizm52WW3-_JMwtd.jpeg.jpg",
+        "https://ldb-phinf.pstatic.net/20231001_173/1696089761843XYvjK_JPEG/6A680E94-831A-4739-BFA0-10413E242D3C.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1010593468,
+    "name": "오우아",
+    "displayName": "",
+    "px": 126.9828726,
+    "py": 37.4794466,
+    "type": "place",
+    "useTime": 1683733441000,
+    "lastUpdateTime": 1683733441000,
+    "creationTime": 1683733441000,
+    "order": 65535,
+    "sid": "1856863622",
+    "address": "서울특별시 서초구 방배동 453-19 1층",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09650101",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "zGRIg2qpeX9LEsSUmdZH2A==",
+        "pan": "65.86",
+        "tilt": "4.25",
+        "lng": "126.9828397",
+        "lat": "37.4793860",
+        "fov": "87"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20231229_86/1703803173048qNHO8_JPEG/1703146326112.jpg",
+        "https://ldb-phinf.pstatic.net/20231229_156/1703803172793mMIPX_JPEG/1703317614626.jpg",
+        "https://ldb-phinf.pstatic.net/20231202_4/1701522326524tVNfR_JPEG/1701518287028.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 1000098510,
+    "name": "널어스",
+    "displayName": "",
+    "px": 127.0093614,
+    "py": 37.2715467,
+    "type": "place",
+    "useTime": 1683066308000,
+    "lastUpdateTime": 1683066308000,
+    "creationTime": 1683066307000,
+    "order": 65535,
+    "sid": "1081707366",
+    "address": "경기도 수원시 팔달구 매산로3가 20-16 2층",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "02115136",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "cLWkr77b+5qUpZI2e0GDaw==",
+        "pan": "100.09",
+        "tilt": "10.00",
+        "lng": "127.0091720",
+        "lat": "37.2716020",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240801_112/1722492967034gOJj3_JPEG/IMG_9510.jpeg",
+        "https://ldb-phinf.pstatic.net/20240802_59/1722586625716YzEJf_JPEG/IMG_9598.jpeg",
+        "https://ldb-phinf.pstatic.net/20240427_104/1714197973290EOpNM_JPEG/735889314.720313.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 999359634,
+    "name": "크림오리",
+    "displayName": "",
+    "px": 126.9698187,
+    "py": 37.3029381,
+    "type": "place",
+    "useTime": 1683014438000,
+    "lastUpdateTime": 1683014438000,
+    "creationTime": 1683014438000,
+    "order": 65535,
+    "sid": "1776247056",
+    "address": "경기도 수원시 장안구 율전동 154-1 1층 크림오리 카페",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "02111132",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "kyaGw0b8SaylQDAKfnzDdQ==",
+        "pan": "-59.41",
+        "tilt": "14.19",
+        "lng": "126.9698928",
+        "lat": "37.3028986",
+        "fov": "75"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20230326_130/1679817961008SS3mk_JPEG/KakaoTalk_20230208_110406746_03.jpg",
+        "https://ldb-phinf.pstatic.net/20230326_187/1679817961325dE4iF_JPEG/KakaoTalk_20230307_181658600_02.jpg",
+        "https://ldb-phinf.pstatic.net/20230101_125/1672541018130P73tt_JPEG/KakaoTalk_20221230_121736311.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 990832221,
+    "name": "유목커피바",
+    "displayName": "",
+    "px": 127.0187384,
+    "py": 37.5916256,
+    "type": "place",
+    "useTime": 1682476951000,
+    "lastUpdateTime": 1682476951000,
+    "creationTime": 1682476951000,
+    "order": 65535,
+    "sid": "1227967470",
+    "address": "서울특별시 성북구 동선동1가 85-151",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09290116",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "0dL4ZjMEbmP22y9xBHSpMw==",
+        "pan": "88.73",
+        "tilt": "6.00",
+        "lng": "127.0186923",
+        "lat": "37.5916720",
+        "fov": "90"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20200608_104/15916124669144zzXP_JPEG/_SjBr7JdgbBL2GQjyKJoF00Q.JPG.jpg",
+        "https://ldb-phinf.pstatic.net/20200608_164/1591612542926DdAjR_JPEG/aRn4J4Yo-wcHhYvS92Ig84tD.JPG.jpg",
+        "https://ldb-phinf.pstatic.net/20200604_27/1591265227951qNvxv_JPEG/nniJ_G5Mjo9FLte2a5E9pykf.jpeg.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 988779180,
+    "name": "카페코지 수원점",
+    "displayName": "",
+    "px": 126.9803977,
+    "py": 37.2997253,
+    "type": "place",
+    "useTime": 1682329247000,
+    "lastUpdateTime": 1682329247000,
+    "creationTime": 1682329247000,
+    "order": 65535,
+    "sid": "1348602765",
+    "address": "경기도 수원시 장안구 천천동 508-11 1층",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "02111133",
+    "cidPath": [
+      "220036",
+      "220052",
+      "1005098"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "/ASzHLNhTLw04Hb033cl0Q==",
+        "pan": "67.66",
+        "tilt": "10.00",
+        "lng": "126.9803088",
+        "lat": "37.2996887",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20221106_177/16677346598886kgxv_JPEG/93471316-1976-43AD-A7DE-3797B8BDCDC4.jpeg",
+        "https://ldb-phinf.pstatic.net/20221106_143/1667734659939d3OmJ_JPEG/6561759A-D7C9-4CB0-B546-680DA8483C1D.jpeg",
+        "https://ldb-phinf.pstatic.net/20221106_137/1667734659956cC3Af_JPEG/EFCFF300-80D5-4076-9F64-6FAACA35B36F.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 976261596,
+    "name": "서울커피 익선점",
+    "displayName": "",
+    "px": 126.9900643,
+    "py": 37.573315,
+    "type": "place",
+    "useTime": 1681473162000,
+    "lastUpdateTime": 1681473162000,
+    "creationTime": 1681473162000,
+    "order": 65535,
+    "sid": "506996136",
+    "address": "서울특별시 종로구 익선동 166-31 1층 서울커피",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09110133",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "dUVaS6jpnJHcbswOGPcQtg==",
+        "pan": "-76.39",
+        "tilt": "10.00",
+        "lng": "126.9901629",
+        "lat": "37.5732911",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20191014_96/1571058813294dyEYf_JPEG/NHeTWEalge_cvdGa-g5F6W7A.jpg",
+        "https://ldb-phinf.pstatic.net/20191014_62/1571058813347Lzwru_JPEG/IAQEGK7ZzxcnbeHTd-OHGpxM.jpg",
+        "https://ldb-phinf.pstatic.net/20191014_36/1571058811533i6ihK_JPEG/5tF8oGU5Q6p9KTc2DCJj-n_v.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 974147753,
+    "name": "디거이즈디깅",
+    "displayName": "",
+    "px": 126.9714593,
+    "py": 37.5446088,
+    "type": "place",
+    "useTime": 1681341091000,
+    "lastUpdateTime": 1681341091000,
+    "creationTime": 1681341091000,
+    "order": 65535,
+    "sid": "1196717317",
+    "address": "서울특별시 용산구 갈월동 86-8 3층",
+    "memo": null,
+    "url": null,
+    "mcid": "BAR",
+    "mcidName": "BAR",
+    "rcode": "09170104",
+    "cidPath": [
+      "220036",
+      "220051",
+      "220554",
+      "221116"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "GYGsJjXK13jqXsW8UBP0fA==",
+        "pan": "46.57",
+        "tilt": "30.00",
+        "lng": "126.9715000",
+        "lat": "37.5442300",
+        "fov": "80"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20221218_113/1671363011842wYHWD_JPEG/EEDA39EC-9FE6-4B44-AF0C-058E037B9D56.jpeg",
+        "https://ldb-phinf.pstatic.net/20221218_133/1671363011756Yi9ge_JPEG/BED192DD-5335-4A74-9C70-BF191708E573.jpeg",
+        "https://ldb-phinf.pstatic.net/20221218_72/1671363011772EcM2e_JPEG/4868F2E1-B6A3-440E-9ABE-DA3B4EDE2448.jpeg"
+      ],
+      "category": "바(BAR)"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 972018642,
+    "name": "행복나무 본점",
+    "displayName": "",
+    "px": 126.9729654,
+    "py": 37.2850697,
+    "type": "place",
+    "useTime": 1681189363000,
+    "lastUpdateTime": 1681189363000,
+    "creationTime": 1681189363000,
+    "order": 65535,
+    "sid": "36987599",
+    "address": "경기도 수원시 권선구 구운동 897-1",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "02113132",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "Z3VTh4D3YmHPzzmyxlC7HQ==",
+        "pan": "-100.32",
+        "tilt": "14.13",
+        "lng": "126.9731120",
+        "lat": "37.2851198",
+        "fov": "90"
+      },
+      "thumbnailUrls": [],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 971330597,
+    "name": "천상가옥",
+    "displayName": "",
+    "px": 127.056862,
+    "py": 37.54166,
+    "type": "place",
+    "useTime": 1681133760000,
+    "lastUpdateTime": 1681133760000,
+    "creationTime": 1681133760000,
+    "order": 65535,
+    "sid": "1071830988",
+    "address": "서울특별시 성동구 성수동2가 322-4 A동 3층",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09200115",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "oVZorIqH2xKrt0CLvu09wg==",
+        "pan": "111.11",
+        "tilt": "10.00",
+        "lng": "127.0567833",
+        "lat": "37.5416903",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240904_26/1725435298488M3pWr_JPEG/4A20247A-B055-4263-9C6F-0AF9C5DB9539.jpeg",
+        "https://ldb-phinf.pstatic.net/20240905_127/1725524301801vL3VT_JPEG/0BF66D82-CBE3-4A78-A9C8-BEAF1FB82F81.jpeg",
+        "https://ldb-phinf.pstatic.net/20240728_163/1722095225895Kj79F_JPEG/CC272924-556D-4DF7-86F5-4A97D29B2CCF.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 970624133,
+    "name": "사거리다방",
+    "displayName": "",
+    "px": 126.9682893,
+    "py": 37.2971532,
+    "type": "place",
+    "useTime": 1681095059000,
+    "lastUpdateTime": 1681095059000,
+    "creationTime": 1681095058000,
+    "order": 65535,
+    "sid": "1372901365",
+    "address": "경기도 수원시 장안구 율전동 395-34 상가 102호",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "02111132",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221212"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "FkW6a3PKVJbHWgzxKHFmHA==",
+        "pan": "-77.74",
+        "tilt": "8.75",
+        "lng": "126.9683787",
+        "lat": "37.2971028",
+        "fov": "90"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240625_193/17192831764281JYlD_JPEG/1000022477.jpeg",
+        "https://ldb-phinf.pstatic.net/20230620_88/1687258846876p8zY6_JPEG/1687258755055.jpg",
+        "https://ldb-phinf.pstatic.net/20230620_2/1687258840066b2VI6_JPEG/1687258755150.jpg"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 966088088,
+    "name": "무너미",
+    "displayName": "",
+    "px": 127.023604,
+    "py": 37.6397965,
+    "type": "place",
+    "useTime": 1680782498000,
+    "lastUpdateTime": 1680782498000,
+    "creationTime": 1680782497000,
+    "order": 65535,
+    "sid": "1530597017",
+    "address": "서울특별시 강북구 수유동 222-78 1층",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09305103",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "6ftrA5XFAmez2r8XEbK1ug==",
+        "pan": "57.53",
+        "tilt": "-5.00",
+        "lng": "127.0235244",
+        "lat": "37.6397413",
+        "fov": "62"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240223_133/1708658023530sfUwJ_JPEG/595E66B0-83C6-49FF-9A7B-7C3EBEA78105.jpeg",
+        "https://ldb-phinf.pstatic.net/20240223_5/17086580235921OaOl_JPEG/537111F3-E669-41AE-AB43-C58215871CAE.jpeg",
+        "https://ldb-phinf.pstatic.net/20240223_113/1708658023557i3K9c_JPEG/99963136-A49B-4B13-B8F7-CAEB36D31D90.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 964198574,
+    "name": "오르카커피룸",
+    "displayName": "",
+    "px": 126.9707252,
+    "py": 37.2997446,
+    "type": "place",
+    "useTime": 1680660653000,
+    "lastUpdateTime": 1680660653000,
+    "creationTime": 1680660652000,
+    "order": 65535,
+    "sid": "1800748489",
+    "address": "경기도 수원시 장안구 율전동 301-8 101호",
+    "memo": "",
+    "url": "",
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "02111132",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "ZtTwkrvPArIHE0T5rdAsEw==",
+        "pan": "-100.20",
+        "tilt": "11.25",
+        "lng": "126.9708784",
+        "lat": "37.2997977",
+        "fov": "45"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20220602_21/1654181534589bn6OH_JPEG/CD885100-CB19-4FDE-8D46-3687CC8257D1.jpeg",
+        "https://ldb-phinf.pstatic.net/20240814_224/1723615458913Jk3nC_JPEG/20240324_123003.jpg",
+        "https://ldb-phinf.pstatic.net/20220510_293/1652168780895rB5he_JPEG/B677969B-0DD1-4BDF-BAC6-20AD5EB3A91B.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 961274328,
+    "name": "에그서울",
+    "displayName": "",
+    "px": 127.0417513,
+    "py": 37.5189878,
+    "type": "place",
+    "useTime": 1680437747000,
+    "lastUpdateTime": 1680437747000,
+    "creationTime": 1680437747000,
+    "order": 65535,
+    "sid": "1850240841",
+    "address": "서울특별시 강남구 청담동 39-5",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09680104",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "4kWWmxUhV3Iya/76o/h7iw==",
+        "pan": "71.85",
+        "tilt": "2.25",
+        "lng": "127.0415719",
+        "lat": "37.5189670",
+        "fov": "90"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20230425_83/1682397973490FXtyO_JPEG/1.jpg",
+        "https://ldb-phinf.pstatic.net/20230809_242/1691563739296VtXNC_JPEG/%C5%A9%B1%E2%BA%AF%C8%AFKakaoTalk_20230424_090651707_14.jpg",
+        "https://ldb-phinf.pstatic.net/20230809_221/1691563736765XikRY_JPEG/%C5%A9%B1%E2%BA%AF%C8%AFKakaoTalk_20230424_090651707_12.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 960071377,
+    "name": "안다미로",
+    "displayName": "",
+    "px": 127.0142147,
+    "py": 37.27767,
+    "type": "place",
+    "useTime": 1680352544000,
+    "lastUpdateTime": 1680352544000,
+    "creationTime": 1680352544000,
+    "order": 65535,
+    "sid": "1275395976",
+    "address": "경기도 수원시 팔달구 남창동 136-24 안다미로카페",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "02115123",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220580",
+      "221395"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "OwPEMR9ZfCTcZC+rTKx9Gg==",
+        "pan": "51.42",
+        "tilt": "10.00",
+        "lng": "127.0141179",
+        "lat": "37.2775927",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20200703_218/1593776985573aGq7J_JPEG/DwajifS74X-WM2cGiVW2RNNv.jpg",
+        "https://ldb-phinf.pstatic.net/20200703_300/1593776991892ktKir_JPEG/uum78gpLzc2llxhPMtRq9yLv.jpg",
+        "https://ldb-phinf.pstatic.net/20200703_67/1593777005218RcRwM_JPEG/q0M2_qYqGLJqQ-R2C-beD8x7.jpg"
+      ],
+      "category": "차"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 956753459,
+    "name": "커피가이",
+    "displayName": "",
+    "px": 127.019844,
+    "py": 37.2834598,
+    "type": "place",
+    "useTime": 1680139315000,
+    "lastUpdateTime": 1680139315000,
+    "creationTime": 1680139314000,
+    "order": 65535,
+    "sid": "1765563891",
+    "address": "경기도 수원시 팔달구 창룡대로103번길 132 1층 커피가이",
+    "memo": "",
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "02115128",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "7sixspImYLV9Ewvy/Mcf8g==",
+        "pan": "49.78",
+        "tilt": "10.00",
+        "lng": "127.0197267",
+        "lat": "37.2833605",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20220101_254/1641001424174a8SNN_JPEG/744329EA-5C11-4919-A5A1-EE9CF62EA3BC.jpeg",
+        "https://ldb-phinf.pstatic.net/20230530_115/1685416062655VR9c1_JPEG/C02E5FCE-565E-454F-B752-26BE98220DF6.jpeg",
+        "https://ldb-phinf.pstatic.net/20230530_158/1685415876454W0dMv_JPEG/741C3D91-81CF-4F1B-BE0C-DA69541DA92B.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 956753129,
+    "name": "젠틀리로스터스",
+    "displayName": "",
+    "px": 127.0061667,
+    "py": 37.2871701,
+    "type": "place",
+    "useTime": 1680139298000,
+    "lastUpdateTime": 1680139298000,
+    "creationTime": 1680139297000,
+    "order": 65535,
+    "sid": "1656491559",
+    "address": "경기도 수원시 장안구 장안로 22-1 1층 젠틀리로스터스",
+    "memo": "",
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "02111134",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221212"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "XwGiQmyHHmBHVx0YtGfoQg==",
+        "pan": "64.71",
+        "tilt": "-3.81",
+        "lng": "127.0060130",
+        "lat": "37.2871170",
+        "fov": "52"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240119_168/1705656977226OSsRi_JPEG/IMG_9959.jpeg",
+        "https://ldb-phinf.pstatic.net/20230210_97/1675955983522f0AKU_JPEG/E5E93153-431A-4527-90EC-6CA3781CFA1E.jpeg",
+        "https://ldb-phinf.pstatic.net/20240119_224/1705657039915B2GXs_JPEG/61FC5C3C-9D27-4F3A-9D3F-689B7E026C8F.jpeg"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 949603335,
+    "name": "옵스 광복롯데점",
+    "displayName": "",
+    "px": 129.0368366,
+    "py": 35.0981714,
+    "type": "place",
+    "useTime": 1679647309000,
+    "lastUpdateTime": 1679647309000,
+    "creationTime": 1679647309000,
+    "order": 65535,
+    "sid": "16414750",
+    "address": "부산광역시 중구 중앙대로 2 지하 1층",
+    "memo": "",
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "08110110",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220564",
+      "231356"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "vXaEEgOAQ0hqVwKF/fTFBA==",
+        "pan": "119.51",
+        "tilt": "10.00",
+        "lng": "129.0361206",
+        "lat": "35.0986218",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20150901_136/1441067496766LGiAc_JPEG/SUBMIT_1437643997643_16414750.jpg",
+        "https://ldb-phinf.pstatic.net/20150901_45/1441067496945PyldN_JPEG/SUBMIT_1437643992107_16414750.jpg",
+        "https://ldb-phinf.pstatic.net/20150901_73/1441067497141HmnUb_JPEG/SUBMIT_1437643994977_16414750.jpg"
+      ],
+      "category": "베이커리"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 949600550,
+    "name": "비엔씨 부산역점",
+    "displayName": "",
+    "px": 129.042215,
+    "py": 35.1151679,
+    "type": "place",
+    "useTime": 1679647182000,
+    "lastUpdateTime": 1679647182000,
+    "creationTime": 1679647182000,
+    "order": 65535,
+    "sid": "616538188",
+    "address": "부산광역시 동구 중앙대로 206",
+    "memo": "",
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "08170101",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220564",
+      "221161"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "3yFaWHFTdBU+LTe5EK80pw==",
+        "pan": "-178.17",
+        "tilt": "10.00",
+        "lng": "129.0417399",
+        "lat": "35.1158533",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240408_49/1712533710172R6GxD_JPEG/1C3A2356.jpg",
+        "https://ldb-phinf.pstatic.net/20240408_163/1712533710149RMJhy_JPEG/1C3A2512.jpg",
+        "https://ldb-phinf.pstatic.net/20240408_121/17125337101248cq3L_JPEG/1C3A2525.jpg"
+      ],
+      "category": "베이커리"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 944659755,
+    "name": "르 디망슈",
+    "displayName": "",
+    "px": 126.9686734,
+    "py": 37.2989189,
+    "type": "place",
+    "useTime": 1679305528000,
+    "lastUpdateTime": 1679305528000,
+    "creationTime": 1679305527000,
+    "order": 65535,
+    "sid": "1453801075",
+    "address": "경기도 수원시 장안구 율전동 307-9 1층 르디망슈",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "02111132",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "xcONRGpYSYyTRor+szQzDQ==",
+        "pan": "-93.18",
+        "tilt": "8.38",
+        "lng": "126.9688804",
+        "lat": "37.2989981",
+        "fov": "80"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20190612_121/1560273241360wRcJ4_JPEG/GawLQExZCRS_qfJbpu9ReP5R.jpeg.jpg",
+        "https://ldb-phinf.pstatic.net/20190612_256/1560273325981XpGNk_JPEG/qmLR3H3e7I7kZuqVxPydRbN9.jpeg.jpg",
+        "https://ldb-phinf.pstatic.net/20190612_82/1560273342359vXlVz_JPEG/RLAupwqkoKYec5guiAHXkgsf.jpeg.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 938896398,
+    "name": "카페일구오삼",
+    "displayName": "",
+    "px": 126.9651701,
+    "py": 37.299301,
+    "type": "place",
+    "useTime": 1678925869000,
+    "lastUpdateTime": 1678925869000,
+    "creationTime": 1678925868000,
+    "order": 65535,
+    "sid": "1330259484",
+    "address": "경기도 수원시 장안구 율전로107번길 73",
+    "memo": "",
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "02111132",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "2gdtl7n9pG9ftB3E3cL4BA==",
+        "pan": "94.01",
+        "tilt": "-3.64",
+        "lng": "126.9651381",
+        "lat": "37.2993969",
+        "fov": "100"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20190604_18/1559640866353nJs7r_JPEG/ZHFdYDWdRJvQ5weenKcH2C11.jpeg.jpg",
+        "https://ldb-phinf.pstatic.net/20231219_275/1702950631022diWSV_JPEG/IMG_7842.jpg",
+        "https://ldb-phinf.pstatic.net/20221221_70/1671609792917NvEqc_JPEG/KakaoTalk_20220908_155338584_01.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 322479925,
+    "name": "파브스커피",
+    "displayName": "",
+    "px": 126.9117742,
+    "py": 37.5903914,
+    "type": "place",
+    "useTime": 1678764527000,
+    "lastUpdateTime": 1678764527000,
+    "creationTime": 1613642069000,
+    "order": 65535,
+    "sid": "1000833099",
+    "address": "서울특별시 은평구 신사동 341-1",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09380109",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221212"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "CNTo83nS3cKuXK8rYxjw2Q==",
+        "pan": "119.86",
+        "tilt": "1.83",
+        "lng": "126.9116799",
+        "lat": "37.5904341",
+        "fov": "100"
+      },
+      "thumbnailUrls": [
+        "https://naverbooking-phinf.pstatic.net/20240406_263/1712345857360SO3Ic_JPEG/image.jpg",
+        "https://naverbooking-phinf.pstatic.net/20240406_76/1712345878891yFXIJ_JPEG/image.jpg",
+        "https://naverbooking-phinf.pstatic.net/20240406_231/1712345896276L8aTN_JPEG/image.jpg"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 935810807,
+    "name": "펠어커피 강남포스코사거리점",
+    "displayName": "",
+    "px": 127.0567135,
+    "py": 37.5051133,
+    "type": "place",
+    "useTime": 1678698772000,
+    "lastUpdateTime": 1678698772000,
+    "creationTime": 1678698771000,
+    "order": 65535,
+    "sid": "1091178790",
+    "address": "서울특별시 강남구 대치동 893 롯데캐슬아파트상가 1층",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09680106",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "1004827"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "bmhbPwZniSN8GYjs4GfsMA==",
+        "pan": "150.21",
+        "tilt": "8.25",
+        "lng": "127.0561747",
+        "lat": "37.5050693",
+        "fov": "67"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240712_146/17207103862183XYys_JPEG/1000032930.jpg",
+        "https://ldb-phinf.pstatic.net/20240712_28/17207103864333DhFO_JPEG/1000032932.jpg",
+        "https://ldb-phinf.pstatic.net/20240712_285/17207103866109oSW9_PNG/1000033179.png"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 934032296,
+    "name": "GOONIES",
+    "displayName": "",
+    "px": 126.9711763,
+    "py": 37.5307114,
+    "type": "place",
+    "useTime": 1678568581000,
+    "lastUpdateTime": 1678568581000,
+    "creationTime": 1678568581000,
+    "order": 65535,
+    "sid": "1907386205",
+    "address": "서울특별시 용산구 한강로2가 81-3 1층()",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09170125",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "c0srzt89LtkpBTYdH7jAnQ==",
+        "pan": "61.01",
+        "tilt": "10.00",
+        "lng": "126.9710887",
+        "lat": "37.5306628",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240228_146/17091102774242rYil_JPEG/04F64F57-44A7-429A-8A89-56CC436613E6.jpeg",
+        "https://ldb-phinf.pstatic.net/20240228_82/1709110277567Lq9b6_JPEG/8E967F8A-869B-4CE4-9011-20F7F86F3A62.jpeg",
+        "https://ldb-phinf.pstatic.net/20240228_232/1709110276894yT824_JPEG/0A89353D-11CD-4678-B52C-C2247FA85FCC.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 924936836,
+    "name": "미니마이즈",
+    "displayName": "",
+    "px": 126.9901609,
+    "py": 37.5336338,
+    "type": "place",
+    "useTime": 1677913951000,
+    "lastUpdateTime": 1677913951000,
+    "creationTime": 1677913951000,
+    "order": 65535,
+    "sid": "1218176536",
+    "address": "서울특별시 용산구 이태원동 56-10 2층",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09170130",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "LtxTAWwFPx2bSzepqhb1ag==",
+        "pan": "-17.31",
+        "tilt": "10.00",
+        "lng": "126.9901870",
+        "lat": "37.5335500",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240927_3/1727428160868jmRQF_JPEG/KakaoTalk_20240927_180119769_01.jpg",
+        "https://ldb-phinf.pstatic.net/20240731_120/1722410280203lLAYo_PNG/%C8%AD%B8%E9_%C4%B8%C3%B3_2024-07-31_161749.png",
+        "https://ldb-phinf.pstatic.net/20240927_114/17274281655783HeC8_JPEG/KakaoTalk_20240927_180119769.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 921853089,
+    "name": "엉클kun커피하우스",
+    "displayName": "",
+    "px": 126.97849,
+    "py": 37.2903987,
+    "type": "place",
+    "useTime": 1677723517000,
+    "lastUpdateTime": 1677723517000,
+    "creationTime": 1677723517000,
+    "order": 65535,
+    "sid": "1493273390",
+    "address": "경기도 수원시 장안구 정자천로13번길 36",
+    "memo": "",
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "02111133",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "XgnTiCCz7vss6zBQOE1u7Q==",
+        "pan": "83.81",
+        "tilt": "10.00",
+        "lng": "126.9783985",
+        "lat": "37.2903888",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20191231_238/1577774802226KzieQ_JPEG/0UMvdQg40RV9-paeGffE-kyE.JPG.jpg",
+        "https://ldb-phinf.pstatic.net/20191231_38/1577774824144nKoCI_JPEG/8t8TkUwesnMAv5d3q-JTEdEI.JPG.jpg",
+        "https://ldb-phinf.pstatic.net/20191231_61/1577774864405FAawm_JPEG/WC2Y2YT2gFR5u-9QinLK--KE.JPG.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 918134229,
+    "name": "휘게커피",
+    "displayName": "",
+    "px": 127.0110151,
+    "py": 37.2847128,
+    "type": "place",
+    "useTime": 1677474331000,
+    "lastUpdateTime": 1677474331000,
+    "creationTime": 1677474331000,
+    "order": 65535,
+    "sid": "1460152527",
+    "address": "경기도 수원시 팔달구 화서문로 26-3 1층",
+    "memo": "",
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "02115130",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "xMgpIiiW7ias8AUhoYwQwA==",
+        "pan": "58.98",
+        "tilt": "10.00",
+        "lng": "127.0108912",
+        "lat": "37.2846382",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20220901_89/1661997071302mIjAP_JPEG/98192E2B-A891-4269-951C-877828644A4C.jpeg",
+        "https://ldb-phinf.pstatic.net/20220831_119/16618786291767d3C3_JPEG/%C8%D6%B0%D4%C6%F7%BD%BA%C5%CD001.jpg",
+        "https://ldb-phinf.pstatic.net/20220903_22/16621392772354xX84_JPEG/D525ABB1-F6BC-491E-8AFC-BE8B83B69037.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 901760616,
+    "name": "10593 베이글커피하우스",
+    "displayName": "",
+    "px": 127.021857,
+    "py": 37.2547013,
+    "type": "place",
+    "useTime": 1676375776000,
+    "lastUpdateTime": 1676375776000,
+    "creationTime": 1676375775000,
+    "order": 65535,
+    "sid": "1023514525",
+    "address": "경기도 수원시 권선구 권선동 1059-3 1층",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "02113137",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221212"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "ORmQdc2G8Kzs37aJFdljTg==",
+        "pan": "88.72",
+        "tilt": "10.00",
+        "lng": "127.0217450",
+        "lat": "37.2546987",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20230519_279/1684481858362V9WsH_JPEG/IMG_0050.jpg",
+        "https://ldb-phinf.pstatic.net/20240725_264/1721889371540TPvli_JPEG/IMG_5795.jpg",
+        "https://ldb-phinf.pstatic.net/20240725_37/1721889371457FmDzm_JPEG/IMG_5832.jpg"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 897501825,
+    "name": "두채",
+    "displayName": "",
+    "px": 127.0004045,
+    "py": 37.5763244,
+    "type": "place",
+    "useTime": 1676090859000,
+    "lastUpdateTime": 1676090859000,
+    "creationTime": 1676090858000,
+    "order": 65535,
+    "sid": "1510453404",
+    "address": "서울특별시 종로구 연건동 269",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09110166",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "QTuU1xFm5AklfkEB2wTYPg==",
+        "pan": "-32.09",
+        "tilt": "19.88",
+        "lng": "127.0004311",
+        "lat": "37.5762776",
+        "fov": "82"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240103_105/1704258831410aTmED_PNG/%B0%F8%B0%A3%B4%EB%BF%A9_%BE%C8%B3%BB%28%C5%C2%BB%EA%C0%CE%B5%F0%B0%ED%29_1.png",
+        "https://ldb-phinf.pstatic.net/20210222_105/1613975653540Ln6DF_JPEG/doochae_%C0%FC%B8%E9%BB%E7%C1%F8.jpg",
+        "https://ldb-phinf.pstatic.net/20201101_136/1604191686143EqT5l_JPEG/kCxCiVvkJeurgyfPt1UEMSFI.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 893709529,
+    "name": "가배도 명동",
+    "displayName": "",
+    "px": 126.9854495,
+    "py": 37.5603486,
+    "type": "place",
+    "useTime": 1675825226000,
+    "lastUpdateTime": 1675825226000,
+    "creationTime": 1675825225000,
+    "order": 65535,
+    "sid": "1194974888",
+    "address": "서울특별시 중구 남산동1가 5-2 1층",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09140128",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "1004982"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "P/L9UXuGc333WNr3hKMoGA==",
+        "pan": "-91.84",
+        "tilt": "10.00",
+        "lng": "126.9855293",
+        "lat": "37.5603511",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20200508_130/1588917561961weEnl_JPEG/YehSFksGE7Jxve9-EjrGibTW.jpg",
+        "https://ldb-phinf.pstatic.net/20200508_210/1588917561417j182s_JPEG/hSlKtAEDQW4LkF1qZ83e-Xt4.jpg",
+        "https://ldb-phinf.pstatic.net/20200508_115/1588917561336jXUxg_JPEG/JKFWpl9cAlqaYflF7fIHqb8f.jpg"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 892751984,
+    "name": "머큐리에스프레소바",
+    "displayName": "",
+    "px": 126.9622249,
+    "py": 37.5257162,
+    "type": "place",
+    "useTime": 1675754435000,
+    "lastUpdateTime": 1675754435000,
+    "creationTime": 1675754435000,
+    "order": 65535,
+    "sid": "1343817491",
+    "address": "서울특별시 용산구 한강로3가 40-479 102호",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09170128",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "g6vuyhVWrAKrBcltn3qMaA==",
+        "pan": "114.54",
+        "tilt": "10.00",
+        "lng": "126.9621770",
+        "lat": "37.5257380",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20221130_63/16697971420619So2Q_JPEG/97F1F76A-E53D-446A-8722-0FFDE85A2E84.jpeg",
+        "https://ldb-phinf.pstatic.net/20240729_150/1722219644122Y9c0d_JPEG/KakaoTalk_Photo_2024-07-29-11-20-16_012.jpeg",
+        "https://ldb-phinf.pstatic.net/20240729_149/1722219644082lwyYb_JPEG/KakaoTalk_Photo_2024-07-29-11-20-15_001.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 892725791,
+    "name": "오츠커피 용산점",
+    "displayName": "",
+    "px": 126.9678007,
+    "py": 37.5404027,
+    "type": "place",
+    "useTime": 1675752968000,
+    "lastUpdateTime": 1675752968000,
+    "creationTime": 1675752968000,
+    "order": 65535,
+    "sid": "1583598574",
+    "address": "서울특별시 용산구 원효로1가 48-8 오츠커피",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09170112",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "wLJG2L7Cjt9hhsy2m8L7eA==",
+        "pan": "-29.12",
+        "tilt": "10.00",
+        "lng": "126.9678200",
+        "lat": "37.5403680",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20201217_252/16082129262022ujXs_JPEG/69EDSzjTd-kN7eYQ93bu8u8P.jpg",
+        "https://ldb-phinf.pstatic.net/20201217_168/1608212926849svmu3_JPEG/98L2Bos9nGcgnJADPDTbOEg4.jpg",
+        "https://ldb-phinf.pstatic.net/20180415_260/1523791058383tHb0V_JPEG/_p4S0pMWqGUfC1sUNCF7yKi3.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 892473294,
+    "name": "콜스커피",
+    "displayName": "",
+    "px": 127.009789,
+    "py": 37.2836762,
+    "type": "place",
+    "useTime": 1675738371000,
+    "lastUpdateTime": 1675738371000,
+    "creationTime": 1675738370000,
+    "order": 65535,
+    "sid": "1285036316",
+    "address": "경기도 수원시 팔달구 화서문로16번길 81 지층",
+    "memo": "",
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "02115130",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221212"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "GQv/Zttt/8jHF+rhKhJSvg==",
+        "pan": "58.32",
+        "tilt": "10.00",
+        "lng": "127.0793995",
+        "lat": "37.2494035",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240907_112/1725672519067Q69UI_JPEG/KakaoTalk_20240907_102757816.jpg",
+        "https://ldb-phinf.pstatic.net/20240215_96/17079864309107I5ro_JPEG/KakaoTalk_20240111_230636006.jpg",
+        "https://ldb-phinf.pstatic.net/20240907_222/1725672519083QYWhs_JPEG/KakaoTalk_20240907_102757816_02.jpg"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 887285852,
+    "name": "그린플래그커피",
+    "displayName": "",
+    "px": 127.0036993,
+    "py": 37.3752931,
+    "type": "place",
+    "useTime": 1675392470000,
+    "lastUpdateTime": 1675392470000,
+    "creationTime": 1675392470000,
+    "order": 65535,
+    "sid": "961088789",
+    "address": "경기도 의왕시 학의동 604-2",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "02430106",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "XeJEOrYXkari4830CGSbIw==",
+        "pan": "69.86",
+        "tilt": "-6.67",
+        "lng": "127.0033105",
+        "lat": "37.3751474",
+        "fov": "100"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20180101_160/1514766226016kKImV_JPEG/CC4c8nvl0qQVAmIoVBPqDbRF.jpeg.jpg",
+        "https://ldb-phinf.pstatic.net/20180101_255/1514766254974Ejv2g_JPEG/U3rKuMi254fnnMlAGVlKp5gc.jpeg.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 874024333,
+    "name": "인크커피 가산점",
+    "displayName": "",
+    "px": 126.878041,
+    "py": 37.4793668,
+    "type": "place",
+    "useTime": 1674449115000,
+    "lastUpdateTime": 1674449115000,
+    "creationTime": 1674449114000,
+    "order": 65535,
+    "sid": "1232726331",
+    "address": "서울특별시 금천구 가산동 544-6",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09545101",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221212"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "2yJy5WM9Q7ATfn6VVT3+Mg==",
+        "pan": "-31.14",
+        "tilt": "10.00",
+        "lng": "126.8782070",
+        "lat": "37.4790919",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20220503_74/1651541665010Nty4G_JPEG/278263225_1358172804607210_1751621262420110588_n.jpg",
+        "https://ldb-phinf.pstatic.net/20220503_246/1651541665023HBL41_JPEG/274376381_1032147640980913_3120707720034739897_n.jpg",
+        "https://ldb-phinf.pstatic.net/20220503_247/1651541665012Xv9se_JPEG/275714232_150216684123350_1216543476716144322_n.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 870272826,
+    "name": "버터앤쉘터",
+    "displayName": "",
+    "px": 127.0528739,
+    "py": 37.5195129,
+    "type": "place",
+    "useTime": 1674138602000,
+    "lastUpdateTime": 1674138602000,
+    "creationTime": 1674138601000,
+    "order": 65535,
+    "sid": "1075119302",
+    "address": "서울특별시 강남구 청담동 73",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09680104",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "xVq5aB8GJvliVUdyPM83IQ==",
+        "pan": "-30.98",
+        "tilt": "10.00",
+        "lng": "127.0529442",
+        "lat": "37.5193958",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20220730_257/1659153057949jclsA_JPEG/C986313D-8649-458E-B1D0-DDD6C9E2D0CD.jpeg",
+        "https://ldb-phinf.pstatic.net/20220730_49/1659153058326C5kdc_JPEG/318F0A17-1B18-48A1-B84D-6A5F4E564929.jpeg",
+        "https://ldb-phinf.pstatic.net/20220730_194/1659153058675o8eap_JPEG/05F58867-99DD-4A88-B6BE-FB6A1479EE7A.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 856874783,
+    "name": "KITTE",
+    "displayName": "",
+    "px": 126.9671225,
+    "py": 37.5441932,
+    "type": "place",
+    "useTime": 1673176534000,
+    "lastUpdateTime": 1673176534000,
+    "creationTime": 1673176533000,
+    "order": 65535,
+    "sid": "1139206641",
+    "address": "서울특별시 용산구 청파동3가 114-7 1층",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09170111",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221212"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "TFs9SRLAQWyqMD57etBCwg==",
+        "pan": "57.44",
+        "tilt": "8.25",
+        "lng": "126.9670220",
+        "lat": "37.5440720",
+        "fov": "80"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240913_246/1726228256244I1Mu7_JPEG/36B18136-BC4A-458A-9E22-3460223074DC.jpeg",
+        "https://ldb-phinf.pstatic.net/20221213_47/1670861361098kVbcG_JPEG/%C0%FC%B8%E9.jpg",
+        "https://ldb-phinf.pstatic.net/20230705_116/1688530420385qKgLT_JPEG/KakaoTalk_20230705_131049919.jpg"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 833105538,
+    "name": "BORN TO BE BLUE",
+    "displayName": "",
+    "px": 127.1171011,
+    "py": 37.4954361,
+    "type": "place",
+    "useTime": 1671319207000,
+    "lastUpdateTime": 1671319207000,
+    "creationTime": 1671319207000,
+    "order": 65535,
+    "sid": "1350705871",
+    "address": "서울특별시 송파구 가락동 95-1 금호종합상가 1층 120호",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09710107",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "zPvc5Sj5YLhmQsj361F9Ug==",
+        "pan": "95.51",
+        "tilt": "10.00",
+        "lng": "127.0024457",
+        "lat": "37.5659769",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240205_16/1707086346506PWV8A_PNG/IMG_0593.png",
+        "https://ldb-phinf.pstatic.net/20240205_112/1707086346353omYf4_JPEG/D9E40EED-9EF3-45A3-8ABA-D7E2B42BC67C.jpeg",
+        "https://ldb-phinf.pstatic.net/20240205_198/1707086346807pWK1j_JPEG/IMG_0506.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 832199888,
+    "name": "플랜터247",
+    "displayName": "",
+    "px": 127.0197933,
+    "py": 37.5915561,
+    "type": "place",
+    "useTime": 1671241925000,
+    "lastUpdateTime": 1671241925000,
+    "creationTime": 1671241924000,
+    "order": 65535,
+    "sid": "1358156843",
+    "address": "서울특별시 성북구 동선동3가 247 1층 PLANTER247",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09290118",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "uO5qwj+E9YVXAF8koBGe9Q==",
+        "pan": "70.58",
+        "tilt": "5.25",
+        "lng": "127.0197502",
+        "lat": "37.5914791",
+        "fov": "52"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240309_125/1709942947266eEXth_JPEG/27D01C17-225F-4080-9803-E9EAD898CFAD.jpeg",
+        "https://ldb-phinf.pstatic.net/20231128_140/1701162099648U4B0i_JPEG/3BBB4323-BFDB-4E41-8C5A-1A03970FB2B9.jpeg",
+        "https://ldb-phinf.pstatic.net/20231116_204/1700120671883lSKle_JPEG/7BAF4053-045D-4A95-9D87-0B5C65F95191.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 824642187,
+    "name": "스타벅스 서울웨이브아트센터점",
+    "displayName": "",
+    "px": 127.00704,
+    "py": 37.518807,
+    "type": "place",
+    "useTime": 1670600033000,
+    "lastUpdateTime": 1670600033000,
+    "creationTime": 1670600033000,
+    "order": 65535,
+    "sid": "1264577661",
+    "address": "서울특별시 서초구 잠원동 149-2",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09650106",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221275"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20190828_93/1566953601239OT9MQ_PNG/xX7Wv642gXMoTI0DAv0hRymS.png",
+        "https://naverbooking-phinf.pstatic.net/20240611_213/1718104452992JNCT9_PNG/image.png"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 824626681,
+    "name": "콘시드서울",
+    "displayName": "",
+    "px": 126.9673913,
+    "py": 37.5254985,
+    "type": "place",
+    "useTime": 1670599108000,
+    "lastUpdateTime": 1670599108000,
+    "creationTime": 1670599108000,
+    "order": 65535,
+    "sid": "1251235544",
+    "address": "서울특별시 용산구 한강로3가 63-70 1층 100호",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09170128",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "dySXyCvfOB3BIMXQwMYKVg==",
+        "pan": "46.42",
+        "tilt": "10.00",
+        "lng": "126.9671323",
+        "lat": "37.5252518",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240914_205/1726306992092MbeYg_JPEG/30275B32-45F9-4005-BD7F-4888C71038FC.jpeg",
+        "https://ldb-phinf.pstatic.net/20240219_20/1708319046701RY7Sh_JPEG/IMG_7404.jpeg",
+        "https://ldb-phinf.pstatic.net/20240219_26/1708319781000IdIG3_JPEG/IMG_6503.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 807611618,
+    "name": "커피브론즈",
+    "displayName": "",
+    "px": 126.9848785,
+    "py": 37.5771174,
+    "type": "place",
+    "useTime": 1669104167000,
+    "lastUpdateTime": 1669104167000,
+    "creationTime": 1669104166000,
+    "order": 65535,
+    "sid": "20713693",
+    "address": "서울특별시 종로구 안국동 113 1층",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09110141",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "o1x1buo1msUYwbWmMFv7RQ==",
+        "pan": "-152.54",
+        "tilt": "10.00",
+        "lng": "126.9848870",
+        "lat": "37.5771337",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20210209_33/1612847910825PEDvx_JPEG/0wPQs1D0XF-4HON1wyn2PeQw.jpeg.jpg",
+        "https://ldb-phinf.pstatic.net/20220111_227/1641832678918A9qKL_JPEG/55912231-063C-4F21-BE83-BEC3857ECC95.jpeg",
+        "https://ldb-phinf.pstatic.net/20220111_240/1641832677503oOqgD_JPEG/F6DDD4AA-2561-4849-93C0-0D3A3AB13766.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 804267498,
+    "name": "카페온화 익선점",
+    "displayName": "",
+    "px": 126.9898437,
+    "py": 37.5732925,
+    "type": "place",
+    "useTime": 1668820925000,
+    "lastUpdateTime": 1668820925000,
+    "creationTime": 1668820925000,
+    "order": 65535,
+    "sid": "1360232609",
+    "address": "서울특별시 종로구 익선동 166-39",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09110133",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "1005281"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "pM3IEw8N0WENDLR65Cp48w==",
+        "pan": "109.93",
+        "tilt": "10.00",
+        "lng": "126.9897622",
+        "lat": "37.5733264",
+        "fov": "100"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20190730_273/1564469772674WGo1B_JPEG/GJeXUZjWmgpeei51Ksvje_Kt.jpg",
+        "https://ldb-phinf.pstatic.net/20190730_57/1564469783307XpLpS_JPEG/8732rICZRx3p6MwQeUDQooWb.jpg",
+        "https://ldb-phinf.pstatic.net/20190730_292/1564469794214hWzrP_JPEG/2j2Ics8AlwHH_LGhCLr8TGH9.jpg"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 793513676,
+    "name": "텅",
+    "displayName": "",
+    "px": 126.9881544,
+    "py": 37.5771872,
+    "type": "place",
+    "useTime": 1667880827000,
+    "lastUpdateTime": 1667880827000,
+    "creationTime": 1667880827000,
+    "order": 65535,
+    "sid": "1224384502",
+    "address": "서울특별시 종로구 운니동 98-20 701호",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09110132",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221212"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "qAuCg1TCZCsUqpAQ+T2DAg==",
+        "pan": "-168.66",
+        "tilt": "10.00",
+        "lng": "126.9881798",
+        "lat": "37.5773129",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240618_22/17186870982432nacB_JPEG/IMG_4279.jpg",
+        "https://ldb-phinf.pstatic.net/20230323_117/1679546789419MjAHh_JPEG/IMG_0180_1.jpeg",
+        "https://ldb-phinf.pstatic.net/20230323_227/1679546108601vEt9j_JPEG/20220828-103723525.jpg"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 726403078,
+    "name": "무니",
+    "displayName": "",
+    "px": 126.9838713,
+    "py": 37.5472185,
+    "type": "place",
+    "useTime": 1662079642000,
+    "lastUpdateTime": 1662079642000,
+    "creationTime": 1662079641000,
+    "order": 65535,
+    "sid": "1013996143",
+    "address": "서울특별시 용산구 후암동 406-58 카페 무니",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09170101",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "DtGWdm1b2nmzxY8H3ZzV5A==",
+        "pan": "-93.05",
+        "tilt": "10.00",
+        "lng": "126.9840944",
+        "lat": "37.5472302",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20220213_265/1644740641205bDOhA_JPEG/IMG_6753.jpg",
+        "https://ldb-phinf.pstatic.net/20210522_294/1621656096012DgxBW_JPEG/v-pBymWRi6Nec9T7ETpSUEhE.jpg",
+        "https://ldb-phinf.pstatic.net/20190529_289/1559114483722yCxg6_JPEG/RGwdaCORZ95SlBVyL6AyvAwx.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 726396171,
+    "name": "도넛정수 창신점",
+    "displayName": "",
+    "px": 127.0108786,
+    "py": 37.5783008,
+    "type": "place",
+    "useTime": 1662079093000,
+    "lastUpdateTime": 1662079093000,
+    "creationTime": 1662079093000,
+    "order": 65535,
+    "sid": "1347553376",
+    "address": "서울특별시 종로구 창신동 23-492",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09110174",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "unhKdmZRDFG8T84wGvZ90g==",
+        "pan": "64.68",
+        "tilt": "10.00",
+        "lng": "127.0106908",
+        "lat": "37.5782118",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240429_223/1714353415643XHVRQ_JPEG/%B5%B5%B3%D3%C1%A4%BC%F6_%BD%C5%B8%DE%B4%BA_A4.jpg",
+        "https://ldb-phinf.pstatic.net/20240306_291/170969435748228VJb_JPEG/20240306_120523.jpg",
+        "https://ldb-phinf.pstatic.net/20231115_213/17000355110775V9TD_JPEG/DSC063566666.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 726370965,
+    "name": "혹스턴",
+    "displayName": "",
+    "px": 126.9303044,
+    "py": 37.5663701,
+    "type": "place",
+    "useTime": 1662076909000,
+    "lastUpdateTime": 1662076909000,
+    "creationTime": 1662076909000,
+    "order": 65535,
+    "sid": "1008629511",
+    "address": "서울특별시 서대문구 연희동 188-4 2층",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09410117",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221212"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "q7ck7lHSV8/MGaJFGNOfXQ==",
+        "pan": "-51.30",
+        "tilt": "10.00",
+        "lng": "126.9304785",
+        "lat": "37.5662305",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20220305_193/1646410056605EO1Sn_JPEG/271467333_629520225025538_5041099427267513676_n_%281%29.jpg",
+        "https://ldb-phinf.pstatic.net/20220305_299/1646410098844IfsdH_JPEG/271261858_317893876974121_9181655345187820290_n_%281%29.jpg",
+        "https://ldb-phinf.pstatic.net/20220305_135/1646410142119EReOy_JPEG/271277252_1005554543651575_8181338434355940738_n_%281%29.jpg"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 722728866,
+    "name": "올덴브라운 동묘점",
+    "displayName": "",
+    "px": 127.0183989,
+    "py": 37.5740885,
+    "type": "place",
+    "useTime": 1661738951000,
+    "lastUpdateTime": 1661738951000,
+    "creationTime": 1661738951000,
+    "order": 65535,
+    "sid": "1835648458",
+    "address": "서울특별시 종로구 종로 369-1 4층",
+    "memo": "",
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09110175",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "tmOTxG+VSco7DNX2Ib2teA==",
+        "pan": "-41.16",
+        "tilt": "10.00",
+        "lng": "127.0185454",
+        "lat": "37.5739208",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20220616_269/1655367790030TW3PE_JPEG/KakaoTalk_20220616_171620808.jpg",
+        "https://ldb-phinf.pstatic.net/20220616_131/1655367787444dFMyu_JPEG/N2.jpg",
+        "https://ldb-phinf.pstatic.net/20220616_196/1655367781434IfC0p_JPEG/B19.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 722402180,
+    "name": "스태픽스",
+    "displayName": "",
+    "px": 126.9680307,
+    "py": 37.5774706,
+    "type": "place",
+    "useTime": 1661696083000,
+    "lastUpdateTime": 1661696083000,
+    "creationTime": 1661696083000,
+    "order": 65535,
+    "sid": "1142689405",
+    "address": "서울특별시 종로구 필운동 32-33 102호",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09110113",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "fXYUduFti05SIXFZp1Pfog==",
+        "pan": "103.81",
+        "tilt": "7.94",
+        "lng": "126.9675822",
+        "lat": "37.5775153",
+        "fov": "50"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20190702_92/1561999900363HPzAy_JPEG/44JCdXJ3a1r1e7joos15XmSs.jpg",
+        "https://ldb-phinf.pstatic.net/20190702_248/1562011965181VoLFg_JPEG/ar56Qksa3WjP-eB1T9ooU8qR.jpg",
+        "https://ldb-phinf.pstatic.net/20190702_288/1562011989463izQ5s_JPEG/quL_r5waDPp5KoM3dXdx5Ln2.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 376857265,
+    "name": "아틀리에하모니",
+    "displayName": "",
+    "px": 127.0209353,
+    "py": 37.5821345,
+    "type": "place",
+    "useTime": 1661642716000,
+    "lastUpdateTime": 1661642716000,
+    "creationTime": 1622963449000,
+    "order": 65535,
+    "sid": "1369227970",
+    "address": "서울특별시 성북구 보문동5가 159-2",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09290127",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "ufn8HvmJde0jSwNhPHdPyw==",
+        "pan": "-98.23",
+        "tilt": "10.00",
+        "lng": "127.0211399",
+        "lat": "37.5821639",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20220725_223/1658713704565erYAg_JPEG/521B9233-D6B5-441B-992B-F2C422212FD5.jpeg",
+        "https://ldb-phinf.pstatic.net/20231219_272/17029128394398jnOu_JPEG/%C7%D1%C8%BF%C1%D6.jpeg",
+        "https://ldb-phinf.pstatic.net/20220315_210/1647321006286GMWV4_JPEG/IMG_9693.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 719494373,
+    "name": "언더워터 커피 로스터스",
+    "displayName": "",
+    "px": 127.0213324,
+    "py": 37.5836262,
+    "type": "place",
+    "useTime": 1661642706000,
+    "lastUpdateTime": 1661642706000,
+    "creationTime": 1661460245000,
+    "order": 65535,
+    "sid": "1894802728",
+    "address": "서울특별시 성북구 보문동4가 53-1 2층",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09290126",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "1n+zjdy89fALEYxvJm3OgA==",
+        "pan": "-91.15",
+        "tilt": "5.19",
+        "lng": "127.0214419",
+        "lat": "37.5837057",
+        "fov": "40"
+      },
+      "thumbnailUrls": [
+        "https://naverbooking-phinf.pstatic.net/20231124_53/1700762960389YwNFm_JPEG/image.jpg",
+        "https://ldb-phinf.pstatic.net/20231221_291/1703136611378uNrvE_JPEG/IMG_5784.jpeg",
+        "https://ldb-phinf.pstatic.net/20221022_118/1666439476862GbH2Q_JPEG/KakaoTalk_20221022_204814162_03.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 713471492,
+    "name": "채그로",
+    "displayName": "",
+    "px": 126.9442242,
+    "py": 37.5356239,
+    "type": "place",
+    "useTime": 1661642629000,
+    "lastUpdateTime": 1661642629000,
+    "creationTime": 1660960763000,
+    "order": 65535,
+    "sid": "1432332591",
+    "address": "서울특별시 마포구 마포동 388-5",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09440107",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220585",
+      "231392"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "gkByVdaiKZe9mLiKS76xEw==",
+        "pan": "103.60",
+        "tilt": "18.31",
+        "lng": "126.9441477",
+        "lat": "37.5357206",
+        "fov": "90"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20210630_132/1625037487422ibvxe_JPEG/CCD3nKJ_KwEniMQfpgcJQghM.jpg",
+        "https://ldb-phinf.pstatic.net/20210630_272/1625037482134Bxsl6_JPEG/hkdAJFryFAfXeVZ5sbx6gKVH.jpg",
+        "https://ldb-phinf.pstatic.net/20210630_205/162503525775415M6j_JPEG/lFm3hdyAp8gVy-oV33ziAGXx.jpg"
+      ],
+      "category": "북카페"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 509516304,
+    "name": "카페올리브",
+    "displayName": "",
+    "px": 126.9369237,
+    "py": 37.5449839,
+    "type": "place",
+    "useTime": 1661642556000,
+    "lastUpdateTime": 1661642556000,
+    "creationTime": 1641198550000,
+    "order": 65535,
+    "sid": "1534442753",
+    "address": "서울특별시 마포구 신수동 256-1",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09440111",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "fqDFi04hXhmg2iR8dO00zw==",
+        "pan": "-97.32",
+        "tilt": "8.81",
+        "lng": "126.9370022",
+        "lat": "37.5451618",
+        "fov": "90"
+      },
+      "thumbnailUrls": [],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 316351886,
+    "name": "커피앤시가렛",
+    "displayName": "",
+    "px": 126.9739986,
+    "py": 37.5627582,
+    "type": "place",
+    "useTime": 1661642090000,
+    "lastUpdateTime": 1661642090000,
+    "creationTime": 1612316044000,
+    "order": 65535,
+    "sid": "1547453593",
+    "address": "서울특별시 중구 서소문동 75-95",
+    "memo": "",
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09140166",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221212"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "WVGbsVaDyWiq9ktie5vxCA==",
+        "pan": "147.75",
+        "tilt": "10.00",
+        "lng": "126.9738978",
+        "lat": "37.5629307",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20210928_37/1632796888350ajTMh_JPEG/CHo553O8_yHWf2c4dG7Kd-hz.jpeg.jpg",
+        "https://ldb-phinf.pstatic.net/20210928_37/1632796895747cQsfV_JPEG/EPI02Isc6kJbwxgG9S-Ftytb.jpeg.jpg",
+        "https://ldb-phinf.pstatic.net/20210928_71/1632796902126rS78w_JPEG/tWXEeU--K1aP8KGudMonk4Ri.jpeg.jpg"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 323237920,
+    "name": "프릳츠 원서점",
+    "displayName": "",
+    "px": 126.988491,
+    "py": 37.577669,
+    "type": "place",
+    "useTime": 1661641736000,
+    "lastUpdateTime": 1661641736000,
+    "creationTime": 1613792401000,
+    "order": 65535,
+    "sid": "715782489",
+    "address": "서울특별시 종로구 원서동 221-1 아라리오 뮤지엄",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09110149",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221212"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "t4h2Y0ZJq26Sm7YLfkPOMQ==",
+        "pan": "2.39",
+        "tilt": "10.00",
+        "lng": "126.9884880",
+        "lat": "37.5775970",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240402_172/1712037942572gsrLk_JPEG/1.jpg",
+        "https://ldb-phinf.pstatic.net/20240402_42/1712037942200TT6bb_JPEG/2.jpg",
+        "https://ldb-phinf.pstatic.net/20240402_181/17120379411806a3PK_JPEG/3.jpg"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 383933467,
+    "name": "섬광",
+    "displayName": "",
+    "px": 126.9963437,
+    "py": 37.5625174,
+    "type": "place",
+    "useTime": 1661641648000,
+    "lastUpdateTime": 1661641648000,
+    "creationTime": 1624037465000,
+    "order": 65535,
+    "sid": "1913147400",
+    "address": "서울특별시 중구 충무로4가 32-16",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09140132",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "CPGJgajGPIEpEx9GePlhmA==",
+        "pan": "-7.18",
+        "tilt": "10.00",
+        "lng": "126.9963538",
+        "lat": "37.5624372",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20190817_162/1566049635168oHDCt_JPEG/l-5UcP1tTcX_kMAB029NTIaE.jpeg.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 318650443,
+    "name": "앵글340",
+    "displayName": "",
+    "px": 126.9947666,
+    "py": 37.5687852,
+    "type": "place",
+    "useTime": 1661641620000,
+    "lastUpdateTime": 1661641620000,
+    "creationTime": 1612830944000,
+    "order": 65535,
+    "sid": "1345576006",
+    "address": "서울특별시 종로구 장사동 182-2 3층",
+    "memo": "",
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09110154",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "LFk3A/VWJhsNAQfdEOdW5g==",
+        "pan": "-74.74",
+        "tilt": "30.00",
+        "lng": "126.9949734",
+        "lat": "37.5687161",
+        "fov": "90"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20230922_90/1695374987396Tr7CE_JPEG/IMG_1524.jpeg",
+        "https://ldb-phinf.pstatic.net/20240327_98/1711515422147VeSDG_JPEG/587C0C7D-476B-4248-832D-6BBBCDD49497.jpeg",
+        "https://ldb-phinf.pstatic.net/20240327_150/1711511987954jShGT_JPEG/IMG_4225.jpeg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 402858775,
+    "name": "해로커피",
+    "displayName": "",
+    "px": 127.0042867,
+    "py": 37.5896936,
+    "type": "place",
+    "useTime": 1661586825000,
+    "lastUpdateTime": 1661586825000,
+    "creationTime": 1626801100000,
+    "order": 65535,
+    "sid": "1075501022",
+    "address": "서울특별시 성북구 성북동1가 66",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09290102",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221212"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "wupSJKMnSNqmivV92bG8fQ==",
+        "pan": "-126.73",
+        "tilt": "10.00",
+        "lng": "127.0045135",
+        "lat": "37.5898120",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240729_14/1722219485785kVqTn_JPEG/B9ADDDF9-2121-48C2-B07B-8025350358CC.jpeg",
+        "https://ldb-phinf.pstatic.net/20240427_129/1714186834133hgqpL_JPEG/4C842F4C-FD5C-496F-980F-A54E65933836.jpeg",
+        "https://ldb-phinf.pstatic.net/20240729_16/1722219486631PKtEu_JPEG/20BB23DC-2449-42BA-9DAD-F50D1CE8518C.jpeg"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 308567010,
+    "name": "학림",
+    "displayName": "",
+    "px": 127.0016562,
+    "py": 37.58195,
+    "type": "place",
+    "useTime": 1661586770000,
+    "lastUpdateTime": 1661586770000,
+    "creationTime": 1610207408000,
+    "order": 65535,
+    "sid": "11716359",
+    "address": "서울특별시 종로구 명륜4가 94-2 2층 학림카페",
+    "memo": "",
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09110172",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221212"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "+GKeMXmtYRnoqmy7CIdYHQ==",
+        "pan": "-93.64",
+        "tilt": "11.94",
+        "lng": "127.0018991",
+        "lat": "37.5819347",
+        "fov": "40"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20190925_120/1569355058417uN8Pt_JPEG/ulOFrIc-mrKK_NvM2QwQqif0.jpg",
+        "https://ldb-phinf.pstatic.net/20190925_116/1569355065681NVwvk_JPEG/Nl-YkQ73grah2jFphiGL1qEx.jpg",
+        "https://ldb-phinf.pstatic.net/20190925_13/1569355071038CNaSK_JPEG/58aWNwP8ldJrJFVPDa6Zpbzm.jpg"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 720958150,
+    "name": "서화커피",
+    "displayName": "",
+    "px": 127.0000161,
+    "py": 37.5815932,
+    "type": "place",
+    "useTime": 1661581895000,
+    "lastUpdateTime": 1661581895000,
+    "creationTime": 1661581895000,
+    "order": 65535,
+    "sid": "1377831784",
+    "address": "서울특별시 종로구 명륜4가 140-9 1층 서화커피",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09110172",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "1N3IsAE52CabwFKq+UnnAg==",
+        "pan": "-53.76",
+        "tilt": "10.00",
+        "lng": "127.0000792",
+        "lat": "37.5815469",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20191110_140/1573356505114jrxWR_JPEG/F4tUdXNITjRaJR9V0rgei_fG.jpeg.jpg",
+        "https://ldb-phinf.pstatic.net/20191110_208/1573356515685XCTsN_JPEG/cXaGZZIJyhSmW1oW3tEIOlc1.jpeg.jpg",
+        "https://ldb-phinf.pstatic.net/20191110_261/1573356529469gl9WO_JPEG/ZYhocy52g6bQLb6bN9WiVGue.jpeg.jpg"
+      ],
+      "category": "카페,디저트"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 719581055,
+    "name": "테르트르",
+    "displayName": "",
+    "px": 127.0112709,
+    "py": 37.5782228,
+    "type": "place",
+    "useTime": 1661473161000,
+    "lastUpdateTime": 1661473161000,
+    "creationTime": 1661473161000,
+    "order": 65535,
+    "sid": "1248044853",
+    "address": "서울특별시 종로구 창신동 23-448",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09110174",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221212"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "Fm74h81mSRHPdBKv22EZ3A==",
+        "pan": "-88.22",
+        "tilt": "-3.63",
+        "lng": "127.0113550",
+        "lat": "37.5782270",
+        "fov": "70"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20200719_98/15950872921994yWzA_JPEG/gz31nAa-OuHM5uyxlTrUbqcs.jpg",
+        "https://ldb-phinf.pstatic.net/20200805_278/1596605687948scKLW_JPEG/CfoIxraXO40_aCB5f9qSJDL6.jpeg.jpg",
+        "https://ldb-phinf.pstatic.net/20200805_100/1596605704009MV7fB_JPEG/_QtpPHAbvcxAyiyGWsMKZ97v.jpeg.jpg"
+      ],
+      "category": "카페"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 719580639,
+    "name": "그린마일커피 북촌점",
+    "displayName": "",
+    "px": 126.9852299,
+    "py": 37.5824373,
+    "type": "place",
+    "useTime": 1661473132000,
+    "lastUpdateTime": 1661473132000,
+    "creationTime": 1661473132000,
+    "order": 65535,
+    "sid": "1226668619",
+    "address": "서울특별시 종로구 가회동 11-49 1층,2층,3층(루프탑)",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09110146",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220576",
+      "221212"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "IDG8ed+d/NFwTs6EPAwcsg==",
+        "pan": "90.82",
+        "tilt": "-5.06",
+        "lng": "126.9851126",
+        "lat": "37.5824216",
+        "fov": "42"
+      },
+      "thumbnailUrls": [],
+      "category": "카페"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 654896341,
+    "name": "베이커리카페 피버",
+    "displayName": "",
+    "px": 127.0580983,
+    "py": 37.6116954,
+    "type": "place",
+    "useTime": 1661460634000,
+    "lastUpdateTime": 1661460634000,
+    "creationTime": 1656046561000,
+    "order": 65535,
+    "sid": "1739819748",
+    "address": "서울특별시 성북구 장위동 50-46",
+    "memo": null,
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09290138",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220564",
+      "221161"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "Atbq+/F7MU0x7Aaog3j3AA==",
+        "pan": "-35.53",
+        "tilt": "10.00",
+        "lng": "127.0581858",
+        "lat": "37.6115728",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20220415_85/1650006169198xVCQb_JPEG/%C0%E1%BA%C0%BA%C6%B8%A3.jpg",
+        "https://ldb-phinf.pstatic.net/20220415_291/1650006168802l1fRs_JPEG/KakaoTalk_20210517_094055203.jpg",
+        "https://ldb-phinf.pstatic.net/20210326_135/1616757102026Wii3L_JPEG/FX9tkqXtPiOidCg44r3-k6rV.jpg"
+      ],
+      "category": "베이커리"
+    },
+    "isIndoor": false
+  },
+  {
+    "bookmarkId": 693957483,
+    "name": "964커피&너만보여크루아상",
+    "displayName": "",
+    "px": 127.0595009,
+    "py": 37.5900512,
+    "type": "place",
+    "useTime": 1661460626000,
+    "lastUpdateTime": 1661460626000,
+    "creationTime": 1659408269000,
+    "order": 65535,
+    "sid": "1098036228",
+    "address": "서울특별시 동대문구 망우로21길 63",
+    "memo": "",
+    "url": null,
+    "mcid": "CAFE",
+    "mcidName": "카페",
+    "rcode": "09230109",
+    "cidPath": [
+      "220036",
+      "220052",
+      "220564",
+      "221161"
+    ],
+    "available": true,
+    "folderMappings": null,
+    "placeInfo": {
+      "streetPanorama": {
+        "id": "Z6Yy+6RmloUL+0tYDdF6Yw==",
+        "pan": "-167.22",
+        "tilt": "10.00",
+        "lng": "127.0489235",
+        "lat": "37.5915393",
+        "fov": "120"
+      },
+      "thumbnailUrls": [
+        "https://ldb-phinf.pstatic.net/20240913_269/1726215573640RkQp1_JPEG/20240913_105416.jpg",
+        "https://ldb-phinf.pstatic.net/20240504_286/1714798068758zCpiW_JPEG/KakaoTalk_20220321_145428595.jpg",
+        "https://ldb-phinf.pstatic.net/20240913_297/1726215577403DVteM_JPEG/20240831_183327.jpg"
+      ],
+      "category": "베이커리"
+    },
+    "isIndoor": false
+  }
+]

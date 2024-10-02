@@ -3,6 +3,7 @@ export interface INaviType {
   title: string;
 }
 export interface INavi {
+  id: number;
   menu: string;
   cate: string;
   types: INaviType[];

@@ -1,5 +1,6 @@
 'use client'
 import { IPlace } from '@/interface/place';
+import Image from 'next/image';
 import React, { useState } from 'react';
 
 const CaseTile = ({ place }: { place: IPlace }) => {
@@ -15,20 +16,23 @@ const CaseTile = ({ place }: { place: IPlace }) => {
       <div
         className={`absolute top-0 rounded-lg w-full h-full transition-all duration-300 ease-in-out hover:scale-[103%]`}
       >
-        <img
+        <Image
           src={place.images[0]}
           alt="Placeholder"
           className="w-full h-full object-cover rounded-lg object-top	"
+          fill
         />
       </div>
 
       {/* 텍스트 섹션 */}
       <div
-        className={`absolute bottom-0 w-full p-4 transition-all duration-300 ease-in-out 'h-1/3 opacity-100'`}
+        className={`absolute bottom-0 w-full text-white p-4 transition-all duration-300 ease-in-out opacity-70 bg-black`}
       >
-        <h2 className="text-lg font-semibold">{place.title}</h2>
-        <p className=" line-clamp-2">{place.description}</p>
-        <p className="">{place.location}</p>
+        <div className='flex items-center justify-between'>
+          <h2 className="text-white text-lg font-semibold">{place.title}</h2>
+          <p className="text-white line-clamp-2">{place.description}</p>
+        </div>
+        <p className="text-white">{place.location}</p>
       </div>
     </div>
   );
