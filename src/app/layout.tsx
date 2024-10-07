@@ -10,6 +10,7 @@ import { SiteFooter } from "@/components/site-footer";
 import dynamic from 'next/dynamic'
 import { createClient } from "@/utils/supabase/server";
 import { headers } from "next/headers";
+import { Analytics } from "@vercel/analytics/react"
 
 const FloatingActionButton = dynamic(() => import('@/components/floatingButton'), { ssr: false })
 
@@ -57,6 +58,7 @@ export default function RootLayout({
           </Container>
         </FilterStoreProvider>
         <SiteFooter />
+        <Analytics />
       </body>
     </html>
   );
