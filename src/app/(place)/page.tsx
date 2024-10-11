@@ -18,7 +18,6 @@ export default async function page({
   const cate = Number(searchParams.cate as string);
   const activeNavi = navis.find(navi => navi.id === cate)
   const pfs = cookies().get('pfs')?.value
-
   const totalItems = places.filter(item => {
     if (!activeNavi) return true
     if (!searchParams.type) return activeNavi.cate.some(cate => cate === item.cate)
@@ -31,10 +30,7 @@ export default async function page({
   const filterItem: IPlace[] = totalItems.slice((pageNo - 1) * 12, pageNo * 12)
   return (
     <Container className=''>
-      {!searchParams.type ?
-        <Tile places={filterItem} /> :
-        <PlaceBox places={filterItem} />
-      }
+      <Tile places={filterItem} />
       <CustomPagination total={Math.ceil(totalItems.length / 12)} />
     </Container>
   )

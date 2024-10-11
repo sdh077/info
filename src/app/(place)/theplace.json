@@ -185,6 +185,7 @@
     "description": "한식",
     "placeLink": "https://map.naver.com/p/entry/place/11624237",
     "categories": [
+      "쯔양",
       "또간집"
     ]
   },
@@ -437,6 +438,7 @@
     "description": "막국수",
     "placeLink": "https://map.naver.com/p/entry/place/11680069",
     "categories": [
+      "쯔양",
       "먹을텐데"
     ]
   },
@@ -600,11 +602,12 @@
     "subTitle": "음식점",
     "sns": "",
     "snsLink": "",
-    "location": "서울 마포구 동교로18길 37",
+    "location": "서울특별시 마포구 서교동 375-26",
     "timetable": "",
     "description": "만두",
     "placeLink": "https://map.naver.com/p/entry/place/11710184",
     "categories": [
+      "쯔양",
       "최자로드"
     ]
   },
@@ -878,6 +881,7 @@
     "description": "칼국수,만두",
     "placeLink": "https://map.naver.com/p/entry/place/11717878",
     "categories": [
+      "쯔양",
       "최자로드"
     ]
   },
@@ -1655,6 +1659,7 @@
     "description": "떡볶이",
     "placeLink": "https://map.naver.com/p/entry/place/12873924",
     "categories": [
+      "쯔양",
       "최자로드"
     ]
   },
@@ -1718,6 +1723,7 @@
     "description": "햄버거",
     "placeLink": "https://map.naver.com/p/entry/place/13000071",
     "categories": [
+      "쯔양",
       "또간집"
     ]
   },
@@ -1839,11 +1845,12 @@
     "subTitle": "음식점",
     "sns": "",
     "snsLink": "",
-    "location": "서울 중구 창경궁로8길 32",
+    "location": "서울특별시 중구 주교동 43-23",
     "timetable": "",
     "description": "찌개,전골",
     "placeLink": "https://map.naver.com/p/entry/place/13097213",
     "categories": [
+      "쯔양",
       "최자로드"
     ]
   },
@@ -1886,6 +1893,7 @@
     "description": "육류,고기요리",
     "placeLink": "https://map.naver.com/p/entry/place/13123822",
     "categories": [
+      "쯔양",
       "먹을텐데"
     ]
   },
@@ -2537,6 +2545,7 @@
     "description": "칼국수,만두",
     "placeLink": "https://map.naver.com/p/entry/place/13575296",
     "categories": [
+      "쯔양",
       "먹을텐데"
     ]
   },
@@ -3792,11 +3801,12 @@
     "subTitle": "음식점",
     "sns": "",
     "snsLink": "",
-    "location": "서울특별시 서초구 반포동 93-5",
+    "location": "서울 서초구 서래로10길 9",
     "timetable": "",
     "description": "백반,가정식",
     "placeLink": "https://map.naver.com/p/entry/place/18371926",
     "categories": [
+      "최자로드",
       "먹을텐데"
     ]
   },
@@ -4301,6 +4311,7 @@
     "description": "한식",
     "placeLink": "https://map.naver.com/p/entry/place/18775943",
     "categories": [
+      "쯔양",
       "먹을텐데"
     ]
   },
@@ -4490,6 +4501,8 @@
     "description": "돼지고기구이",
     "placeLink": "https://map.naver.com/p/entry/place/19774046",
     "categories": [
+      "쯔양",
+      "최자로드",
       "먹을텐데"
     ]
   },
@@ -4616,6 +4629,7 @@
     "description": "떡볶이",
     "placeLink": "https://map.naver.com/p/entry/place/19877730",
     "categories": [
+      "쯔양",
       "먹을텐데"
     ]
   },
@@ -5163,27 +5177,6 @@
     "placeLink": "https://map.naver.com/p/entry/place/20823357",
     "categories": [
       "쯔양"
-    ]
-  },
-  {
-    "id": 20825040,
-    "source": "",
-    "cate": "마포구",
-    "type": "",
-    "images": [
-      "20825040.jpg",
-      "20825040.jpg"
-    ],
-    "title": "옛집",
-    "subTitle": "음식점",
-    "sns": "",
-    "snsLink": "",
-    "location": "서울 마포구 신촌로10길 8",
-    "timetable": "",
-    "description": "",
-    "placeLink": "https://map.naver.com/p/entry/place/20825040",
-    "categories": [
-      "최자로드"
     ]
   },
   {
@@ -6207,11 +6200,12 @@
     "subTitle": "음식점",
     "sns": "",
     "snsLink": "",
-    "location": "서울 영등포구 도림천로11길 13",
+    "location": "서울특별시 영등포구 대림동 1056-7",
     "timetable": "",
     "description": "양꼬치",
     "placeLink": "https://map.naver.com/p/entry/place/33879831",
     "categories": [
+      "쯔양",
       "최자로드"
     ]
   },
@@ -6972,27 +6966,6 @@
     ]
   },
   {
-    "id": 37180136,
-    "source": "",
-    "cate": "마포구",
-    "type": "",
-    "images": [
-      "37180136.jpg",
-      "37180136.jpg"
-    ],
-    "title": "성화라멘&샤브샤브",
-    "subTitle": "음식점",
-    "sns": "",
-    "snsLink": "",
-    "location": "서울특별시 마포구 서교동 332-19",
-    "timetable": "",
-    "description": "",
-    "placeLink": "https://map.naver.com/p/entry/place/37180136",
-    "categories": [
-      "쯔양"
-    ]
-  },
-  {
     "id": 37213189,
     "source": "",
     "cate": "광진구",
@@ -7119,27 +7092,6 @@
     ]
   },
   {
-    "id": 37554245,
-    "source": "",
-    "cate": "동작구",
-    "type": "",
-    "images": [
-      "37554245.jpg",
-      "37554245.jpg"
-    ],
-    "title": "팔팔낙지",
-    "subTitle": "음식점",
-    "sns": "",
-    "snsLink": "",
-    "location": "서울특별시 동작구 노량진동 148-65 1층",
-    "timetable": "",
-    "description": "",
-    "placeLink": "https://map.naver.com/p/entry/place/37554245",
-    "categories": [
-      "쯔양"
-    ]
-  },
-  {
     "id": 37581971,
     "source": "",
     "cate": "중구",
@@ -7152,11 +7104,12 @@
     "subTitle": "음식점",
     "sns": "",
     "snsLink": "",
-    "location": "서울 중구 청파로 443",
+    "location": "서울특별시 중구 중림동 61-4",
     "timetable": "",
     "description": "닭요리",
     "placeLink": "https://map.naver.com/p/entry/place/37581971",
     "categories": [
+      "쯔양",
       "최자로드"
     ]
   },
@@ -7451,6 +7404,7 @@
     "description": "냉면",
     "placeLink": "https://map.naver.com/p/entry/place/37912785",
     "categories": [
+      "쯔양",
       "먹을텐데"
     ]
   },
@@ -9660,27 +9614,6 @@
     ]
   },
   {
-    "id": 1164632192,
-    "source": "",
-    "cate": "안산시",
-    "type": "",
-    "images": [
-      "1164632192.jpg",
-      "1164632192.jpg"
-    ],
-    "title": "뚝방닭구이 안산점",
-    "subTitle": "음식점",
-    "sns": "",
-    "snsLink": "",
-    "location": "경기도 안산시 단원구 광덕대로 154 로데오타운 134호~141호",
-    "timetable": "",
-    "description": "",
-    "placeLink": "https://map.naver.com/p/entry/place/1164632192",
-    "categories": [
-      "쯔양"
-    ]
-  },
-  {
     "id": 1173480601,
     "source": "",
     "cate": "마포구",
@@ -10479,27 +10412,6 @@
     ]
   },
   {
-    "id": 1279762356,
-    "source": "",
-    "cate": "천안시",
-    "type": "",
-    "images": [
-      "1279762356.jpg",
-      "1279762356.jpg"
-    ],
-    "title": "스시린 신부점",
-    "subTitle": "음식점",
-    "sns": "",
-    "snsLink": "",
-    "location": "충청남도 천안시 동남구 신부동 816 1층",
-    "timetable": "",
-    "description": "",
-    "placeLink": "https://map.naver.com/p/entry/place/1279762356",
-    "categories": [
-      "쯔양"
-    ]
-  },
-  {
     "id": 1283820585,
     "source": "",
     "cate": "강남구",
@@ -10579,27 +10491,6 @@
     "timetable": "",
     "description": "종합분식",
     "placeLink": "https://map.naver.com/p/entry/place/1286415127",
-    "categories": [
-      "쯔양"
-    ]
-  },
-  {
-    "id": 1290155092,
-    "source": "",
-    "cate": "동작구",
-    "type": "",
-    "images": [
-      "1290155092.jpg",
-      "1290155092.jpg"
-    ],
-    "title": "장미맨숀 이수점",
-    "subTitle": "BAR",
-    "sns": "",
-    "snsLink": "",
-    "location": "서울특별시 동작구 사당동 1006-11 1층",
-    "timetable": "",
-    "description": "",
-    "placeLink": "https://map.naver.com/p/entry/place/1290155092",
     "categories": [
       "쯔양"
     ]
@@ -12117,27 +12008,6 @@
     ]
   },
   {
-    "id": 1510923119,
-    "source": "",
-    "cate": "강남구",
-    "type": "",
-    "images": [
-      "1510923119.jpg",
-      "1510923119.jpg"
-    ],
-    "title": "Fatboy Sandwiches",
-    "subTitle": "음식점",
-    "sns": "",
-    "snsLink": "",
-    "location": "서울 강남구 강남대로152길 42",
-    "timetable": "",
-    "description": "",
-    "placeLink": "https://map.naver.com/p/entry/place/1510923119",
-    "categories": [
-      "최자로드"
-    ]
-  },
-  {
     "id": 1511615726,
     "source": "",
     "cate": "용산구",
@@ -12612,11 +12482,12 @@
     "subTitle": "음식점",
     "sns": "",
     "snsLink": "",
-    "location": "서울 광진구 아차산로30길 39",
+    "location": "서울특별시 광진구 자양동 6-20 1층",
     "timetable": "",
     "description": "양꼬치",
     "placeLink": "https://map.naver.com/p/entry/place/1589238968",
     "categories": [
+      "쯔양",
       "또간집"
     ]
   },
@@ -12848,6 +12719,7 @@
     "description": "장어,먹장어요리",
     "placeLink": "https://map.naver.com/p/entry/place/1613373762",
     "categories": [
+      "쯔양",
       "먹을텐데"
     ]
   },
@@ -13503,27 +13375,6 @@
     ]
   },
   {
-    "id": 1715094552,
-    "source": "",
-    "cate": "노원구",
-    "type": "",
-    "images": [
-      "1715094552.jpg",
-      "1715094552.jpg"
-    ],
-    "title": "스시노칸도 노원점",
-    "subTitle": "음식점",
-    "sns": "",
-    "snsLink": "",
-    "location": "서울특별시 노원구 상계동 358-31 영빈빌딩 4층",
-    "timetable": "",
-    "description": "",
-    "placeLink": "https://map.naver.com/p/entry/place/1715094552",
-    "categories": [
-      "쯔양"
-    ]
-  },
-  {
     "id": 1718492290,
     "source": "",
     "cate": "용산구",
@@ -13857,27 +13708,6 @@
     "placeLink": "https://map.naver.com/p/entry/place/1771016332",
     "categories": [
       "theplace"
-    ]
-  },
-  {
-    "id": 1775351804,
-    "source": "",
-    "cate": "송파구",
-    "type": "",
-    "images": [
-      "1775351804.jpg",
-      "1775351804.jpg"
-    ],
-    "title": "돈탐라제주냉삼1977 방이직영점",
-    "subTitle": "음식점",
-    "sns": "",
-    "snsLink": "",
-    "location": "서울특별시 송파구 방이동 59-11 1층",
-    "timetable": "",
-    "description": "",
-    "placeLink": "https://map.naver.com/p/entry/place/1775351804",
-    "categories": [
-      "쯔양"
     ]
   },
   {
@@ -14801,6 +14631,7 @@
     "description": "햄버거",
     "placeLink": "https://map.naver.com/p/entry/place/1898369171",
     "categories": [
+      "쯔양",
       "먹을텐데"
     ]
   },
@@ -14886,27 +14717,6 @@
     "placeLink": "https://map.naver.com/p/entry/place/1906115036",
     "categories": [
       "먹을텐데"
-    ]
-  },
-  {
-    "id": 1906956915,
-    "source": "",
-    "cate": "서대문구",
-    "type": "",
-    "images": [
-      "1906956915.jpg",
-      "1906956915.jpg"
-    ],
-    "title": "라멘81번옥 신촌점",
-    "subTitle": "음식점",
-    "sns": "",
-    "snsLink": "",
-    "location": "서울특별시 서대문구 대현동 27-20 효자가이아오피스텔 1층 104호 라멘81번옥",
-    "timetable": "",
-    "description": "",
-    "placeLink": "https://map.naver.com/p/entry/place/1906956915",
-    "categories": [
-      "쯔양"
     ]
   },
   {
@@ -15309,27 +15119,6 @@
     ]
   },
   {
-    "id": 1955241774,
-    "source": "",
-    "cate": "강남구",
-    "type": "",
-    "images": [
-      "1955241774.jpg",
-      "1955241774.jpg"
-    ],
-    "title": "숙달돼지 삼성점",
-    "subTitle": "음식점",
-    "sns": "",
-    "snsLink": "",
-    "location": "서울특별시 강남구 대치동 943-29 1층",
-    "timetable": "",
-    "description": "",
-    "placeLink": "https://map.naver.com/p/entry/place/1955241774",
-    "categories": [
-      "쯔양"
-    ]
-  },
-  {
     "id": 1960119730,
     "source": "",
     "cate": "중구",
@@ -15347,6 +15136,7 @@
     "description": "해물,생선요리",
     "placeLink": "https://map.naver.com/p/entry/place/1960119730",
     "categories": [
+      "최자로드",
       "먹을텐데"
     ]
   },
@@ -15432,27 +15222,6 @@
     "placeLink": "https://map.naver.com/p/entry/place/1976484794",
     "categories": [
       "쯔양"
-    ]
-  },
-  {
-    "id": 1984801934,
-    "source": "",
-    "cate": "용산구",
-    "type": "",
-    "images": [
-      "1984801934.jpg",
-      "1984801934.jpg"
-    ],
-    "title": "하나모코시",
-    "subTitle": "음식점",
-    "sns": "",
-    "snsLink": "",
-    "location": "서울 용산구 백범로87길 50-1",
-    "timetable": "",
-    "description": "",
-    "placeLink": "https://map.naver.com/p/entry/place/1984801934",
-    "categories": [
-      "최자로드"
     ]
   },
   {
@@ -15600,27 +15369,6 @@
     "placeLink": "https://map.naver.com/p/entry/place/1999558319",
     "categories": [
       "쯔양"
-    ]
-  },
-  {
-    "id": null,
-    "source": "",
-    "cate": "동대문구",
-    "type": "",
-    "images": [
-      "undefined.jpg",
-      "undefined.jpg"
-    ],
-    "title": "서울 동대문구 하정로4길 12",
-    "subTitle": "주소/위치",
-    "sns": "",
-    "snsLink": "",
-    "location": "서울특별시 동대문구 하정로4길 12",
-    "timetable": "",
-    "description": "",
-    "placeLink": "https://map.naver.com/p/entry/place/undefined",
-    "categories": [
-      "최자로드"
     ]
   }
 ]

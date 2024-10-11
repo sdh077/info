@@ -34,9 +34,9 @@ const CaseTile = ({ place }: { place: IPlace }) => {
           <p className="text-white line-clamp-2">{place.description}</p>
         </div>
         <div className='flex items-center justify-between'>
-          <div className="text-white">{place.location}</div>
-          <div className="text-white">{place.categories.map(category =>
-            <Button key={category} variant={'outline'}>{category}</Button>
+          <div className="text-white text-sm">{place.location}</div>
+          <div className="text-white flex gap-2">{place.categories.map(category =>
+            <div key={category} className='w-[60px] text-sm text-right'>#{category}</div>
           )}</div>
         </div>
       </div>

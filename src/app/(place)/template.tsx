@@ -21,7 +21,7 @@ export default function Template({
       >
         <div className=' w-full hidden md:block pt-8'>
           <Container className='flex justify-between items-start'>
-            <Link href={'/'} className='text-4xl'>
+            <Link href={'/'} className='text-4xl font-bold'>
               The Place
             </Link>
             <Navigation navis={navis} width='900px' />

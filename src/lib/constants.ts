@@ -14,4 +14,7 @@ export const FilterState = [{
 }, {
   id: 3,
   name: '최자로드',
+}, {
+  id: 4,
+  name: '또간집',
 }]
