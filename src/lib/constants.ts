@@ -7,11 +7,11 @@ export const FilterState = [{
   name: '전체',
 }, {
   id: 1,
-  name: '데이트',
+  name: '먹을텐데',
 }, {
   id: 2,
-  name: '혼자',
+  name: '쯔양',
 }, {
   id: 3,
-  name: '분위기',
+  name: '최자로드',
 }]

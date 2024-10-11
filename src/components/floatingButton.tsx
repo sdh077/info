@@ -14,7 +14,7 @@ export default function FloatingActionButton() {
     cookieSet('pfs', value)
     setIsOpen(false);
   }
-  const pfs = Number(Cookies.get('pfs') ?? '0');
+  const pfs = Cookies.get('pfs') ?? '전체';
 
   return (
     <div className="fixed bottom-6 right-6 flex flex-col-reverse items-end space-y-4 space-y-reverse">
@@ -27,7 +27,7 @@ export default function FloatingActionButton() {
         {isOpen ? (
           <X className="h-6 w-6" />
         ) : (
-          pfs === 0 ? <Plus className="h-6 w-6" /> : FilterState[pfs].name
+          pfs
         )}
         <span className="sr-only">토글 메뉴</span>
       </Button>
@@ -38,13 +38,13 @@ export default function FloatingActionButton() {
             key={index}
             variant="outline"
             size="icon"
-            className={cn("transition-all duration-200 ease-in-out w-16", item.id === pfs ? 'text-black bg-gray-200' : '')}
+            className={cn("transition-all duration-200 ease-in-out w-16", item.name === pfs ? 'text-black bg-gray-200' : '')}
             style={{
               transform: `translateY(${isOpen ? '0' : '20px'})`,
               opacity: isOpen ? 1 : 0,
               transitionDelay: `${index * 50}ms`
             }}
-            onClick={() => handleState(item.id.toString())}
+            onClick={() => handleState(item.name.toString())}
           >
             <span>{item.name}</span>
           </Button>
