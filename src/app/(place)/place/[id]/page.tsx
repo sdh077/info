@@ -41,17 +41,17 @@ export default async function page({
             <IconWrapper><BsGeoAlt /></IconWrapper>
             <div>{place.location}</div>
           </div>
-          <div className="flex gap-4 items-center">
+          {/* <div className="flex gap-4 items-center">
             <IconWrapper><BsTable /></IconWrapper>
             <div>{place.timetable}</div>
-          </div>
+          </div> */}
           {place.description && <div className="flex gap-4 items-baseline">
             <IconWrapper><BsCardText /></IconWrapper>
             <div>{place.description}</div>
           </div>}
         </Container>
       </section>
-      <section className="my-8 h-96 w-full relative">
+      {/* <section className="my-8 h-96 w-full relative">
         <div className="absolute inset-0 bg-black opacity-50"></div>
         <div className="absolute inset-0 grid md:grid-cols-3 gap-24 items-center text-white justify-start">
           <div className={box}>
@@ -73,7 +73,7 @@ export default async function page({
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
       <footer>
 
       </footer>
