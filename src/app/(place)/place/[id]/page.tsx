@@ -3,7 +3,7 @@ import IconWrapper from "@/components/IconWrapper";
 import { IPlace } from "@/interface/place";
 import Image from "next/image";
 import { BsCardText, BsGeoAlt, BsHeart, BsInstagram, BsMap, BsPeople, BsShare, BsTable } from "react-icons/bs";
-import places from '../../place2.json'
+import places from '../../theplace.json'
 import Link from "next/link";
 
 
@@ -14,23 +14,8 @@ export default async function page({
   params: { id: string }
   searchParams: { [key: string]: string | string[] | undefined }
 }) {
-  const placeFind = places.find(place => place.sid === params.id) ?? places[0]
-  const place = {
-    id: Number(placeFind.sid),
-    source: '',
-    cate: placeFind.address.split(' ')[1],
-    type: '',
-    images: ["/image/place2/" + placeFind.sid + ".jpg", `/image/place2/${placeFind.sid}.jpg`],
-    title: placeFind.name,
-    subTitle: placeFind.mcidName,
-    sns: '',
-    snsLink: '',
-    location: placeFind.address,
-    timetable: '',
-    description: placeFind.placeInfo.category,
-    placeLink: `https://map.naver.com/p/entry/place/${placeFind.sid}`,
-    categories: []
-  }
+  const place = places.find(place => place.id === Number(params.id)) ?? places[0]
+
   const box = 'w-5/6 mx-auto md:w-[300px] md:h-[300px] bg-black flex justify-center items-center flex-col p-4'
   return (
     <div>
@@ -48,7 +33,7 @@ export default async function page({
         </header>
       </Container>
       <section className="w-full relative h-[80vh]">
-        <Image src={place.images[0]} alt="" fill className="object-cover" />
+        <Image src={`/place-image/${place.images[0]}`} alt="" fill className="object-cover" />
       </section>
       <section className="my-8">
         <Container>
@@ -67,8 +52,6 @@ export default async function page({
         </Container>
       </section>
       <section className="my-8 h-96 w-full relative">
-        <Image src={place.images[1] ?? place.images[0]} alt="background" fill className="object-cover w-full h-full hidden md:block" />
-
         <div className="absolute inset-0 bg-black opacity-50"></div>
         <div className="absolute inset-0 grid md:grid-cols-3 gap-24 items-center text-white justify-start">
           <div className={box}>
