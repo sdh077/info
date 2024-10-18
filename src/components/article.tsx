@@ -47,11 +47,11 @@ const CaseTile = ({ place }: { place: IPlace }) => {
 
   return (
     <div
-      className="relative w-full h-full rounded-lg overflow-hidden shadow-lg flex gap-4 justify-between"
+      className="relative w-full h-full rounded-lg overflow-hidden shadow-lg grid grid-cols-3 gap-4 justify-between"
     >
       {/* 이미지 섹션 */}
       <div
-        className={`relative rounded-lg !w-32 h-32 transition-all duration-300 ease-in-out hover:scale-[103%]`}
+        className={`relative rounded-lg w-full transition-all duration-300 ease-in-out hover:scale-[103%]`}
       >
         <Image
           src={`/place-image/${place.images[0]}`}
@@ -63,7 +63,7 @@ const CaseTile = ({ place }: { place: IPlace }) => {
 
       {/* 텍스트 섹션 */}
       <div
-        className={`max-w-[200px] w-full text-white py-4 transition-all duration-300 ease-in-out `}
+        className={`col-span-2 max-w-[200px] w-full text-white py-4 transition-all duration-300 ease-in-out `}
       >
         <div className='flex flex-col'>
           <h2 className="text-white text-lg font-semibold">{place.title}</h2>
