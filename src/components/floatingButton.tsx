@@ -32,7 +32,7 @@ export default function FloatingActionButton() {
         <span className="sr-only">토글 메뉴</span>
       </Button>
 
-      <div className="flex gap-2 scale-up-center" style={{ opacity: isOpen ? '1' : '0' }}>
+      <div className={cn(`flex gap-2 scale-up-center`, isOpen ? 'flex' : 'hidden')}>
         {FilterState.map((item, index) => (
           <Button
             key={index}
