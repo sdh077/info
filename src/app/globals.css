@@ -2,9 +2,17 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: 'Pretendard-Regular';
+  src: url('https://fastly.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
 @layer base {
+
   :root {
-    --background: 240 3% 9%;
+    /* --background: 240 3% 9%;
     --foreground: 210 40% 98%;
     --card: 222.2 84% 4.9%;
     --card-foreground: 210 40% 98%;
@@ -28,8 +36,8 @@
     --chart-2: 160 60% 45%;
     --chart-3: 30 80% 55%;
     --chart-4: 280 65% 60%;
-    --chart-5: 340 75% 55%;
-    /* --background: 0 0% 100%;
+    --chart-5: 340 75% 55%; */
+    --background: 0 0% 100%;
     --foreground: 222.2 84% 4.9%;
     --card: 0 0% 100%;
     --card-foreground: 222.2 84% 4.9%;
@@ -53,7 +61,7 @@
     --chart-2: 173 58% 39%;
     --chart-3: 197 37% 24%;
     --chart-4: 43 74% 66%;
-    --chart-5: 27 87% 67%; */
+    --chart-5: 27 87% 67%;
   }
 
   .dark {
@@ -90,20 +98,11 @@
   }
 
   body {
+    font-family: Pretendard-Regular;
     @apply bg-background text-foreground;
   }
 }
 
-@font-face {
-  font-family: 'TTLaundryGothicB';
-  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2403-2@1.0/TTLaundryGothicB.woff2') format('woff2');
-  font-weight: 700;
-  font-style: normal;
-}
-
-.font-family-cake {
-  font-family: TTLaundryGothicB;
-}
 
 .modal-backdrop {
   position: absolute;

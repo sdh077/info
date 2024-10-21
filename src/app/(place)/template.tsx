@@ -17,10 +17,10 @@ export default function Template({
       <div className='md:hidden block sticky top-0 z-50 bg-background'>
         <MobileNavigation navis={navis} />
       </div>
-      <div className='sticky top-0 z-10 bg-background'
+      <div className='sticky top-0 z-10 bg-background border-b-2'
       >
-        <div className=' w-full hidden md:block pt-8'>
-          <Container className='flex justify-between items-start'>
+        <div className=' w-full hidden md:block pt-8 '>
+          <Container className='flex justify-between items-center'>
             <Link href={'/'} className='text-4xl font-bold'>
               The Place
             </Link>

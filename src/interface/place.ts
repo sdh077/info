@@ -11,4 +11,5 @@ export interface IPlace extends IInfo {
   description: string;
   placeLink: string;
   categories: string[];
+  position: { px: number; py: number }
 }

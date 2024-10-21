@@ -28,7 +28,7 @@ export function MobileNavigationUl({ navis }: { navis: INavi[] }) {
     <div className="grid grid-cols-2 gap-2">
       <Sheet open={open} onOpenChange={setOpen}>
         <SheetTrigger asChild>
-          <Button variant="outline">
+          <Button variant="ghost">
             <svg
               strokeWidth="1.5"
               viewBox="0 0 24 24"
@@ -62,29 +62,19 @@ export function MobileNavigationUl({ navis }: { navis: INavi[] }) {
         </SheetTrigger>
         <SheetContent side={"left"}>
           <SheetHeader>
-            <SheetTitle>Edit profile</SheetTitle>
+            <SheetTitle>Menu</SheetTitle>
             <SheetDescription>
             </SheetDescription>
           </SheetHeader>
           <ScrollArea className="flex flex-col space-y-2 h-[calc(100vh-8rem)] ">
             {navis.map((navi, index) => (
               <div key={index} className="flex flex-col space-y-3 pt-6">
-                <h4 className="font-medium text-base">{navi.menu}</h4>
-                <MobileLink href={`/place?cate=${navi.cate}`}
+                <MobileLink href={`/?cate=${navi.id}`}
                   onOpenChange={setOpen}
                   className="text-muted-foreground text-sm"
                 >
-                  전체
+                  {navi.menu}
                 </MobileLink>
-                {navi.types.map(type =>
-                  <MobileLink key={type.type}
-                    onOpenChange={setOpen}
-                    href={`/place?cate=${navi.cate}&type=${type.type}`}
-                    className="text-muted-foreground text-sm"
-                  >
-                    {type.title}
-                  </MobileLink>
-                )}
               </div>
             ))}
           </ScrollArea>
@@ -101,9 +91,11 @@ export function MobileNavigationUl({ navis }: { navis: INavi[] }) {
 
 export function MobileNavigation({ navis }: { navis: INavi[] }) {
   return (
-    <div className='flex items-center'>
+    <div className='flex items-center py-2'>
       <MobileNavigationUl navis={navis} />
-      <div>INFO</div>
+      <Link href={'/'} className='text-2xl font-bold'>
+        The Place
+      </Link>
     </div>
   )
 }

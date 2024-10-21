@@ -1,11 +1,11 @@
 import { Container } from "@/components/Container";
 import { IPlace } from "@/interface/place";
-import places from './theplace.json'
-import PlaceBox from "./placeBox";
+import places from '@/data/theplace.json'
 import Tile from "./Tile";
 import CustomPagination from "@/components/Pagination";
 import navis from './navis.json'
 import { cookies } from 'next/headers'
+import Map from "@/components/map";
 
 export default async function page({
   params,
@@ -29,10 +29,13 @@ export default async function page({
 
   const filterItem: IPlace[] = totalItems.slice((pageNo - 1) * 12, pageNo * 12)
   return (
-    <Container className=''>
-      <Tile places={filterItem} />
+    <div className=''>
+      <div className="relative mt-8 flex flex-col md:flex-row">
+        <Tile places={filterItem} />
+        <Map />
+      </div>
       <CustomPagination total={Math.ceil(totalItems.length / 12)} />
-    </Container>
+    </div>
   )
 }
 

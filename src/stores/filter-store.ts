@@ -9,11 +9,13 @@ type FilterItem = {
 
 export type FilterState = {
   items: FilterItem[]
+  placeId: number;
 }
 
 export type FilterActions = {
   changeState: (editItem: FilterItem) => void;
   ableItem: () => number[];
+  chagePlaceId: (placeId: number) => void;
 }
 
 export type FilterStore = FilterState & FilterActions
@@ -32,6 +34,7 @@ export const defaultInitState: FilterState = {
     name: '카페공부',
     isUse: true,
   }],
+  placeId: -1
 }
 
 export const createFilterStore = (
@@ -42,6 +45,6 @@ export const createFilterStore = (
     changeState: (editItem: FilterItem) =>
       set((state) => ({ ...state, items: state.items.map(item => item.id !== editItem.id ? item : editItem) })),
     ableItem: () => get().items.filter(item => item.isUse).map(item => item.id),
-
+    chagePlaceId: (placeId: number) => set((state) => ({ ...state, placeId }))
   }))
 }

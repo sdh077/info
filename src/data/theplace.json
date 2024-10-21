@@ -18,7 +18,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/10985984",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.3883481,
+      "py": 36.3499346
+    }
   },
   {
     "id": 11356993,
@@ -39,7 +43,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11356993",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9785551,
+      "py": 37.5673054
+    }
   },
   {
     "id": 11591170,
@@ -60,7 +68,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11591170",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0382495,
+      "py": 37.7402936
+    }
   },
   {
     "id": 11604340,
@@ -81,7 +93,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11604340",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 128.9990615,
+      "py": 35.1036122
+    }
   },
   {
     "id": 11618456,
@@ -102,7 +118,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11618456",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9818497,
+      "py": 37.5621169
+    }
   },
   {
     "id": 11618762,
@@ -123,7 +143,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11618762",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.6185787,
+      "py": 37.4740536
+    }
   },
   {
     "id": 11619310,
@@ -144,7 +168,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11619310",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.006361,
+      "py": 37.57029
+    }
   },
   {
     "id": 11623967,
@@ -165,7 +193,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11623967",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0285888,
+      "py": 37.5774796
+    }
   },
   {
     "id": 11624237,
@@ -187,7 +219,11 @@
     "categories": [
       "쯔양",
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 126.931282,
+      "py": 37.5208564
+    }
   },
   {
     "id": 11626056,
@@ -208,7 +244,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11626056",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0489641,
+      "py": 37.5834007
+    }
   },
   {
     "id": 11626202,
@@ -229,7 +269,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11626202",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.939484,
+      "py": 37.5425356
+    }
   },
   {
     "id": 11658531,
@@ -250,7 +294,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11658531",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.4710029,
+      "py": 36.5397252
+    }
   },
   {
     "id": 11678488,
@@ -271,7 +319,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11678488",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0005287,
+      "py": 37.5643768
+    }
   },
   {
     "id": 11678754,
@@ -292,7 +344,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11678754",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0173691,
+      "py": 37.5161677
+    }
   },
   {
     "id": 11678773,
@@ -313,7 +369,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11678773",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9268251,
+      "py": 37.5206924
+    }
   },
   {
     "id": 11678838,
@@ -334,7 +394,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11678838",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9969235,
+      "py": 37.5603727
+    }
   },
   {
     "id": 11679271,
@@ -355,7 +419,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11679271",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9269249,
+      "py": 37.6022569
+    }
   },
   {
     "id": 11679306,
@@ -376,7 +444,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11679306",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9773981,
+      "py": 37.5615634
+    }
   },
   {
     "id": 11679611,
@@ -397,7 +469,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11679611",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9455004,
+      "py": 37.5474904
+    }
   },
   {
     "id": 11679997,
@@ -418,7 +494,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11679997",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9801286,
+      "py": 37.5709094
+    }
   },
   {
     "id": 11680069,
@@ -440,7 +520,11 @@
     "categories": [
       "쯔양",
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0103117,
+      "py": 37.5558417
+    }
   },
   {
     "id": 11680150,
@@ -461,7 +545,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11680150",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.2869392,
+      "py": 36.619935
+    }
   },
   {
     "id": 11681864,
@@ -482,7 +570,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11681864",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 128.0723,
+      "py": 37.48791
+    }
   },
   {
     "id": 11684682,
@@ -503,7 +595,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11684682",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.6231178,
+      "py": 37.4708426
+    }
   },
   {
     "id": 11687205,
@@ -524,7 +620,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11687205",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0762309,
+      "py": 37.557681
+    }
   },
   {
     "id": 11706492,
@@ -545,7 +645,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11706492",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0310039,
+      "py": 37.5196642
+    }
   },
   {
     "id": 11708579,
@@ -566,7 +670,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11708579",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9860418,
+      "py": 37.5741563
+    }
   },
   {
     "id": 11709869,
@@ -587,7 +695,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11709869",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.7813198,
+      "py": 37.6716027
+    }
   },
   {
     "id": 11710184,
@@ -609,7 +721,11 @@
     "categories": [
       "쯔양",
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.917918,
+      "py": 37.553806
+    }
   },
   {
     "id": 11710234,
@@ -630,7 +746,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11710234",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.142368,
+      "py": 35.8268337
+    }
   },
   {
     "id": 11710618,
@@ -651,7 +771,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11710618",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.1123698,
+      "py": 37.5004679
+    }
   },
   {
     "id": 11710868,
@@ -672,7 +796,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11710868",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 128.5968861,
+      "py": 38.2142067
+    }
   },
   {
     "id": 11710925,
@@ -693,7 +821,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11710925",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.4293243,
+      "py": 36.3338073
+    }
   },
   {
     "id": 11710926,
@@ -714,7 +846,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11710926",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9418625,
+      "py": 35.6519321
+    }
   },
   {
     "id": 11711553,
@@ -735,7 +871,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11711553",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.2992254,
+      "py": 36.7623395
+    }
   },
   {
     "id": 11711983,
@@ -756,7 +896,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11711983",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9839047,
+      "py": 37.5727663
+    }
   },
   {
     "id": 11711987,
@@ -777,7 +921,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11711987",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.027425,
+      "py": 37.5257167
+    }
   },
   {
     "id": 11712462,
@@ -798,7 +946,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11712462",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.9564159,
+      "py": 37.3385403
+    }
   },
   {
     "id": 11712517,
@@ -819,7 +971,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11712517",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9961462,
+      "py": 37.5933105
+    }
   },
   {
     "id": 11716359,
@@ -840,7 +996,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11716359",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0016562,
+      "py": 37.58195
+    }
   },
   {
     "id": 11717523,
@@ -861,7 +1021,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11717523",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9902943,
+      "py": 37.5728227
+    }
   },
   {
     "id": 11717878,
@@ -883,7 +1047,11 @@
     "categories": [
       "쯔양",
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9703366,
+      "py": 37.536633
+    }
   },
   {
     "id": 11719946,
@@ -904,7 +1072,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11719946",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9770936,
+      "py": 37.560009
+    }
   },
   {
     "id": 11721256,
@@ -925,7 +1097,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11721256",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0543869,
+      "py": 37.5428369
+    }
   },
   {
     "id": 11721468,
@@ -946,7 +1122,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11721468",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9151835,
+      "py": 37.5513732
+    }
   },
   {
     "id": 11723203,
@@ -967,7 +1147,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11723203",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9798143,
+      "py": 37.5711282
+    }
   },
   {
     "id": 11723266,
@@ -988,7 +1172,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11723266",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0219617,
+      "py": 37.5485386
+    }
   },
   {
     "id": 11723756,
@@ -1009,7 +1197,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11723756",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0351854,
+      "py": 37.5027171
+    }
   },
   {
     "id": 11724317,
@@ -1030,7 +1222,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11724317",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9800349,
+      "py": 37.5662396
+    }
   },
   {
     "id": 11725735,
@@ -1051,7 +1247,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11725735",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9909196,
+      "py": 37.533085
+    }
   },
   {
     "id": 11725872,
@@ -1072,7 +1272,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11725872",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9316586,
+      "py": 37.5194005
+    }
   },
   {
     "id": 11726808,
@@ -1093,7 +1297,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11726808",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9770411,
+      "py": 37.5595669
+    }
   },
   {
     "id": 11727153,
@@ -1114,7 +1322,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11727153",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9770794,
+      "py": 37.5597919
+    }
   },
   {
     "id": 11727415,
@@ -1135,7 +1347,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11727415",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9839596,
+      "py": 37.5641835
+    }
   },
   {
     "id": 11727524,
@@ -1156,7 +1372,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11727524",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9817781,
+      "py": 37.5620831
+    }
   },
   {
     "id": 11727587,
@@ -1177,7 +1397,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11727587",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.974758,
+      "py": 37.520975
+    }
   },
   {
     "id": 11728126,
@@ -1198,7 +1422,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11728126",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0038893,
+      "py": 37.5726483
+    }
   },
   {
     "id": 11735007,
@@ -1219,7 +1447,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11735007",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9735611,
+      "py": 37.5339513
+    }
   },
   {
     "id": 11780227,
@@ -1240,7 +1472,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11780227",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0106436,
+      "py": 37.5536175
+    }
   },
   {
     "id": 11817094,
@@ -1261,7 +1497,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11817094",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.7517644,
+      "py": 37.8684353
+    }
   },
   {
     "id": 11819191,
@@ -1282,7 +1522,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11819191",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.253778,
+      "py": 35.1323613
+    }
   },
   {
     "id": 11819292,
@@ -1303,7 +1547,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11819292",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0236857,
+      "py": 37.4868563
+    }
   },
   {
     "id": 11819312,
@@ -1324,7 +1572,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11819312",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 128.4258023,
+      "py": 38.4988216
+    }
   },
   {
     "id": 11828090,
@@ -1345,7 +1597,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11828090",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9238512,
+      "py": 37.398006
+    }
   },
   {
     "id": 11829657,
@@ -1366,7 +1622,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11829657",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0306874,
+      "py": 37.5771
+    }
   },
   {
     "id": 11832566,
@@ -1387,7 +1647,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11832566",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.4674984,
+      "py": 33.5039713
+    }
   },
   {
     "id": 11850242,
@@ -1408,7 +1672,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11850242",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 126.9889029,
+      "py": 37.5683895
+    }
   },
   {
     "id": 11859878,
@@ -1429,7 +1697,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11859878",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 128.9146373,
+      "py": 37.7911797
+    }
   },
   {
     "id": 11864484,
@@ -1450,7 +1722,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11864484",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0284792,
+      "py": 37.5222379
+    }
   },
   {
     "id": 11877646,
@@ -1471,7 +1747,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11877646",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.964178,
+      "py": 37.5679193
+    }
   },
   {
     "id": 11888236,
@@ -1492,7 +1772,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11888236",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0437393,
+      "py": 37.5805237
+    }
   },
   {
     "id": 11889051,
@@ -1513,7 +1797,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/11889051",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.7341051,
+      "py": 34.7396461
+    }
   },
   {
     "id": 12016870,
@@ -1534,7 +1822,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/12016870",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.3882696,
+      "py": 36.3499601
+    }
   },
   {
     "id": 12038685,
@@ -1555,7 +1847,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/12038685",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0338401,
+      "py": 37.5619795
+    }
   },
   {
     "id": 12064578,
@@ -1576,7 +1872,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/12064578",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.3086802,
+      "py": 38.1460242
+    }
   },
   {
     "id": 12068351,
@@ -1597,7 +1897,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/12068351",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.029384,
+      "py": 37.526603
+    }
   },
   {
     "id": 12795963,
@@ -1618,7 +1922,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/12795963",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 128.6067268,
+      "py": 35.8685009
+    }
   },
   {
     "id": 12821993,
@@ -1639,7 +1947,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/12821993",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 127.0457277,
+      "py": 37.3531823
+    }
   },
   {
     "id": 12873924,
@@ -1661,7 +1973,11 @@
     "categories": [
       "쯔양",
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9806796,
+      "py": 37.4863013
+    }
   },
   {
     "id": 12886879,
@@ -1682,7 +1998,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/12886879",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.7098772,
+      "py": 33.5536666
+    }
   },
   {
     "id": 12943424,
@@ -1703,7 +2023,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/12943424",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.4039335,
+      "py": 37.513229
+    }
   },
   {
     "id": 13000071,
@@ -1725,7 +2049,11 @@
     "categories": [
       "쯔양",
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 126.987387,
+      "py": 37.5417856
+    }
   },
   {
     "id": 13030442,
@@ -1746,7 +2074,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13030442",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 128.5931812,
+      "py": 35.8723495
+    }
   },
   {
     "id": 13048498,
@@ -1767,7 +2099,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13048498",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9246634,
+      "py": 37.6075458
+    }
   },
   {
     "id": 13063884,
@@ -1788,7 +2124,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13063884",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 126.9821082,
+      "py": 37.5609723
+    }
   },
   {
     "id": 13082652,
@@ -1809,7 +2149,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13082652",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.5106916,
+      "py": 37.611902
+    }
   },
   {
     "id": 13092236,
@@ -1830,7 +2174,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13092236",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.085524,
+      "py": 37.5420971
+    }
   },
   {
     "id": 13097213,
@@ -1852,7 +2200,11 @@
     "categories": [
       "쯔양",
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9997477,
+      "py": 37.5686783
+    }
   },
   {
     "id": 13117633,
@@ -1873,7 +2225,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13117633",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0445675,
+      "py": 37.7389401
+    }
   },
   {
     "id": 13123822,
@@ -1895,7 +2251,11 @@
     "categories": [
       "쯔양",
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0573094,
+      "py": 37.5691033
+    }
   },
   {
     "id": 13127371,
@@ -1916,7 +2276,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13127371",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.849413,
+      "py": 37.530844
+    }
   },
   {
     "id": 13128033,
@@ -1937,7 +2301,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13128033",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0968199,
+      "py": 37.5036795
+    }
   },
   {
     "id": 13129498,
@@ -1958,7 +2326,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13129498",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.024377,
+      "py": 37.5078657
+    }
   },
   {
     "id": 13148169,
@@ -1979,7 +2351,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13148169",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.9459597,
+      "py": 37.3539588
+    }
   },
   {
     "id": 13153971,
@@ -2000,7 +2376,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13153971",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9914521,
+      "py": 37.5632419
+    }
   },
   {
     "id": 13155462,
@@ -2021,7 +2401,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13155462",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.8943507,
+      "py": 37.5371228
+    }
   },
   {
     "id": 13156205,
@@ -2042,7 +2426,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13156205",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9328357,
+      "py": 37.5003926
+    }
   },
   {
     "id": 13156672,
@@ -2063,7 +2451,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13156672",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9498255,
+      "py": 37.5040842
+    }
   },
   {
     "id": 13160207,
@@ -2084,7 +2476,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13160207",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9487607,
+      "py": 37.5403569
+    }
   },
   {
     "id": 13182359,
@@ -2105,7 +2501,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13182359",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.071378,
+      "py": 37.570859
+    }
   },
   {
     "id": 13326495,
@@ -2126,7 +2526,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13326495",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9700499,
+      "py": 37.54665
+    }
   },
   {
     "id": 13358436,
@@ -2147,7 +2551,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13358436",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0233572,
+      "py": 37.5240032
+    }
   },
   {
     "id": 13358442,
@@ -2168,7 +2576,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13358442",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9449196,
+      "py": 37.538375
+    }
   },
   {
     "id": 13458726,
@@ -2189,7 +2601,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13458726",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.8141411,
+      "py": 37.5676682
+    }
   },
   {
     "id": 13499059,
@@ -2210,7 +2626,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13499059",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.012006,
+      "py": 37.552668
+    }
   },
   {
     "id": 13503807,
@@ -2231,7 +2651,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13503807",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.1736656,
+      "py": 36.7876408
+    }
   },
   {
     "id": 13503865,
@@ -2252,7 +2676,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13503865",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.5467986,
+      "py": 37.7019216
+    }
   },
   {
     "id": 13517178,
@@ -2273,7 +2701,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13517178",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9608828,
+      "py": 37.5727013
+    }
   },
   {
     "id": 13522867,
@@ -2294,7 +2726,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13522867",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 127.0901815,
+      "py": 35.8173814
+    }
   },
   {
     "id": 13528994,
@@ -2315,7 +2751,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13528994",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 126.3706776,
+      "py": 34.7807952
+    }
   },
   {
     "id": 13537864,
@@ -2336,7 +2776,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13537864",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9920033,
+      "py": 37.5648895
+    }
   },
   {
     "id": 13538909,
@@ -2357,7 +2801,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13538909",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.6257293,
+      "py": 37.4715146
+    }
   },
   {
     "id": 13541790,
@@ -2378,7 +2826,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13541790",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9165075,
+      "py": 37.5153314
+    }
   },
   {
     "id": 13546670,
@@ -2399,7 +2851,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13546670",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9105109,
+      "py": 37.6033693
+    }
   },
   {
     "id": 13571256,
@@ -2420,7 +2876,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13571256",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 129.324618,
+      "py": 35.5435963
+    }
   },
   {
     "id": 13572671,
@@ -2441,7 +2901,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13572671",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 129.0254361,
+      "py": 35.1009423
+    }
   },
   {
     "id": 13573629,
@@ -2462,7 +2926,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13573629",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9526794,
+      "py": 37.5412839
+    }
   },
   {
     "id": 13574818,
@@ -2483,7 +2951,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13574818",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0505086,
+      "py": 37.525259
+    }
   },
   {
     "id": 13575148,
@@ -2504,7 +2976,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13575148",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.005875,
+      "py": 37.5702733
+    }
   },
   {
     "id": 13575188,
@@ -2525,7 +3001,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/13575188",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9888545,
+      "py": 37.5794396
+    }
   },
   {
     "id": 13575296,
@@ -2547,7 +3027,11 @@
     "categories": [
       "쯔양",
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0391428,
+      "py": 37.5790378
+    }
   },
   {
     "id": 15159936,
@@ -2568,7 +3052,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/15159936",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.735567,
+      "py": 37.877027
+    }
   },
   {
     "id": 15180803,
@@ -2589,7 +3077,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/15180803",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 128.9089591,
+      "py": 35.2469548
+    }
   },
   {
     "id": 15189674,
@@ -2610,7 +3102,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/15189674",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.9561076,
+      "py": 37.3369007
+    }
   },
   {
     "id": 15311947,
@@ -2631,7 +3127,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/15311947",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 128.1179,
+      "py": 36.1343167
+    }
   },
   {
     "id": 15439624,
@@ -2652,7 +3152,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/15439624",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 128.9906987,
+      "py": 37.1713766
+    }
   },
   {
     "id": 15663657,
@@ -2673,7 +3177,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/15663657",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 130.9099376,
+      "py": 37.4925901
+    }
   },
   {
     "id": 15704114,
@@ -2694,7 +3202,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/15704114",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 129.3661461,
+      "py": 36.0420227
+    }
   },
   {
     "id": 15947616,
@@ -2715,7 +3227,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/15947616",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9138638,
+      "py": 35.1550649
+    }
   },
   {
     "id": 15999686,
@@ -2736,7 +3252,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/15999686",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.8956321,
+      "py": 35.1591106
+    }
   },
   {
     "id": 16123304,
@@ -2757,7 +3277,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/16123304",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.4048901,
+      "py": 36.3138032
+    }
   },
   {
     "id": 16191091,
@@ -2778,7 +3302,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/16191091",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 128.5646145,
+      "py": 35.871686
+    }
   },
   {
     "id": 16247697,
@@ -2799,7 +3327,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/16247697",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 126.8788943,
+      "py": 35.2071597
+    }
   },
   {
     "id": 16349958,
@@ -2820,7 +3352,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/16349958",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.6280108,
+      "py": 37.4715666
+    }
   },
   {
     "id": 16414750,
@@ -2841,7 +3377,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/16414750",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 129.0368366,
+      "py": 35.0981714
+    }
   },
   {
     "id": 16503022,
@@ -2862,7 +3402,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/16503022",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.7239436,
+      "py": 37.4943357
+    }
   },
   {
     "id": 16701638,
@@ -2883,7 +3427,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/16701638",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.5250247,
+      "py": 33.5117938
+    }
   },
   {
     "id": 16705373,
@@ -2904,7 +3452,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/16705373",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 129.1141348,
+      "py": 35.148845
+    }
   },
   {
     "id": 16771684,
@@ -2925,7 +3477,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/16771684",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.5322761,
+      "py": 33.4760509
+    }
   },
   {
     "id": 16834960,
@@ -2946,7 +3502,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/16834960",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.486755,
+      "py": 33.48376
+    }
   },
   {
     "id": 16838838,
@@ -2967,7 +3527,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/16838838",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.4012278,
+      "py": 34.8062428
+    }
   },
   {
     "id": 16869199,
@@ -2988,7 +3552,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/16869199",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 127.7344031,
+      "py": 34.7397599
+    }
   },
   {
     "id": 16876643,
@@ -3009,7 +3577,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/16876643",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.4061425,
+      "py": 33.4237171
+    }
   },
   {
     "id": 16896746,
@@ -3030,7 +3602,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/16896746",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 126.5508524,
+      "py": 33.263357
+    }
   },
   {
     "id": 16908573,
@@ -3051,7 +3627,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/16908573",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 129.0259595,
+      "py": 35.1021741
+    }
   },
   {
     "id": 16998445,
@@ -3072,7 +3652,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/16998445",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.8547239,
+      "py": 34.1814452
+    }
   },
   {
     "id": 17122958,
@@ -3093,7 +3677,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/17122958",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.1332437,
+      "py": 35.8384958
+    }
   },
   {
     "id": 17145033,
@@ -3114,7 +3702,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/17145033",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.709015,
+      "py": 35.9894061
+    }
   },
   {
     "id": 17192948,
@@ -3135,7 +3727,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/17192948",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.46855,
+      "py": 35.3179
+    }
   },
   {
     "id": 17206910,
@@ -3156,7 +3752,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/17206910",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.4898928,
+      "py": 36.632462
+    }
   },
   {
     "id": 17227650,
@@ -3177,7 +3777,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/17227650",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 127.4884176,
+      "py": 36.6467431
+    }
   },
   {
     "id": 17343635,
@@ -3198,7 +3802,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/17343635",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.4653134,
+      "py": 36.6337995
+    }
   },
   {
     "id": 17369592,
@@ -3219,7 +3827,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/17369592",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.4708124,
+      "py": 36.6535349
+    }
   },
   {
     "id": 17389325,
@@ -3240,7 +3852,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/17389325",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.1344741,
+      "py": 34.5275787
+    }
   },
   {
     "id": 17425838,
@@ -3261,7 +3877,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/17425838",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.1127511,
+      "py": 35.3683611
+    }
   },
   {
     "id": 17462655,
@@ -3282,7 +3902,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/17462655",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.293921,
+      "py": 36.754587
+    }
   },
   {
     "id": 17526519,
@@ -3303,7 +3927,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/17526519",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.8229564,
+      "py": 36.890248
+    }
   },
   {
     "id": 17530089,
@@ -3324,7 +3952,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/17530089",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 127.909067,
+      "py": 36.9847378
+    }
   },
   {
     "id": 17541906,
@@ -3345,7 +3977,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/17541906",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9999526,
+      "py": 36.7858787
+    }
   },
   {
     "id": 17592939,
@@ -3366,7 +4002,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/17592939",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.5462433,
+      "py": 36.7106564
+    }
   },
   {
     "id": 17693250,
@@ -3387,7 +4027,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/17693250",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.20159,
+      "py": 36.912643
+    }
   },
   {
     "id": 17729771,
@@ -3408,7 +4052,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/17729771",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.5677764,
+      "py": 36.2996929
+    }
   },
   {
     "id": 17880671,
@@ -3429,7 +4077,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/17880671",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.8857925,
+      "py": 37.4359563
+    }
   },
   {
     "id": 17884813,
@@ -3450,7 +4102,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/17884813",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.8529327,
+      "py": 37.4796547
+    }
   },
   {
     "id": 17920972,
@@ -3471,7 +4127,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/17920972",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0851403,
+      "py": 36.9956979
+    }
   },
   {
     "id": 17956485,
@@ -3492,7 +4152,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/17956485",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.079599,
+      "py": 37.5630631
+    }
   },
   {
     "id": 17990788,
@@ -3513,7 +4177,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/17990788",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.073634,
+      "py": 37.530869
+    }
   },
   {
     "id": 18007297,
@@ -3534,7 +4202,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18007297",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9889664,
+      "py": 37.5664523
+    }
   },
   {
     "id": 18018551,
@@ -3555,7 +4227,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18018551",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0001895,
+      "py": 37.2908873
+    }
   },
   {
     "id": 18020407,
@@ -3576,7 +4252,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18020407",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.978075,
+      "py": 37.562733
+    }
   },
   {
     "id": 18030542,
@@ -3597,7 +4277,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18030542",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0598493,
+      "py": 37.6549822
+    }
   },
   {
     "id": 18052006,
@@ -3618,7 +4302,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18052006",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.058195,
+      "py": 37.578181
+    }
   },
   {
     "id": 18117775,
@@ -3639,7 +4327,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18117775",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0163468,
+      "py": 37.2785613
+    }
   },
   {
     "id": 18119095,
@@ -3660,7 +4352,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18119095",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0609381,
+      "py": 37.5965708
+    }
   },
   {
     "id": 18161115,
@@ -3681,7 +4377,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18161115",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9748525,
+      "py": 37.5343856
+    }
   },
   {
     "id": 18169872,
@@ -3702,7 +4402,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18169872",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9288439,
+      "py": 37.4886551
+    }
   },
   {
     "id": 18197704,
@@ -3723,7 +4427,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18197704",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.1543997,
+      "py": 37.6532103
+    }
   },
   {
     "id": 18210229,
@@ -3744,7 +4452,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18210229",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9387413,
+      "py": 37.4696444
+    }
   },
   {
     "id": 18267595,
@@ -3765,7 +4477,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18267595",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0115738,
+      "py": 37.4584122
+    }
   },
   {
     "id": 18368547,
@@ -3786,7 +4502,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18368547",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9832545,
+      "py": 37.4826126
+    }
   },
   {
     "id": 18371926,
@@ -3808,7 +4528,11 @@
     "categories": [
       "최자로드",
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.998918,
+      "py": 37.499564
+    }
   },
   {
     "id": 18381744,
@@ -3829,7 +4553,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18381744",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9901639,
+      "py": 37.492622
+    }
   },
   {
     "id": 18394397,
@@ -3850,7 +4578,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18394397",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.0428686,
+      "py": 37.5048884
+    }
   },
   {
     "id": 18443093,
@@ -3871,7 +4603,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18443093",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0447696,
+      "py": 37.5226605
+    }
   },
   {
     "id": 18457516,
@@ -3892,7 +4628,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18457516",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.4399223,
+      "py": 37.2811944
+    }
   },
   {
     "id": 18484296,
@@ -3913,7 +4653,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18484296",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0371488,
+      "py": 37.5238589
+    }
   },
   {
     "id": 18505540,
@@ -3934,7 +4678,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18505540",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0295105,
+      "py": 37.514514
+    }
   },
   {
     "id": 18524933,
@@ -3955,7 +4703,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18524933",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.2713644,
+      "py": 37.0063486
+    }
   },
   {
     "id": 18578676,
@@ -3976,7 +4728,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18578676",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9309265,
+      "py": 37.5260282
+    }
   },
   {
     "id": 18583640,
@@ -3997,7 +4753,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18583640",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9340075,
+      "py": 37.5183936
+    }
   },
   {
     "id": 18601507,
@@ -4018,7 +4778,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18601507",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9223123,
+      "py": 37.3990568
+    }
   },
   {
     "id": 18612050,
@@ -4039,7 +4803,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18612050",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.019013,
+      "py": 37.632781
+    }
   },
   {
     "id": 18620988,
@@ -4060,7 +4828,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18620988",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0344861,
+      "py": 37.652403
+    }
   },
   {
     "id": 18646113,
@@ -4081,7 +4853,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18646113",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0616763,
+      "py": 37.6587796
+    }
   },
   {
     "id": 18697132,
@@ -4102,7 +4878,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18697132",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9587699,
+      "py": 37.4781039
+    }
   },
   {
     "id": 18709584,
@@ -4123,7 +4903,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18709584",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.958394,
+      "py": 37.4781279
+    }
   },
   {
     "id": 18714929,
@@ -4144,7 +4928,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18714929",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9602381,
+      "py": 37.5075893
+    }
   },
   {
     "id": 18721300,
@@ -4165,7 +4953,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18721300",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.961892,
+      "py": 37.541291
+    }
   },
   {
     "id": 18722136,
@@ -4186,7 +4978,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18722136",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.970183,
+      "py": 37.5366942
+    }
   },
   {
     "id": 18724232,
@@ -4207,7 +5003,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18724232",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.93,
+      "py": 37.4831679
+    }
   },
   {
     "id": 18727412,
@@ -4228,7 +5028,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18727412",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9091304,
+      "py": 37.4835619
+    }
   },
   {
     "id": 18734516,
@@ -4249,7 +5053,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18734516",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9749124,
+      "py": 37.4756345
+    }
   },
   {
     "id": 18760630,
@@ -4270,7 +5078,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18760630",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 126.978425,
+      "py": 37.4774012
+    }
   },
   {
     "id": 18770890,
@@ -4291,7 +5103,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18770890",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9387125,
+      "py": 37.5441166
+    }
   },
   {
     "id": 18775943,
@@ -4313,7 +5129,11 @@
     "categories": [
       "쯔양",
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0329257,
+      "py": 37.5603621
+    }
   },
   {
     "id": 18872410,
@@ -4334,7 +5154,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18872410",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.1234868,
+      "py": 37.4890997
+    }
   },
   {
     "id": 18876240,
@@ -4355,7 +5179,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18876240",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.5142779,
+      "py": 37.8271531
+    }
   },
   {
     "id": 18893222,
@@ -4376,7 +5204,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/18893222",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0044045,
+      "py": 37.5908585
+    }
   },
   {
     "id": 19345704,
@@ -4397,7 +5229,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/19345704",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.4774119,
+      "py": 36.6704525
+    }
   },
   {
     "id": 19390632,
@@ -4418,7 +5254,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/19390632",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9818473,
+      "py": 37.4896259
+    }
   },
   {
     "id": 19412363,
@@ -4439,7 +5279,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/19412363",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.0077551,
+      "py": 37.5675754
+    }
   },
   {
     "id": 19535343,
@@ -4460,7 +5304,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/19535343",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 126.922372,
+      "py": 37.5525804
+    }
   },
   {
     "id": 19568733,
@@ -4481,7 +5329,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/19568733",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.6133572,
+      "py": 34.706939
+    }
   },
   {
     "id": 19774046,
@@ -4504,7 +5356,11 @@
       "쯔양",
       "최자로드",
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9738012,
+      "py": 37.5427593
+    }
   },
   {
     "id": 19867372,
@@ -4525,7 +5381,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/19867372",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0088444,
+      "py": 37.5341734
+    }
   },
   {
     "id": 19872984,
@@ -4546,7 +5406,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/19872984",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0403375,
+      "py": 37.5584167
+    }
   },
   {
     "id": 19873713,
@@ -4567,7 +5431,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/19873713",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.284252,
+      "py": 33.3839048
+    }
   },
   {
     "id": 19877347,
@@ -4588,7 +5456,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/19877347",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.026993,
+      "py": 37.572524
+    }
   },
   {
     "id": 19877647,
@@ -4609,7 +5481,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/19877647",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.7222856,
+      "py": 35.1229514
+    }
   },
   {
     "id": 19877730,
@@ -4631,7 +5507,11 @@
     "categories": [
       "쯔양",
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.987604,
+      "py": 37.5022795
+    }
   },
   {
     "id": 19878342,
@@ -4652,7 +5532,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/19878342",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.6770256,
+      "py": 33.4376367
+    }
   },
   {
     "id": 19878374,
@@ -4673,7 +5557,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/19878374",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0898049,
+      "py": 37.5071733
+    }
   },
   {
     "id": 19882103,
@@ -4694,7 +5582,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/19882103",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.1374732,
+      "py": 37.611804
+    }
   },
   {
     "id": 19882193,
@@ -4715,7 +5607,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/19882193",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0309159,
+      "py": 37.5279515
+    }
   },
   {
     "id": 19882353,
@@ -4736,7 +5632,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/19882353",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0932418,
+      "py": 37.5381868
+    }
   },
   {
     "id": 19882368,
@@ -4757,7 +5657,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/19882368",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0241084,
+      "py": 37.5090456
+    }
   },
   {
     "id": 19885661,
@@ -4778,7 +5682,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/19885661",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.6339183,
+      "py": 37.293806
+    }
   },
   {
     "id": 19886238,
@@ -4799,7 +5707,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/19886238",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9473157,
+      "py": 37.5434567
+    }
   },
   {
     "id": 20066548,
@@ -4820,7 +5732,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/20066548",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.487086,
+      "py": 35.3142886
+    }
   },
   {
     "id": 20108415,
@@ -4841,7 +5757,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/20108415",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.034413,
+      "py": 37.5231487
+    }
   },
   {
     "id": 20186794,
@@ -4862,7 +5782,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/20186794",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.4651307,
+      "py": 35.2098744
+    }
   },
   {
     "id": 20413792,
@@ -4883,7 +5807,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/20413792",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0413685,
+      "py": 37.5061501
+    }
   },
   {
     "id": 20502394,
@@ -4904,7 +5832,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/20502394",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.0642696,
+      "py": 37.5398077
+    }
   },
   {
     "id": 20601307,
@@ -4925,7 +5857,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/20601307",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 130.8377017,
+      "py": 37.4673967
+    }
   },
   {
     "id": 20601345,
@@ -4946,7 +5882,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/20601345",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0289893,
+      "py": 37.6126969
+    }
   },
   {
     "id": 20601538,
@@ -4967,7 +5907,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/20601538",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 128.2636452,
+      "py": 34.6354252
+    }
   },
   {
     "id": 20623952,
@@ -4988,7 +5932,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/20623952",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.024548,
+      "py": 37.508103
+    }
   },
   {
     "id": 20624387,
@@ -5009,7 +5957,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/20624387",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.108681,
+      "py": 37.5018014
+    }
   },
   {
     "id": 20629904,
@@ -5030,7 +5982,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/20629904",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 126.8915868,
+      "py": 37.5157242
+    }
   },
   {
     "id": 20632456,
@@ -5051,7 +6007,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/20632456",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.1239199,
+      "py": 37.545882
+    }
   },
   {
     "id": 20643242,
@@ -5072,7 +6032,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/20643242",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.919587,
+      "py": 37.498558
+    }
   },
   {
     "id": 20691128,
@@ -5093,7 +6057,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/20691128",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0614705,
+      "py": 37.5893787
+    }
   },
   {
     "id": 20709878,
@@ -5114,7 +6082,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/20709878",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0187872,
+      "py": 37.5621844
+    }
   },
   {
     "id": 20713693,
@@ -5135,7 +6107,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/20713693",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9848785,
+      "py": 37.5771174
+    }
   },
   {
     "id": 20735482,
@@ -5156,7 +6132,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/20735482",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.006535,
+      "py": 37.570199
+    }
   },
   {
     "id": 20823357,
@@ -5177,7 +6157,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/20823357",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0582109,
+      "py": 37.5761839
+    }
   },
   {
     "id": 20859157,
@@ -5198,7 +6182,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/20859157",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.0811265,
+      "py": 37.5668367
+    }
   },
   {
     "id": 20867185,
@@ -5219,7 +6207,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/20867185",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.972998,
+      "py": 37.5422484
+    }
   },
   {
     "id": 20881593,
@@ -5240,7 +6232,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/20881593",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.051316,
+      "py": 37.585098
+    }
   },
   {
     "id": 20956056,
@@ -5261,7 +6257,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/20956056",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9638785,
+      "py": 37.5610232
+    }
   },
   {
     "id": 20957727,
@@ -5282,7 +6282,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/20957727",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.4692247,
+      "py": 35.2101237
+    }
   },
   {
     "id": 21009015,
@@ -5303,7 +6307,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/21009015",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 129.2313444,
+      "py": 35.2237426
+    }
   },
   {
     "id": 21025254,
@@ -5324,7 +6332,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/21025254",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0746369,
+      "py": 37.6612805
+    }
   },
   {
     "id": 21037627,
@@ -5345,7 +6357,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/21037627",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.4884498,
+      "py": 36.6335729
+    }
   },
   {
     "id": 21037749,
@@ -5366,7 +6382,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/21037749",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9818766,
+      "py": 37.587483
+    }
   },
   {
     "id": 21037816,
@@ -5387,7 +6407,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/21037816",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.1213661,
+      "py": 37.4948188
+    }
   },
   {
     "id": 21052324,
@@ -5408,7 +6432,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/21052324",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.1018511,
+      "py": 37.5178716
+    }
   },
   {
     "id": 21147353,
@@ -5429,7 +6457,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/21147353",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0048849,
+      "py": 37.436101
+    }
   },
   {
     "id": 21310734,
@@ -5450,7 +6482,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/21310734",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.1112806,
+      "py": 37.5083747
+    }
   },
   {
     "id": 21406239,
@@ -5471,7 +6507,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/21406239",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9132602,
+      "py": 37.487372
+    }
   },
   {
     "id": 21656483,
@@ -5492,7 +6532,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/21656483",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9732547,
+      "py": 37.5341783
+    }
   },
   {
     "id": 21668652,
@@ -5513,7 +6557,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/21668652",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0320212,
+      "py": 37.6127933
+    }
   },
   {
     "id": 21818239,
@@ -5534,7 +6582,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/21818239",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.980108,
+      "py": 37.484119
+    }
   },
   {
     "id": 21856573,
@@ -5555,7 +6607,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/21856573",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9237657,
+      "py": 37.5636887
+    }
   },
   {
     "id": 30902068,
@@ -5576,7 +6632,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/30902068",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 128.494878,
+      "py": 36.1252129
+    }
   },
   {
     "id": 30927007,
@@ -5597,7 +6657,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/30927007",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0190568,
+      "py": 37.5660163
+    }
   },
   {
     "id": 31004019,
@@ -5618,7 +6682,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/31004019",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.0317861,
+      "py": 37.4919844
+    }
   },
   {
     "id": 31063697,
@@ -5639,7 +6707,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/31063697",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.915726,
+      "py": 37.56009
+    }
   },
   {
     "id": 31076674,
@@ -5660,7 +6732,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/31076674",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0553257,
+      "py": 37.5910962
+    }
   },
   {
     "id": 31204698,
@@ -5681,7 +6757,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/31204698",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.7206056,
+      "py": 33.5568699
+    }
   },
   {
     "id": 31229705,
@@ -5702,7 +6782,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/31229705",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0099012,
+      "py": 37.5528936
+    }
   },
   {
     "id": 31390981,
@@ -5723,7 +6807,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/31390981",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.01134,
+      "py": 37.553148
+    }
   },
   {
     "id": 31398030,
@@ -5744,7 +6832,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/31398030",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.064105,
+      "py": 37.539681
+    }
   },
   {
     "id": 31564789,
@@ -5765,7 +6857,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/31564789",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0763681,
+      "py": 37.601417
+    }
   },
   {
     "id": 31583220,
@@ -5786,7 +6882,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/31583220",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9111365,
+      "py": 37.5542501
+    }
   },
   {
     "id": 31729345,
@@ -5807,7 +6907,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/31729345",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 126.9653135,
+      "py": 37.5244911
+    }
   },
   {
     "id": 31744094,
@@ -5828,7 +6932,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/31744094",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0711671,
+      "py": 37.6259169
+    }
   },
   {
     "id": 31747148,
@@ -5849,7 +6957,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/31747148",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.0902165,
+      "py": 37.552509
+    }
   },
   {
     "id": 31777479,
@@ -5870,7 +6982,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/31777479",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9207778,
+      "py": 37.5476137
+    }
   },
   {
     "id": 32023886,
@@ -5891,7 +7007,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/32023886",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 129.158281,
+      "py": 35.1664186
+    }
   },
   {
     "id": 32164641,
@@ -5912,7 +7032,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/32164641",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.6411637,
+      "py": 33.5393555
+    }
   },
   {
     "id": 32203877,
@@ -5933,7 +7057,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/32203877",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.9690214,
+      "py": 37.0287456
+    }
   },
   {
     "id": 32220301,
@@ -5954,7 +7082,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/32220301",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.7935303,
+      "py": 36.8122298
+    }
   },
   {
     "id": 32307989,
@@ -5975,7 +7107,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/32307989",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0919119,
+      "py": 37.5881877
+    }
   },
   {
     "id": 32322984,
@@ -5996,7 +7132,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/32322984",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.056291,
+      "py": 37.572579
+    }
   },
   {
     "id": 32333211,
@@ -6017,7 +7157,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/32333211",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0578588,
+      "py": 37.5701782
+    }
   },
   {
     "id": 32398093,
@@ -6038,7 +7182,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/32398093",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0150754,
+      "py": 37.5665663
+    }
   },
   {
     "id": 32481052,
@@ -6059,7 +7207,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/32481052",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 128.6232284,
+      "py": 35.8986746
+    }
   },
   {
     "id": 32513408,
@@ -6080,7 +7232,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/32513408",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.3878614,
+      "py": 36.3496395
+    }
   },
   {
     "id": 32545491,
@@ -6101,7 +7257,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/32545491",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.7497027,
+      "py": 37.9249704
+    }
   },
   {
     "id": 32762688,
@@ -6122,7 +7282,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/32762688",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9230926,
+      "py": 37.3954029
+    }
   },
   {
     "id": 33152607,
@@ -6143,7 +7307,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/33152607",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.7371876,
+      "py": 37.3987243
+    }
   },
   {
     "id": 33211991,
@@ -6164,7 +7332,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/33211991",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 126.7313922,
+      "py": 37.4545609
+    }
   },
   {
     "id": 33877438,
@@ -6185,7 +7357,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/33877438",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0644223,
+      "py": 37.513631
+    }
   },
   {
     "id": 33879831,
@@ -6207,7 +7383,11 @@
     "categories": [
       "쯔양",
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.8972469,
+      "py": 37.4915781
+    }
   },
   {
     "id": 34138448,
@@ -6228,7 +7408,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/34138448",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9602673,
+      "py": 37.5352498
+    }
   },
   {
     "id": 34461836,
@@ -6249,7 +7433,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/34461836",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 127.0280913,
+      "py": 37.5004268
+    }
   },
   {
     "id": 34484553,
@@ -6270,7 +7458,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/34484553",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 127.0584999,
+      "py": 37.2396762
+    }
   },
   {
     "id": 34678241,
@@ -6291,7 +7483,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/34678241",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9171613,
+      "py": 35.1544297
+    }
   },
   {
     "id": 34786487,
@@ -6312,7 +7508,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/34786487",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0246813,
+      "py": 37.5195117
+    }
   },
   {
     "id": 34883067,
@@ -6333,7 +7533,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/34883067",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9217518,
+      "py": 37.5306331
+    }
   },
   {
     "id": 35092309,
@@ -6354,7 +7558,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/35092309",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0531071,
+      "py": 37.5935637
+    }
   },
   {
     "id": 35142937,
@@ -6375,7 +7583,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/35142937",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9998023,
+      "py": 37.5372741
+    }
   },
   {
     "id": 35162514,
@@ -6396,7 +7608,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/35162514",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.8157736,
+      "py": 37.5774117
+    }
   },
   {
     "id": 35209321,
@@ -6417,7 +7633,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/35209321",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9897129,
+      "py": 37.5338217
+    }
   },
   {
     "id": 35288309,
@@ -6438,7 +7658,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/35288309",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.036523,
+      "py": 37.641671
+    }
   },
   {
     "id": 35678401,
@@ -6459,7 +7683,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/35678401",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9955532,
+      "py": 37.5409757
+    }
   },
   {
     "id": 35806834,
@@ -6480,7 +7708,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/35806834",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9756661,
+      "py": 37.5644216
+    }
   },
   {
     "id": 35816452,
@@ -6501,7 +7733,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/35816452",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.8933096,
+      "py": 37.5776686
+    }
   },
   {
     "id": 35877617,
@@ -6522,7 +7758,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/35877617",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.019656,
+      "py": 37.524755
+    }
   },
   {
     "id": 35913965,
@@ -6543,7 +7783,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/35913965",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.0534131,
+      "py": 37.5381138
+    }
   },
   {
     "id": 36004465,
@@ -6564,7 +7808,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/36004465",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.6243601,
+      "py": 37.4709587
+    }
   },
   {
     "id": 36198444,
@@ -6585,7 +7833,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/36198444",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 129.1814748,
+      "py": 35.3201101
+    }
   },
   {
     "id": 36263182,
@@ -6606,7 +7858,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/36263182",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0247456,
+      "py": 37.2560629
+    }
   },
   {
     "id": 36432841,
@@ -6627,7 +7883,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/36432841",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9730207,
+      "py": 37.5453797
+    }
   },
   {
     "id": 36449091,
@@ -6648,7 +7908,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/36449091",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0414091,
+      "py": 37.5244206
+    }
   },
   {
     "id": 36466212,
@@ -6669,7 +7933,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/36466212",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0361635,
+      "py": 37.561013
+    }
   },
   {
     "id": 36523948,
@@ -6690,7 +7958,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/36523948",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 127.0349752,
+      "py": 37.7482901
+    }
   },
   {
     "id": 36528809,
@@ -6711,7 +7983,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/36528809",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.0528549,
+      "py": 37.5119508
+    }
   },
   {
     "id": 36610216,
@@ -6732,7 +8008,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/36610216",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.895442,
+      "py": 37.4836912
+    }
   },
   {
     "id": 36652436,
@@ -6753,7 +8033,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/36652436",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9259331,
+      "py": 37.5000935
+    }
   },
   {
     "id": 36667682,
@@ -6774,7 +8058,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/36667682",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9274982,
+      "py": 37.5618597
+    }
   },
   {
     "id": 36781910,
@@ -6795,7 +8083,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/36781910",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.7405957,
+      "py": 35.4301219
+    }
   },
   {
     "id": 36844837,
@@ -6816,7 +8108,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/36844837",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9692251,
+      "py": 37.5311551
+    }
   },
   {
     "id": 36882698,
@@ -6837,7 +8133,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/36882698",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9817622,
+      "py": 37.5464295
+    }
   },
   {
     "id": 36939793,
@@ -6858,7 +8158,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/36939793",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0221757,
+      "py": 37.5652232
+    }
   },
   {
     "id": 36987599,
@@ -6879,7 +8183,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/36987599",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9729654,
+      "py": 37.2850697
+    }
   },
   {
     "id": 36995509,
@@ -6900,7 +8208,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/36995509",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0064073,
+      "py": 37.5038927
+    }
   },
   {
     "id": 37020568,
@@ -6921,7 +8233,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/37020568",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.0556086,
+      "py": 37.5126401
+    }
   },
   {
     "id": 37027424,
@@ -6942,7 +8258,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/37027424",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.1322864,
+      "py": 37.5479755
+    }
   },
   {
     "id": 37069188,
@@ -6963,7 +8283,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/37069188",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0356528,
+      "py": 37.5270089
+    }
   },
   {
     "id": 37213189,
@@ -6984,7 +8308,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/37213189",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0714124,
+      "py": 37.5524003
+    }
   },
   {
     "id": 37373204,
@@ -7005,7 +8333,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/37373204",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.1077484,
+      "py": 37.5109657
+    }
   },
   {
     "id": 37397540,
@@ -7026,7 +8358,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/37397540",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9997628,
+      "py": 37.4960772
+    }
   },
   {
     "id": 37435251,
@@ -7047,7 +8383,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/37435251",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0479062,
+      "py": 37.7398307
+    }
   },
   {
     "id": 37447037,
@@ -7068,7 +8408,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/37447037",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9809889,
+      "py": 37.4791074
+    }
   },
   {
     "id": 37541283,
@@ -7089,7 +8433,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/37541283",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.025152,
+      "py": 37.523007
+    }
   },
   {
     "id": 37581971,
@@ -7111,7 +8459,11 @@
     "categories": [
       "쯔양",
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9686858,
+      "py": 37.5590788
+    }
   },
   {
     "id": 37604797,
@@ -7132,7 +8484,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/37604797",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9494908,
+      "py": 37.5015199
+    }
   },
   {
     "id": 37653479,
@@ -7153,7 +8509,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/37653479",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9389693,
+      "py": 37.5119293
+    }
   },
   {
     "id": 37659057,
@@ -7174,7 +8534,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/37659057",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.1149871,
+      "py": 37.3726625
+    }
   },
   {
     "id": 37703543,
@@ -7195,7 +8559,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/37703543",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0655417,
+      "py": 37.5082495
+    }
   },
   {
     "id": 37727023,
@@ -7216,7 +8584,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/37727023",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9840861,
+      "py": 37.569329
+    }
   },
   {
     "id": 37769908,
@@ -7237,7 +8609,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/37769908",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.0266561,
+      "py": 37.5255099
+    }
   },
   {
     "id": 37792322,
@@ -7258,7 +8634,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/37792322",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9272053,
+      "py": 37.4842529
+    }
   },
   {
     "id": 37837958,
@@ -7279,7 +8659,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/37837958",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.4255665,
+      "py": 37.2902865
+    }
   },
   {
     "id": 37853724,
@@ -7300,7 +8684,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/37853724",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9810448,
+      "py": 37.4787389
+    }
   },
   {
     "id": 37869877,
@@ -7321,7 +8709,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/37869877",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.0116976,
+      "py": 37.5570932
+    }
   },
   {
     "id": 37882553,
@@ -7342,7 +8734,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/37882553",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.010978,
+      "py": 37.5130867
+    }
   },
   {
     "id": 37899440,
@@ -7363,7 +8759,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/37899440",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9406797,
+      "py": 37.5404154
+    }
   },
   {
     "id": 37910590,
@@ -7384,7 +8784,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/37910590",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0562429,
+      "py": 37.541736
+    }
   },
   {
     "id": 37912785,
@@ -7406,7 +8810,11 @@
     "categories": [
       "쯔양",
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0360501,
+      "py": 37.5161247
+    }
   },
   {
     "id": 37943774,
@@ -7427,7 +8835,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/37943774",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0462396,
+      "py": 37.5737436
+    }
   },
   {
     "id": 38002817,
@@ -7448,7 +8860,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/38002817",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9736575,
+      "py": 37.5570912
+    }
   },
   {
     "id": 38008354,
@@ -7469,7 +8885,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/38008354",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0057016,
+      "py": 37.5707402
+    }
   },
   {
     "id": 38275119,
@@ -7490,7 +8910,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/38275119",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9156393,
+      "py": 37.5696453
+    }
   },
   {
     "id": 38275375,
@@ -7511,7 +8935,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/38275375",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9840746,
+      "py": 37.4940175
+    }
   },
   {
     "id": 38276255,
@@ -7532,7 +8960,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/38276255",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0055004,
+      "py": 37.5615801
+    }
   },
   {
     "id": 38322773,
@@ -7553,7 +8985,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/38322773",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9950292,
+      "py": 37.562413
+    }
   },
   {
     "id": 38328122,
@@ -7574,7 +9010,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/38328122",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0249425,
+      "py": 37.5193887
+    }
   },
   {
     "id": 38462527,
@@ -7595,7 +9035,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/38462527",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.531113,
+      "py": 33.4991841
+    }
   },
   {
     "id": 38506334,
@@ -7616,7 +9060,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/38506334",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9605784,
+      "py": 37.4945837
+    }
   },
   {
     "id": 38507925,
@@ -7637,7 +9085,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/38507925",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.1261539,
+      "py": 37.5371116
+    }
   },
   {
     "id": 38521542,
@@ -7658,7 +9110,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/38521542",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.1343304,
+      "py": 37.4933606
+    }
   },
   {
     "id": 38526194,
@@ -7679,7 +9135,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/38526194",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9473972,
+      "py": 37.5425519
+    }
   },
   {
     "id": 38561949,
@@ -7700,7 +9160,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/38561949",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0581051,
+      "py": 37.5446909
+    }
   },
   {
     "id": 38563771,
@@ -7721,7 +9185,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/38563771",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.1300728,
+      "py": 37.4838525
+    }
   },
   {
     "id": 38712280,
@@ -7742,7 +9210,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/38712280",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 129.0264682,
+      "py": 35.0853858
+    }
   },
   {
     "id": 64636658,
@@ -7763,7 +9235,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/64636658",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9805655,
+      "py": 37.4840756
+    }
   },
   {
     "id": 81033019,
@@ -7784,7 +9260,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/81033019",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0529327,
+      "py": 37.585425
+    }
   },
   {
     "id": 97642371,
@@ -7805,7 +9285,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/97642371",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9261488,
+      "py": 37.5590159
+    }
   },
   {
     "id": 145365549,
@@ -7826,7 +9310,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/145365549",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9784127,
+      "py": 37.5466943
+    }
   },
   {
     "id": 152310007,
@@ -7847,7 +9335,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/152310007",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0361642,
+      "py": 37.5648702
+    }
   },
   {
     "id": 181633326,
@@ -7868,7 +9360,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/181633326",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9826004,
+      "py": 37.5623405
+    }
   },
   {
     "id": 203304459,
@@ -7889,7 +9385,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/203304459",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 127.044096,
+      "py": 37.5466978
+    }
   },
   {
     "id": 308433581,
@@ -7910,7 +9410,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/308433581",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9969095,
+      "py": 37.5304452
+    }
   },
   {
     "id": 393955541,
@@ -7931,7 +9435,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/393955541",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.924237,
+      "py": 37.5541726
+    }
   },
   {
     "id": 421921867,
@@ -7952,7 +9460,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/421921867",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9802417,
+      "py": 37.4841134
+    }
   },
   {
     "id": 460950912,
@@ -7973,7 +9485,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/460950912",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0322383,
+      "py": 37.4853569
+    }
   },
   {
     "id": 506996136,
@@ -7994,7 +9510,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/506996136",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9900643,
+      "py": 37.573315
+    }
   },
   {
     "id": 523890342,
@@ -8015,7 +9535,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/523890342",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0416166,
+      "py": 37.5465756
+    }
   },
   {
     "id": 535057415,
@@ -8036,7 +9560,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/535057415",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0817185,
+      "py": 37.5096743
+    }
   },
   {
     "id": 535310336,
@@ -8057,7 +9585,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/535310336",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.696788,
+      "py": 35.4332679
+    }
   },
   {
     "id": 601999582,
@@ -8078,7 +9610,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/601999582",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.3502061,
+      "py": 36.357456
+    }
   },
   {
     "id": 616538188,
@@ -8099,7 +9635,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/616538188",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 129.042215,
+      "py": 35.1151679
+    }
   },
   {
     "id": 715782489,
@@ -8120,7 +9660,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/715782489",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.988491,
+      "py": 37.577669
+    }
   },
   {
     "id": 740435404,
@@ -8141,7 +9685,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/740435404",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9502009,
+      "py": 37.4813108
+    }
   },
   {
     "id": 887123043,
@@ -8162,7 +9710,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/887123043",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.0384976,
+      "py": 37.5240289
+    }
   },
   {
     "id": 956518979,
@@ -8183,7 +9735,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/956518979",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 129.0019648,
+      "py": 35.318139
+    }
   },
   {
     "id": 961088789,
@@ -8204,7 +9760,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/961088789",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0036993,
+      "py": 37.3752931
+    }
   },
   {
     "id": 978255818,
@@ -8225,7 +9785,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/978255818",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9927928,
+      "py": 37.534789
+    }
   },
   {
     "id": 993043508,
@@ -8246,7 +9810,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/993043508",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0292442,
+      "py": 37.4995538
+    }
   },
   {
     "id": 999938003,
@@ -8267,7 +9835,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/999938003",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 130.9099736,
+      "py": 37.4924789
+    }
   },
   {
     "id": 1000833099,
@@ -8288,7 +9860,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1000833099",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9117742,
+      "py": 37.5903914
+    }
   },
   {
     "id": 1006208343,
@@ -8309,7 +9885,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1006208343",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9735185,
+      "py": 37.5425731
+    }
   },
   {
     "id": 1008629511,
@@ -8330,7 +9910,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1008629511",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9303044,
+      "py": 37.5663701
+    }
   },
   {
     "id": 1011242808,
@@ -8351,7 +9935,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1011242808",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0129953,
+      "py": 37.5651674
+    }
   },
   {
     "id": 1012556465,
@@ -8372,7 +9960,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1012556465",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9268517,
+      "py": 37.561549
+    }
   },
   {
     "id": 1012674165,
@@ -8393,7 +9985,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1012674165",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9401728,
+      "py": 37.4846496
+    }
   },
   {
     "id": 1013996143,
@@ -8414,7 +10010,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1013996143",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9838713,
+      "py": 37.5472185
+    }
   },
   {
     "id": 1022336098,
@@ -8435,7 +10035,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1022336098",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9991312,
+      "py": 37.5648309
+    }
   },
   {
     "id": 1023514525,
@@ -8456,7 +10060,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1023514525",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.021857,
+      "py": 37.2547013
+    }
   },
   {
     "id": 1023755433,
@@ -8477,7 +10085,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1023755433",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9533829,
+      "py": 37.5566773
+    }
   },
   {
     "id": 1040543629,
@@ -8498,7 +10110,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1040543629",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9639027,
+      "py": 37.595222
+    }
   },
   {
     "id": 1040939211,
@@ -8519,7 +10135,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1040939211",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9059919,
+      "py": 37.5564437
+    }
   },
   {
     "id": 1042607763,
@@ -8540,7 +10160,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1042607763",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9142075,
+      "py": 37.5450277
+    }
   },
   {
     "id": 1044096368,
@@ -8561,7 +10185,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1044096368",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0302963,
+      "py": 37.5273824
+    }
   },
   {
     "id": 1049314421,
@@ -8582,7 +10210,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1049314421",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9163779,
+      "py": 37.5540011
+    }
   },
   {
     "id": 1049358298,
@@ -8603,7 +10235,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1049358298",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0436089,
+      "py": 37.5826968
+    }
   },
   {
     "id": 1049615405,
@@ -8624,7 +10260,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1049615405",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0551003,
+      "py": 37.5431378
+    }
   },
   {
     "id": 1058863783,
@@ -8645,7 +10285,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1058863783",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9915576,
+      "py": 37.5706843
+    }
   },
   {
     "id": 1066853151,
@@ -8666,7 +10310,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1066853151",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9248863,
+      "py": 37.5623435
+    }
   },
   {
     "id": 1068351637,
@@ -8687,7 +10335,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1068351637",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 126.9141373,
+      "py": 37.5532216
+    }
   },
   {
     "id": 1071730987,
@@ -8708,7 +10360,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1071730987",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.993561,
+      "py": 37.5584554
+    }
   },
   {
     "id": 1071830988,
@@ -8729,7 +10385,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1071830988",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.056862,
+      "py": 37.54166
+    }
   },
   {
     "id": 1074059689,
@@ -8750,7 +10410,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1074059689",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 129.3172782,
+      "py": 35.9855657
+    }
   },
   {
     "id": 1074156354,
@@ -8771,7 +10435,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1074156354",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.1260579,
+      "py": 37.4288206
+    }
   },
   {
     "id": 1074329215,
@@ -8792,7 +10460,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1074329215",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.038685,
+      "py": 37.5796141
+    }
   },
   {
     "id": 1075119302,
@@ -8813,7 +10485,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1075119302",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0528739,
+      "py": 37.5195129
+    }
   },
   {
     "id": 1075501022,
@@ -8834,7 +10510,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1075501022",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0042867,
+      "py": 37.5896936
+    }
   },
   {
     "id": 1076041053,
@@ -8855,7 +10535,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1076041053",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0558759,
+      "py": 37.7006148
+    }
   },
   {
     "id": 1078853573,
@@ -8876,7 +10560,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1078853573",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9964091,
+      "py": 37.5675331
+    }
   },
   {
     "id": 1081707366,
@@ -8897,7 +10585,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1081707366",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0093614,
+      "py": 37.2715467
+    }
   },
   {
     "id": 1082960799,
@@ -8918,7 +10610,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1082960799",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.019052,
+      "py": 37.5166301
+    }
   },
   {
     "id": 1086789398,
@@ -8939,7 +10635,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1086789398",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.0258904,
+      "py": 37.5508377
+    }
   },
   {
     "id": 1088501208,
@@ -8960,7 +10660,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1088501208",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9116843,
+      "py": 37.5555156
+    }
   },
   {
     "id": 1090397990,
@@ -8981,7 +10685,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1090397990",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.970026,
+      "py": 37.5457829
+    }
   },
   {
     "id": 1091178790,
@@ -9002,7 +10710,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1091178790",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0567135,
+      "py": 37.5051133
+    }
   },
   {
     "id": 1098036228,
@@ -9023,7 +10735,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1098036228",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0595009,
+      "py": 37.5900512
+    }
   },
   {
     "id": 1102024337,
@@ -9044,7 +10760,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1102024337",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9876165,
+      "py": 37.5373271
+    }
   },
   {
     "id": 1103507675,
@@ -9065,7 +10785,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1103507675",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0468637,
+      "py": 37.5430785
+    }
   },
   {
     "id": 1111009547,
@@ -9086,7 +10810,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1111009547",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0575856,
+      "py": 37.568394
+    }
   },
   {
     "id": 1116666895,
@@ -9107,7 +10835,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1116666895",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.923634,
+      "py": 37.6199335
+    }
   },
   {
     "id": 1123371020,
@@ -9128,7 +10860,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1123371020",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0068049,
+      "py": 37.5638522
+    }
   },
   {
     "id": 1125171430,
@@ -9149,7 +10885,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1125171430",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9725242,
+      "py": 37.5316404
+    }
   },
   {
     "id": 1126260387,
@@ -9170,7 +10910,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1126260387",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 128.8033509,
+      "py": 35.1750225
+    }
   },
   {
     "id": 1128508039,
@@ -9191,7 +10935,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1128508039",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 129.1594914,
+      "py": 35.1652972
+    }
   },
   {
     "id": 1128721873,
@@ -9212,7 +10960,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1128721873",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.8368109,
+      "py": 37.5601954
+    }
   },
   {
     "id": 1132970795,
@@ -9233,7 +10985,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1132970795",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0206035,
+      "py": 37.51037
+    }
   },
   {
     "id": 1133140506,
@@ -9254,7 +11010,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1133140506",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9260425,
+      "py": 37.5240636
+    }
   },
   {
     "id": 1137564202,
@@ -9275,7 +11035,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1137564202",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9267893,
+      "py": 37.5636346
+    }
   },
   {
     "id": 1139102374,
@@ -9296,7 +11060,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1139102374",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.8966378,
+      "py": 37.4956044
+    }
   },
   {
     "id": 1139206641,
@@ -9317,7 +11085,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1139206641",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9671225,
+      "py": 37.5441932
+    }
   },
   {
     "id": 1140020913,
@@ -9338,7 +11110,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1140020913",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.1085492,
+      "py": 37.5135852
+    }
   },
   {
     "id": 1141833339,
@@ -9359,7 +11135,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1141833339",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.915129,
+      "py": 37.547935
+    }
   },
   {
     "id": 1142689405,
@@ -9380,7 +11160,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1142689405",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9680307,
+      "py": 37.5774706
+    }
   },
   {
     "id": 1144898603,
@@ -9401,7 +11185,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1144898603",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9453217,
+      "py": 37.5458819
+    }
   },
   {
     "id": 1145587166,
@@ -9422,7 +11210,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1145587166",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 127.1108632,
+      "py": 37.5102692
+    }
   },
   {
     "id": 1147948450,
@@ -9443,7 +11235,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1147948450",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9961108,
+      "py": 37.567401
+    }
   },
   {
     "id": 1148721944,
@@ -9464,7 +11260,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1148721944",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9892464,
+      "py": 37.5651478
+    }
   },
   {
     "id": 1151832062,
@@ -9485,7 +11285,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1151832062",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.7360138,
+      "py": 37.2145334
+    }
   },
   {
     "id": 1152341385,
@@ -9506,7 +11310,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1152341385",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.000407,
+      "py": 37.525806
+    }
   },
   {
     "id": 1152661518,
@@ -9527,7 +11335,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1152661518",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9173802,
+      "py": 37.5514679
+    }
   },
   {
     "id": 1153678972,
@@ -9548,7 +11360,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1153678972",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0120621,
+      "py": 37.4914197
+    }
   },
   {
     "id": 1155668912,
@@ -9569,7 +11385,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1155668912",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0741841,
+      "py": 37.628977
+    }
   },
   {
     "id": 1156219888,
@@ -9590,7 +11410,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1156219888",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.8951779,
+      "py": 37.578837
+    }
   },
   {
     "id": 1159754342,
@@ -9611,7 +11435,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1159754342",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0053974,
+      "py": 37.5345227
+    }
   },
   {
     "id": 1173480601,
@@ -9632,7 +11460,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1173480601",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 126.9245375,
+      "py": 37.5610437
+    }
   },
   {
     "id": 1175086473,
@@ -9653,7 +11485,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1175086473",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9824254,
+      "py": 37.4842784
+    }
   },
   {
     "id": 1177414213,
@@ -9674,7 +11510,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1177414213",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9805318,
+      "py": 37.4757831
+    }
   },
   {
     "id": 1178944047,
@@ -9695,7 +11535,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1178944047",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.0413566,
+      "py": 37.5028813
+    }
   },
   {
     "id": 1190176800,
@@ -9716,7 +11560,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1190176800",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9698243,
+      "py": 37.4850459
+    }
   },
   {
     "id": 1191707736,
@@ -9737,7 +11585,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1191707736",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0103314,
+      "py": 37.5534147
+    }
   },
   {
     "id": 1192902215,
@@ -9758,7 +11610,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1192902215",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.4993347,
+      "py": 36.6657951
+    }
   },
   {
     "id": 1193971273,
@@ -9779,7 +11635,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1193971273",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0475587,
+      "py": 37.5482007
+    }
   },
   {
     "id": 1194974888,
@@ -9800,7 +11660,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1194974888",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9854495,
+      "py": 37.5603486
+    }
   },
   {
     "id": 1195969408,
@@ -9821,7 +11685,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1195969408",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 128.7397905,
+      "py": 36.8924395
+    }
   },
   {
     "id": 1196717317,
@@ -9842,7 +11710,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1196717317",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9714593,
+      "py": 37.5446088
+    }
   },
   {
     "id": 1203057126,
@@ -9863,7 +11735,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1203057126",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0818633,
+      "py": 37.5565891
+    }
   },
   {
     "id": 1203199583,
@@ -9884,7 +11760,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1203199583",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9721561,
+      "py": 37.5688577
+    }
   },
   {
     "id": 1204404959,
@@ -9905,7 +11785,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1204404959",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9730906,
+      "py": 37.5422101
+    }
   },
   {
     "id": 1205234878,
@@ -9926,7 +11810,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1205234878",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.018948,
+      "py": 37.5870582
+    }
   },
   {
     "id": 1206209216,
@@ -9947,7 +11835,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1206209216",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.992204,
+      "py": 37.5652209
+    }
   },
   {
     "id": 1216704111,
@@ -9968,7 +11860,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1216704111",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 129.1444851,
+      "py": 35.1549068
+    }
   },
   {
     "id": 1217816166,
@@ -9989,7 +11885,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1217816166",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 126.8941311,
+      "py": 37.4839906
+    }
   },
   {
     "id": 1218176536,
@@ -10010,7 +11910,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1218176536",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9901609,
+      "py": 37.5336338
+    }
   },
   {
     "id": 1224384502,
@@ -10031,7 +11935,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1224384502",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9881544,
+      "py": 37.5771872
+    }
   },
   {
     "id": 1225871158,
@@ -10052,7 +11960,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1225871158",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 128.2094377,
+      "py": 37.1335932
+    }
   },
   {
     "id": 1226668619,
@@ -10073,7 +11985,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1226668619",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9852299,
+      "py": 37.5824373
+    }
   },
   {
     "id": 1227750536,
@@ -10094,7 +12010,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1227750536",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9719162,
+      "py": 37.5329114
+    }
   },
   {
     "id": 1227967470,
@@ -10115,7 +12035,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1227967470",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0187384,
+      "py": 37.5916256
+    }
   },
   {
     "id": 1232726331,
@@ -10136,7 +12060,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1232726331",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.878041,
+      "py": 37.4793668
+    }
   },
   {
     "id": 1237055134,
@@ -10157,7 +12085,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1237055134",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.8510079,
+      "py": 37.3302654
+    }
   },
   {
     "id": 1237365247,
@@ -10178,7 +12110,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1237365247",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.907621,
+      "py": 37.5584252
+    }
   },
   {
     "id": 1241346213,
@@ -10199,7 +12135,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1241346213",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9078196,
+      "py": 37.6163615
+    }
   },
   {
     "id": 1241543561,
@@ -10220,7 +12160,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1241543561",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0371922,
+      "py": 37.4945271
+    }
   },
   {
     "id": 1248044853,
@@ -10241,7 +12185,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1248044853",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0112709,
+      "py": 37.5782228
+    }
   },
   {
     "id": 1251235544,
@@ -10262,7 +12210,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1251235544",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9673913,
+      "py": 37.5254985
+    }
   },
   {
     "id": 1254940478,
@@ -10283,7 +12235,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1254940478",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0388523,
+      "py": 37.525474
+    }
   },
   {
     "id": 1256301640,
@@ -10304,7 +12260,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1256301640",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9788922,
+      "py": 37.2953745
+    }
   },
   {
     "id": 1261213366,
@@ -10325,7 +12285,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1261213366",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.0277262,
+      "py": 37.5242397
+    }
   },
   {
     "id": 1264577661,
@@ -10346,7 +12310,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1264577661",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.00704,
+      "py": 37.518807
+    }
   },
   {
     "id": 1265188677,
@@ -10367,7 +12335,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1265188677",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9474322,
+      "py": 37.5450349
+    }
   },
   {
     "id": 1265804569,
@@ -10388,7 +12360,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1265804569",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 128.6006951,
+      "py": 35.8725226
+    }
   },
   {
     "id": 1275395976,
@@ -10409,7 +12385,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1275395976",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0142147,
+      "py": 37.27767
+    }
   },
   {
     "id": 1283820585,
@@ -10430,7 +12410,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1283820585",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0322707,
+      "py": 37.5228022
+    }
   },
   {
     "id": 1284783089,
@@ -10451,7 +12435,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1284783089",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0827955,
+      "py": 37.5950398
+    }
   },
   {
     "id": 1285036316,
@@ -10472,7 +12460,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1285036316",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.009789,
+      "py": 37.2836762
+    }
   },
   {
     "id": 1286415127,
@@ -10493,7 +12485,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1286415127",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.1169009,
+      "py": 37.5104105
+    }
   },
   {
     "id": 1291730205,
@@ -10514,7 +12510,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1291730205",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.1094211,
+      "py": 37.5127077
+    }
   },
   {
     "id": 1297842361,
@@ -10535,7 +12535,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1297842361",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.7730304,
+      "py": 37.5014642
+    }
   },
   {
     "id": 1298470191,
@@ -10556,7 +12560,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1298470191",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9593535,
+      "py": 37.6013185
+    }
   },
   {
     "id": 1299095472,
@@ -10577,7 +12585,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1299095472",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.999305,
+      "py": 37.5823439
+    }
   },
   {
     "id": 1302783006,
@@ -10598,7 +12610,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1302783006",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0491562,
+      "py": 37.5255465
+    }
   },
   {
     "id": 1303775449,
@@ -10619,7 +12635,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1303775449",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9741708,
+      "py": 37.5512415
+    }
   },
   {
     "id": 1306736555,
@@ -10640,7 +12660,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1306736555",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 126.9914826,
+      "py": 37.5653298
+    }
   },
   {
     "id": 1309534799,
@@ -10661,7 +12685,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1309534799",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0497957,
+      "py": 37.4796425
+    }
   },
   {
     "id": 1310158695,
@@ -10682,7 +12710,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1310158695",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 127.3734523,
+      "py": 36.3525438
+    }
   },
   {
     "id": 1317049468,
@@ -10703,7 +12735,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1317049468",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9397607,
+      "py": 37.5482359
+    }
   },
   {
     "id": 1317404114,
@@ -10724,7 +12760,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1317404114",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.3492706,
+      "py": 36.3902348
+    }
   },
   {
     "id": 1318599055,
@@ -10745,7 +12785,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1318599055",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9486515,
+      "py": 37.5444336
+    }
   },
   {
     "id": 1319862091,
@@ -10766,7 +12810,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1319862091",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9733419,
+      "py": 37.5426589
+    }
   },
   {
     "id": 1321841621,
@@ -10787,7 +12835,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1321841621",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.732414,
+      "py": 37.562569
+    }
   },
   {
     "id": 1324994980,
@@ -10808,7 +12860,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1324994980",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9841519,
+      "py": 37.5650338
+    }
   },
   {
     "id": 1327087004,
@@ -10829,7 +12885,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1327087004",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9882182,
+      "py": 37.5390381
+    }
   },
   {
     "id": 1330259484,
@@ -10850,7 +12910,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1330259484",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9651701,
+      "py": 37.299301
+    }
   },
   {
     "id": 1341393737,
@@ -10871,7 +12935,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1341393737",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0312294,
+      "py": 37.5263818
+    }
   },
   {
     "id": 1343817491,
@@ -10892,7 +12960,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1343817491",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9622249,
+      "py": 37.5257162
+    }
   },
   {
     "id": 1344953422,
@@ -10913,7 +12985,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1344953422",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 130.909678,
+      "py": 37.4924167
+    }
   },
   {
     "id": 1345576006,
@@ -10934,7 +13010,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1345576006",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9947666,
+      "py": 37.5687852
+    }
   },
   {
     "id": 1345850442,
@@ -10955,7 +13035,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1345850442",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.0532718,
+      "py": 37.5451881
+    }
   },
   {
     "id": 1347553376,
@@ -10976,7 +13060,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1347553376",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0108786,
+      "py": 37.5783008
+    }
   },
   {
     "id": 1348602765,
@@ -10997,7 +13085,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1348602765",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9803977,
+      "py": 37.2997253
+    }
   },
   {
     "id": 1350705871,
@@ -11018,7 +13110,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1350705871",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.1171011,
+      "py": 37.4954361
+    }
   },
   {
     "id": 1351622065,
@@ -11039,7 +13135,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1351622065",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 126.4777442,
+      "py": 33.47781
+    }
   },
   {
     "id": 1358156843,
@@ -11060,7 +13160,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1358156843",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0197933,
+      "py": 37.5915561
+    }
   },
   {
     "id": 1359051109,
@@ -11081,7 +13185,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1359051109",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0664981,
+      "py": 37.537895
+    }
   },
   {
     "id": 1360232609,
@@ -11102,7 +13210,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1360232609",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9898437,
+      "py": 37.5732925
+    }
   },
   {
     "id": 1368130273,
@@ -11123,7 +13235,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1368130273",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.1067558,
+      "py": 37.5081168
+    }
   },
   {
     "id": 1369227970,
@@ -11144,7 +13260,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1369227970",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0209353,
+      "py": 37.5821345
+    }
   },
   {
     "id": 1370222763,
@@ -11165,7 +13285,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1370222763",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.072807,
+      "py": 37.6182031
+    }
   },
   {
     "id": 1370525650,
@@ -11186,7 +13310,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1370525650",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 130.909948,
+      "py": 37.492026
+    }
   },
   {
     "id": 1372901365,
@@ -11207,7 +13335,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1372901365",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9682893,
+      "py": 37.2971532
+    }
   },
   {
     "id": 1373394425,
@@ -11228,7 +13360,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1373394425",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9803157,
+      "py": 37.5704192
+    }
   },
   {
     "id": 1377831784,
@@ -11249,7 +13385,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1377831784",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0000161,
+      "py": 37.5815932
+    }
   },
   {
     "id": 1384701036,
@@ -11270,7 +13410,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1384701036",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.1419609,
+      "py": 36.8339368
+    }
   },
   {
     "id": 1389562845,
@@ -11291,7 +13435,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1389562845",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0037398,
+      "py": 37.5033549
+    }
   },
   {
     "id": 1392057734,
@@ -11312,7 +13460,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1392057734",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0001596,
+      "py": 37.536116
+    }
   },
   {
     "id": 1403632278,
@@ -11333,7 +13485,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1403632278",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9162859,
+      "py": 37.5612003
+    }
   },
   {
     "id": 1407905119,
@@ -11354,7 +13510,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1407905119",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.3723155,
+      "py": 36.3477017
+    }
   },
   {
     "id": 1414582523,
@@ -11375,7 +13535,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1414582523",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9891377,
+      "py": 37.5791065
+    }
   },
   {
     "id": 1417363078,
@@ -11396,7 +13560,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1417363078",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9680588,
+      "py": 37.5384467
+    }
   },
   {
     "id": 1422625596,
@@ -11417,7 +13585,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1422625596",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 129.0602461,
+      "py": 35.1440629
+    }
   },
   {
     "id": 1423425181,
@@ -11438,7 +13610,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1423425181",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.69953,
+      "py": 33.5119159
+    }
   },
   {
     "id": 1423908907,
@@ -11459,7 +13635,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1423908907",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0679505,
+      "py": 37.5668176
+    }
   },
   {
     "id": 1432332591,
@@ -11480,7 +13660,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1432332591",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9442242,
+      "py": 37.5356239
+    }
   },
   {
     "id": 1438948028,
@@ -11501,7 +13685,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1438948028",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0127888,
+      "py": 37.5607038
+    }
   },
   {
     "id": 1443104731,
@@ -11522,7 +13710,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1443104731",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0227589,
+      "py": 37.5196606
+    }
   },
   {
     "id": 1445845015,
@@ -11543,7 +13735,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1445845015",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9709956,
+      "py": 37.5802722
+    }
   },
   {
     "id": 1448139935,
@@ -11564,7 +13760,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1448139935",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0923906,
+      "py": 37.5553861
+    }
   },
   {
     "id": 1448490126,
@@ -11585,7 +13785,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1448490126",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9459349,
+      "py": 37.5445302
+    }
   },
   {
     "id": 1452804697,
@@ -11606,7 +13810,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1452804697",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9201298,
+      "py": 37.5463337
+    }
   },
   {
     "id": 1453801075,
@@ -11627,7 +13835,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1453801075",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9686734,
+      "py": 37.2989189
+    }
   },
   {
     "id": 1460152527,
@@ -11648,7 +13860,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1460152527",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0110151,
+      "py": 37.2847128
+    }
   },
   {
     "id": 1460968982,
@@ -11669,7 +13885,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1460968982",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9831484,
+      "py": 37.5668243
+    }
   },
   {
     "id": 1465658248,
@@ -11690,7 +13910,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1465658248",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0324393,
+      "py": 37.4942732
+    }
   },
   {
     "id": 1465808793,
@@ -11711,7 +13935,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1465808793",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.8382034,
+      "py": 37.6576031
+    }
   },
   {
     "id": 1482850511,
@@ -11732,7 +13960,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1482850511",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.4367675,
+      "py": 36.3514165
+    }
   },
   {
     "id": 1484650931,
@@ -11753,7 +13985,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1484650931",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0355747,
+      "py": 37.5819355
+    }
   },
   {
     "id": 1484901257,
@@ -11774,7 +14010,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1484901257",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.1424411,
+      "py": 36.8320687
+    }
   },
   {
     "id": 1487216698,
@@ -11795,7 +14035,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1487216698",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9834248,
+      "py": 37.54932
+    }
   },
   {
     "id": 1489831691,
@@ -11816,7 +14060,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1489831691",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9164345,
+      "py": 37.532989
+    }
   },
   {
     "id": 1491686850,
@@ -11837,7 +14085,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1491686850",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0185421,
+      "py": 37.2816337
+    }
   },
   {
     "id": 1493273390,
@@ -11858,7 +14110,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1493273390",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.97849,
+      "py": 37.2903987
+    }
   },
   {
     "id": 1498531928,
@@ -11879,7 +14135,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1498531928",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.0044945,
+      "py": 37.4819669
+    }
   },
   {
     "id": 1500504643,
@@ -11900,7 +14160,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1500504643",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9242086,
+      "py": 37.5649954
+    }
   },
   {
     "id": 1501495669,
@@ -11921,7 +14185,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1501495669",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9837511,
+      "py": 37.5653492
+    }
   },
   {
     "id": 1507982265,
@@ -11942,7 +14210,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1507982265",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9291914,
+      "py": 37.5553578
+    }
   },
   {
     "id": 1508030844,
@@ -11963,7 +14235,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1508030844",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0602175,
+      "py": 37.5116687
+    }
   },
   {
     "id": 1509089441,
@@ -11984,7 +14260,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1509089441",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0670317,
+      "py": 37.5635815
+    }
   },
   {
     "id": 1510453404,
@@ -12005,7 +14285,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1510453404",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0004045,
+      "py": 37.5763244
+    }
   },
   {
     "id": 1511615726,
@@ -12026,7 +14310,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1511615726",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9874816,
+      "py": 37.5394439
+    }
   },
   {
     "id": 1519288725,
@@ -12047,7 +14335,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1519288725",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9477904,
+      "py": 37.5490487
+    }
   },
   {
     "id": 1527779242,
@@ -12068,7 +14360,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1527779242",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0573164,
+      "py": 37.2101257
+    }
   },
   {
     "id": 1530597017,
@@ -12089,7 +14385,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1530597017",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.023604,
+      "py": 37.6397965
+    }
   },
   {
     "id": 1534442753,
@@ -12110,7 +14410,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1534442753",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9369237,
+      "py": 37.5449839
+    }
   },
   {
     "id": 1537162497,
@@ -12131,7 +14435,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1537162497",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 128.5285976,
+      "py": 38.2053855
+    }
   },
   {
     "id": 1540168051,
@@ -12152,7 +14460,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1540168051",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9833092,
+      "py": 37.5494047
+    }
   },
   {
     "id": 1541566085,
@@ -12173,7 +14485,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1541566085",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 129.1826414,
+      "py": 35.8441583
+    }
   },
   {
     "id": 1547453593,
@@ -12194,7 +14510,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1547453593",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9739986,
+      "py": 37.5627582
+    }
   },
   {
     "id": 1553249208,
@@ -12215,7 +14535,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1553249208",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0544868,
+      "py": 37.544177
+    }
   },
   {
     "id": 1558813376,
@@ -12236,7 +14560,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1558813376",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9720147,
+      "py": 37.568678
+    }
   },
   {
     "id": 1559943764,
@@ -12257,7 +14585,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1559943764",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9118914,
+      "py": 37.5529842
+    }
   },
   {
     "id": 1570607237,
@@ -12278,7 +14610,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1570607237",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0311757,
+      "py": 37.5279499
+    }
   },
   {
     "id": 1572890808,
@@ -12299,7 +14635,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1572890808",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.8353531,
+      "py": 37.5598716
+    }
   },
   {
     "id": 1581231694,
@@ -12320,7 +14660,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1581231694",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0373501,
+      "py": 37.526232
+    }
   },
   {
     "id": 1582944365,
@@ -12341,7 +14685,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1582944365",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.1034134,
+      "py": 37.5073263
+    }
   },
   {
     "id": 1583324461,
@@ -12362,7 +14710,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1583324461",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0148427,
+      "py": 37.2888758
+    }
   },
   {
     "id": 1583598574,
@@ -12383,7 +14735,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1583598574",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9678007,
+      "py": 37.5404027
+    }
   },
   {
     "id": 1585227152,
@@ -12404,7 +14760,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1585227152",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0521483,
+      "py": 37.5851262
+    }
   },
   {
     "id": 1586361430,
@@ -12425,7 +14785,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1586361430",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9892204,
+      "py": 37.5332223
+    }
   },
   {
     "id": 1586697048,
@@ -12446,7 +14810,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1586697048",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.6885041,
+      "py": 37.3470148
+    }
   },
   {
     "id": 1588609489,
@@ -12467,7 +14835,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1588609489",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.109429,
+      "py": 37.5095574
+    }
   },
   {
     "id": 1589238968,
@@ -12489,7 +14861,11 @@
     "categories": [
       "쯔양",
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 127.0674437,
+      "py": 37.5387347
+    }
   },
   {
     "id": 1593068563,
@@ -12510,7 +14886,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1593068563",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9988221,
+      "py": 37.5704887
+    }
   },
   {
     "id": 1593690876,
@@ -12531,7 +14911,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1593690876",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9733437,
+      "py": 37.5753767
+    }
   },
   {
     "id": 1596612606,
@@ -12552,7 +14936,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1596612606",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9394218,
+      "py": 37.4836332
+    }
   },
   {
     "id": 1597203693,
@@ -12573,7 +14961,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1597203693",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.83846,
+      "py": 37.5609894
+    }
   },
   {
     "id": 1597683319,
@@ -12594,7 +14986,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1597683319",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.8929881,
+      "py": 37.5128429
+    }
   },
   {
     "id": 1599835785,
@@ -12615,7 +15011,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1599835785",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0645316,
+      "py": 37.5147972
+    }
   },
   {
     "id": 1600016778,
@@ -12636,7 +15036,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1600016778",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9976883,
+      "py": 37.4992992
+    }
   },
   {
     "id": 1601437484,
@@ -12657,7 +15061,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1601437484",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9209445,
+      "py": 37.5598025
+    }
   },
   {
     "id": 1606771634,
@@ -12678,7 +15086,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1606771634",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0232296,
+      "py": 37.5698594
+    }
   },
   {
     "id": 1611519272,
@@ -12699,7 +15111,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1611519272",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 128.9104834,
+      "py": 37.7878908
+    }
   },
   {
     "id": 1613373762,
@@ -12721,7 +15137,11 @@
     "categories": [
       "쯔양",
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0352931,
+      "py": 37.5203909
+    }
   },
   {
     "id": 1614417324,
@@ -12742,7 +15162,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1614417324",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9886013,
+      "py": 37.5665845
+    }
   },
   {
     "id": 1614596985,
@@ -12763,7 +15187,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1614596985",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 127.0403201,
+      "py": 37.5593872
+    }
   },
   {
     "id": 1625082376,
@@ -12784,7 +15212,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1625082376",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 128.615745,
+      "py": 35.8571696
+    }
   },
   {
     "id": 1627258053,
@@ -12805,7 +15237,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1627258053",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.925121,
+      "py": 37.5601496
+    }
   },
   {
     "id": 1632955574,
@@ -12826,7 +15262,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1632955574",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0228505,
+      "py": 37.5806817
+    }
   },
   {
     "id": 1635037172,
@@ -12847,7 +15287,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1635037172",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.0444028,
+      "py": 37.4828438
+    }
   },
   {
     "id": 1635954043,
@@ -12868,7 +15312,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1635954043",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 126.9441545,
+      "py": 37.5580385
+    }
   },
   {
     "id": 1636164848,
@@ -12889,7 +15337,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1636164848",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.1081781,
+      "py": 37.5138621
+    }
   },
   {
     "id": 1642364450,
@@ -12910,7 +15362,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1642364450",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0404261,
+      "py": 37.5250487
+    }
   },
   {
     "id": 1643229713,
@@ -12931,7 +15387,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1643229713",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0320356,
+      "py": 37.5605097
+    }
   },
   {
     "id": 1643374390,
@@ -12952,7 +15412,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1643374390",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0229232,
+      "py": 37.5120871
+    }
   },
   {
     "id": 1643382530,
@@ -12973,7 +15437,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1643382530",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9478316,
+      "py": 37.5447956
+    }
   },
   {
     "id": 1645597011,
@@ -12994,7 +15462,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1645597011",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9554169,
+      "py": 37.4784362
+    }
   },
   {
     "id": 1647637720,
@@ -13015,7 +15487,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1647637720",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9085546,
+      "py": 37.5139403
+    }
   },
   {
     "id": 1648999759,
@@ -13036,7 +15512,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1648999759",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 127.0648755,
+      "py": 37.5143607
+    }
   },
   {
     "id": 1652615657,
@@ -13057,7 +15537,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1652615657",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9417411,
+      "py": 37.5899886
+    }
   },
   {
     "id": 1655094810,
@@ -13078,7 +15562,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1655094810",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0275715,
+      "py": 37.4958166
+    }
   },
   {
     "id": 1655313614,
@@ -13099,7 +15587,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1655313614",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9105259,
+      "py": 37.5005129
+    }
   },
   {
     "id": 1656491559,
@@ -13120,7 +15612,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1656491559",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0061667,
+      "py": 37.2871701
+    }
   },
   {
     "id": 1657702588,
@@ -13141,7 +15637,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1657702588",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9889311,
+      "py": 37.5810174
+    }
   },
   {
     "id": 1657753878,
@@ -13162,7 +15662,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1657753878",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9589378,
+      "py": 37.5344913
+    }
   },
   {
     "id": 1663639542,
@@ -13183,7 +15687,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1663639542",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9260443,
+      "py": 37.4867158
+    }
   },
   {
     "id": 1664183009,
@@ -13204,7 +15712,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1664183009",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9807332,
+      "py": 37.4752159
+    }
   },
   {
     "id": 1666856595,
@@ -13225,7 +15737,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1666856595",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.1427181,
+      "py": 37.5381385
+    }
   },
   {
     "id": 1668003266,
@@ -13246,7 +15762,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1668003266",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9235456,
+      "py": 37.560509
+    }
   },
   {
     "id": 1673353120,
@@ -13267,7 +15787,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1673353120",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.8898265,
+      "py": 37.4802976
+    }
   },
   {
     "id": 1674005148,
@@ -13288,7 +15812,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1674005148",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.0201825,
+      "py": 37.5190656
+    }
   },
   {
     "id": 1674768623,
@@ -13309,7 +15837,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1674768623",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9353952,
+      "py": 37.5563352
+    }
   },
   {
     "id": 1678156488,
@@ -13330,7 +15862,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1678156488",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9981773,
+      "py": 37.4975586
+    }
   },
   {
     "id": 1681935587,
@@ -13351,7 +15887,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1681935587",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.984968,
+      "py": 37.5449601
+    }
   },
   {
     "id": 1700876781,
@@ -13372,7 +15912,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1700876781",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.1096044,
+      "py": 37.5083451
+    }
   },
   {
     "id": 1718492290,
@@ -13393,7 +15937,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1718492290",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9673027,
+      "py": 37.5303885
+    }
   },
   {
     "id": 1721419811,
@@ -13414,7 +15962,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1721419811",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9873804,
+      "py": 37.5438198
+    }
   },
   {
     "id": 1722490142,
@@ -13435,7 +15987,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1722490142",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.0361626,
+      "py": 37.5206302
+    }
   },
   {
     "id": 1724084917,
@@ -13456,7 +16012,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1724084917",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0017035,
+      "py": 37.5655379
+    }
   },
   {
     "id": 1733436348,
@@ -13477,7 +16037,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1733436348",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.5436517,
+      "py": 33.472357
+    }
   },
   {
     "id": 1734297335,
@@ -13498,7 +16062,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1734297335",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9543528,
+      "py": 37.548145
+    }
   },
   {
     "id": 1739440199,
@@ -13519,7 +16087,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1739440199",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.0575635,
+      "py": 37.5432305
+    }
   },
   {
     "id": 1739819748,
@@ -13540,7 +16112,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1739819748",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0580983,
+      "py": 37.6116954
+    }
   },
   {
     "id": 1741697928,
@@ -13561,7 +16137,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1741697928",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.018933,
+      "py": 37.5154736
+    }
   },
   {
     "id": 1746867861,
@@ -13582,7 +16162,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1746867861",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.038754,
+      "py": 37.5793184
+    }
   },
   {
     "id": 1756441572,
@@ -13603,7 +16187,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1756441572",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0565584,
+      "py": 37.5110369
+    }
   },
   {
     "id": 1764560721,
@@ -13624,7 +16212,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1764560721",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0228949,
+      "py": 37.5777047
+    }
   },
   {
     "id": 1764618287,
@@ -13645,7 +16237,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1764618287",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0122198,
+      "py": 37.5580196
+    }
   },
   {
     "id": 1765563891,
@@ -13666,7 +16262,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1765563891",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.019844,
+      "py": 37.2834598
+    }
   },
   {
     "id": 1766810958,
@@ -13687,7 +16287,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1766810958",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 128.6138649,
+      "py": 35.8742719
+    }
   },
   {
     "id": 1771016332,
@@ -13708,7 +16312,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1771016332",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0546695,
+      "py": 37.5493464
+    }
   },
   {
     "id": 1775386322,
@@ -13729,7 +16337,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1775386322",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.6939153,
+      "py": 37.4093705
+    }
   },
   {
     "id": 1776186130,
@@ -13750,7 +16362,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1776186130",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0771545,
+      "py": 37.6066864
+    }
   },
   {
     "id": 1776247056,
@@ -13771,7 +16387,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1776247056",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9698187,
+      "py": 37.3029381
+    }
   },
   {
     "id": 1779458357,
@@ -13792,7 +16412,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1779458357",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.5033339,
+      "py": 37.6726934
+    }
   },
   {
     "id": 1779562085,
@@ -13813,7 +16437,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1779562085",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9805464,
+      "py": 37.4844639
+    }
   },
   {
     "id": 1780226584,
@@ -13834,7 +16462,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1780226584",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 127.4874765,
+      "py": 34.9263403
+    }
   },
   {
     "id": 1781684581,
@@ -13855,7 +16487,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1781684581",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9577838,
+      "py": 37.5181937
+    }
   },
   {
     "id": 1781934048,
@@ -13876,7 +16512,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1781934048",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.0217772,
+      "py": 37.5188658
+    }
   },
   {
     "id": 1782287315,
@@ -13897,7 +16537,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1782287315",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.1555298,
+      "py": 37.5539265
+    }
   },
   {
     "id": 1789796602,
@@ -13918,7 +16562,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1789796602",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0141266,
+      "py": 37.2836084
+    }
   },
   {
     "id": 1790184895,
@@ -13939,7 +16587,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1790184895",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 128.6236326,
+      "py": 36.8237355
+    }
   },
   {
     "id": 1799485375,
@@ -13960,7 +16612,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1799485375",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0195266,
+      "py": 37.5677438
+    }
   },
   {
     "id": 1800748489,
@@ -13981,7 +16637,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1800748489",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9707252,
+      "py": 37.2997446
+    }
   },
   {
     "id": 1801622801,
@@ -14002,7 +16662,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1801622801",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.4298143,
+      "py": 34.8046426
+    }
   },
   {
     "id": 1810003724,
@@ -14023,7 +16687,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1810003724",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9536301,
+      "py": 37.5509462
+    }
   },
   {
     "id": 1810277002,
@@ -14044,7 +16712,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1810277002",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.97225,
+      "py": 37.5360103
+    }
   },
   {
     "id": 1816247055,
@@ -14065,7 +16737,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1816247055",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 128.264332,
+      "py": 34.6345569
+    }
   },
   {
     "id": 1817207066,
@@ -14086,7 +16762,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1817207066",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9724921,
+      "py": 37.5780066
+    }
   },
   {
     "id": 1818021799,
@@ -14107,7 +16787,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1818021799",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.94672,
+      "py": 37.542715
+    }
   },
   {
     "id": 1822576656,
@@ -14128,7 +16812,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1822576656",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.7499207,
+      "py": 34.3179714
+    }
   },
   {
     "id": 1824479360,
@@ -14149,7 +16837,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1824479360",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.4250837,
+      "py": 36.4492313
+    }
   },
   {
     "id": 1827620160,
@@ -14170,7 +16862,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1827620160",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9907084,
+      "py": 37.5731251
+    }
   },
   {
     "id": 1832820756,
@@ -14191,7 +16887,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1832820756",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0332151,
+      "py": 37.5613537
+    }
   },
   {
     "id": 1835648458,
@@ -14212,7 +16912,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1835648458",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0183989,
+      "py": 37.5740885
+    }
   },
   {
     "id": 1838729179,
@@ -14233,7 +16937,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1838729179",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0000409,
+      "py": 37.582989
+    }
   },
   {
     "id": 1839477360,
@@ -14254,7 +16962,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1839477360",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0435897,
+      "py": 37.6653467
+    }
   },
   {
     "id": 1841229057,
@@ -14275,7 +16987,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1841229057",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.6515528,
+      "py": 37.4261545
+    }
   },
   {
     "id": 1848867789,
@@ -14296,7 +17012,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1848867789",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.4287746,
+      "py": 33.4914232
+    }
   },
   {
     "id": 1850240841,
@@ -14317,7 +17037,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1850240841",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0417513,
+      "py": 37.5189878
+    }
   },
   {
     "id": 1856863622,
@@ -14338,7 +17062,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1856863622",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9828726,
+      "py": 37.4794466
+    }
   },
   {
     "id": 1856920150,
@@ -14359,7 +17087,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1856920150",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9717542,
+      "py": 37.5791114
+    }
   },
   {
     "id": 1868123625,
@@ -14380,7 +17112,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1868123625",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0189655,
+      "py": 37.5119576
+    }
   },
   {
     "id": 1870329259,
@@ -14401,7 +17137,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1870329259",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9220045,
+      "py": 37.4027314
+    }
   },
   {
     "id": 1871384294,
@@ -14422,7 +17162,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1871384294",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.1134867,
+      "py": 37.3968547
+    }
   },
   {
     "id": 1874301580,
@@ -14443,7 +17187,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1874301580",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0099755,
+      "py": 37.552988
+    }
   },
   {
     "id": 1877394048,
@@ -14464,7 +17212,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1877394048",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0214598,
+      "py": 37.5190975
+    }
   },
   {
     "id": 1879202437,
@@ -14485,7 +17237,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1879202437",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 127.0542854,
+      "py": 37.5434226
+    }
   },
   {
     "id": 1879894432,
@@ -14506,7 +17262,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1879894432",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0255541,
+      "py": 37.572842
+    }
   },
   {
     "id": 1882312139,
@@ -14527,7 +17287,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1882312139",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0553579,
+      "py": 37.5874574
+    }
   },
   {
     "id": 1882480351,
@@ -14548,7 +17312,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1882480351",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9242273,
+      "py": 37.5624137
+    }
   },
   {
     "id": 1894139697,
@@ -14569,7 +17337,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1894139697",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9734335,
+      "py": 37.5426658
+    }
   },
   {
     "id": 1894408962,
@@ -14590,7 +17362,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1894408962",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.4181239,
+      "py": 36.3280796
+    }
   },
   {
     "id": 1894802728,
@@ -14611,7 +17387,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1894802728",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0213324,
+      "py": 37.5836262
+    }
   },
   {
     "id": 1898369171,
@@ -14633,7 +17413,11 @@
     "categories": [
       "쯔양",
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0255738,
+      "py": 37.5011826
+    }
   },
   {
     "id": 1899841159,
@@ -14654,7 +17438,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1899841159",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0566414,
+      "py": 37.5679969
+    }
   },
   {
     "id": 1900954857,
@@ -14675,7 +17463,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1900954857",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.80865,
+      "py": 37.5625547
+    }
   },
   {
     "id": 1903329330,
@@ -14696,7 +17488,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1903329330",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0854422,
+      "py": 37.5818922
+    }
   },
   {
     "id": 1906115036,
@@ -14717,7 +17513,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1906115036",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0753555,
+      "py": 37.5314465
+    }
   },
   {
     "id": 1907386205,
@@ -14738,7 +17538,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1907386205",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9711763,
+      "py": 37.5307114
+    }
   },
   {
     "id": 1908328156,
@@ -14759,7 +17563,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1908328156",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0230251,
+      "py": 37.5172609
+    }
   },
   {
     "id": 1912721792,
@@ -14780,7 +17588,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1912721792",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0265765,
+      "py": 37.5023778
+    }
   },
   {
     "id": 1913147400,
@@ -14801,7 +17613,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1913147400",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9963437,
+      "py": 37.5625174
+    }
   },
   {
     "id": 1920811115,
@@ -14822,7 +17638,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1920811115",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0798312,
+      "py": 37.5096642
+    }
   },
   {
     "id": 1921750340,
@@ -14843,7 +17663,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1921750340",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 127.0300737,
+      "py": 37.5184492
+    }
   },
   {
     "id": 1923905766,
@@ -14864,7 +17688,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1923905766",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9442803,
+      "py": 37.5374497
+    }
   },
   {
     "id": 1924306900,
@@ -14885,7 +17713,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1924306900",
     "categories": [
       "최자로드"
-    ]
+    ],
+    "position": {
+      "px": 126.9161059,
+      "py": 37.5547362
+    }
   },
   {
     "id": 1925465299,
@@ -14906,7 +17738,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1925465299",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.8920297,
+      "py": 37.5107181
+    }
   },
   {
     "id": 1932467805,
@@ -14927,7 +17763,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1932467805",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0305018,
+      "py": 37.4854129
+    }
   },
   {
     "id": 1933103682,
@@ -14948,7 +17788,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1933103682",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0551567,
+      "py": 37.5382728
+    }
   },
   {
     "id": 1934133001,
@@ -14969,7 +17813,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1934133001",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9245759,
+      "py": 37.561646
+    }
   },
   {
     "id": 1938359158,
@@ -14990,7 +17838,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1938359158",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0405771,
+      "py": 37.5246312
+    }
   },
   {
     "id": 1938494273,
@@ -15011,7 +17863,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1938494273",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.7662465,
+      "py": 37.6668908
+    }
   },
   {
     "id": 1944327442,
@@ -15032,7 +17888,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1944327442",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9004447,
+      "py": 37.4715782
+    }
   },
   {
     "id": 1946991741,
@@ -15053,7 +17913,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1946991741",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9387731,
+      "py": 37.5581894
+    }
   },
   {
     "id": 1952375166,
@@ -15074,7 +17938,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1952375166",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.6869028,
+      "py": 37.3425125
+    }
   },
   {
     "id": 1953847472,
@@ -15095,7 +17963,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1953847472",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.1208149,
+      "py": 37.4954029
+    }
   },
   {
     "id": 1955052896,
@@ -15116,7 +17988,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1955052896",
     "categories": [
       "또간집"
-    ]
+    ],
+    "position": {
+      "px": 127.0091275,
+      "py": 37.5335732
+    }
   },
   {
     "id": 1960119730,
@@ -15138,7 +18014,11 @@
     "categories": [
       "최자로드",
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0195515,
+      "py": 37.5661034
+    }
   },
   {
     "id": 1964656612,
@@ -15159,7 +18039,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1964656612",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0172182,
+      "py": 37.5661854
+    }
   },
   {
     "id": 1973223482,
@@ -15180,7 +18064,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1973223482",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 126.9443006,
+      "py": 37.5463566
+    }
   },
   {
     "id": 1976014639,
@@ -15201,7 +18089,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1976014639",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.0581687,
+      "py": 37.5462015
+    }
   },
   {
     "id": 1976484794,
@@ -15222,7 +18114,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1976484794",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.6329002,
+      "py": 36.89611
+    }
   },
   {
     "id": 1985529752,
@@ -15243,7 +18139,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1985529752",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0322571,
+      "py": 37.5072798
+    }
   },
   {
     "id": 1989802801,
@@ -15264,7 +18164,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1989802801",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 127.0005577,
+      "py": 37.5350206
+    }
   },
   {
     "id": 1995629009,
@@ -15285,7 +18189,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1995629009",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 126.9804152,
+      "py": 37.4840968
+    }
   },
   {
     "id": 1996916360,
@@ -15306,7 +18214,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1996916360",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.1009378,
+      "py": 37.5174924
+    }
   },
   {
     "id": 1997438817,
@@ -15327,7 +18239,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1997438817",
     "categories": [
       "먹을텐데"
-    ]
+    ],
+    "position": {
+      "px": 126.9953968,
+      "py": 37.564865
+    }
   },
   {
     "id": 1998320142,
@@ -15348,7 +18264,11 @@
     "placeLink": "https://map.naver.com/p/entry/place/1998320142",
     "categories": [
       "theplace"
-    ]
+    ],
+    "position": {
+      "px": 127.0671265,
+      "py": 37.5522888
+    }
   },
   {
     "id": 1999558319,
@@ -15369,6 +18289,10 @@
     "placeLink": "https://map.naver.com/p/entry/place/1999558319",
     "categories": [
       "쯔양"
-    ]
+    ],
+    "position": {
+      "px": 127.062188,
+      "py": 37.6044867
+    }
   }
 ]

@@ -21,7 +21,7 @@ import { usePathname } from "next/navigation"
 export function Navigation({ navis, width }: { navis: INavi[], width?: string }) {
   const pathname = usePathname()
   return (
-    <NavigationMenu className="bg-background mb-8 py-2">
+    <NavigationMenu className="bg-background py-2">
       <NavigationMenuList>
         <NavigationMenuItem>
           <Link href={'/'} legacyBehavior passHref>

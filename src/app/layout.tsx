@@ -6,6 +6,8 @@ import { FilterStoreProvider } from "@/stores/filter-store-provider";
 import { SiteFooter } from "@/components/site-footer";
 import dynamic from 'next/dynamic'
 import { Analytics } from "@vercel/analytics/react"
+import { NavermapsProvider } from "react-naver-maps";
+import { NAVER_KEY } from "@/lib/constants";
 
 const FloatingActionButton = dynamic(() => import('@/components/floatingButton'), { ssr: false })
 
@@ -33,10 +35,8 @@ export default function RootLayout({
         )}
       >
         <FilterStoreProvider>
-          <Container className="flex min-h-screen flex-col">
-            {children}
-            <FloatingActionButton />
-          </Container>
+          {children}
+          <FloatingActionButton />
         </FilterStoreProvider>
         <SiteFooter />
         <Analytics />

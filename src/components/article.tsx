@@ -11,33 +11,33 @@ const CaseTile = ({ place }: { place: IPlace }) => {
   if (isDesktop)
     return (
       <div
-        className="relative w-full h-96 rounded-lg overflow-hidden shadow-lg"
+        className="relative w-full h-96 rounded-lg overflow-hidden shadow-lg flex flex-col gap-4"
         onMouseEnter={() => setIsHovered(true)}
         onMouseLeave={() => setIsHovered(false)}
       >
         {/* 이미지 섹션 */}
         <div
-          className={`absolute top-0 rounded-lg w-full h-full transition-all duration-300 ease-in-out hover:scale-[103%]`}
+          className={`w-full h-60 transition-all duration-300 ease-in-out `}
         >
           <Image
             src={`/place-image/${place.images[0]}`}
             alt="Placeholder"
-            className="w-full h-full object-cover rounded-lg object-top	"
+            className="object-cover rounded-lg "
             fill
           />
         </div>
 
         {/* 텍스트 섹션 */}
         <div
-          className={`absolute bottom-0 w-full text-white p-4 transition-all duration-300 ease-in-out bg-black`}
+          className={`w-full p-4 transition-all duration-300 ease-in-out`}
         >
           <div className='flex items-center justify-between'>
-            <h2 className="text-white text-lg font-semibold">{place.title}</h2>
-            <p className="text-white line-clamp-2">{place.description}</p>
+            <h2 className="text-lg font-semibold">{place.title}</h2>
+            <p className="line-clamp-2">{place.description}</p>
           </div>
           <div className='flex items-center justify-between'>
-            <div className="text-white text-sm">{place.location}</div>
-            <div className="text-white flex gap-2">{place.categories.map(category =>
+            <div className="text-sm">{place.location}</div>
+            <div className="flex gap-2">{place.categories.map(category =>
               <div key={category} className='w-[60px] text-sm text-right'>#{category}</div>
             )}</div>
           </div>
