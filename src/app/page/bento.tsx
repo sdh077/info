@@ -67,7 +67,7 @@ export const BentoGridItem = ({
       </div>
     );
 
-  return (<div className="max-w-xs w-full group/card">
+  return (<div className="max-w-xs w-full group/card" onClick={() => chagePlaceId(place.id)}>
     <div
       className={cn(
         " cursor-pointer overflow-hidden relative card h-32 rounded-md shadow-xl  max-w-sm mx-auto backgroundImage flex flex-col justify-between",

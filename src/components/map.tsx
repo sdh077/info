@@ -17,11 +17,11 @@ function MapInfo({ place }: { place: IPlace }) {
   )
 }
 function NMap({ place }: { place: IPlace }) {
-  // useEffect(() => {
-  //   if (window.naver && window.naver.maps && place) {
-  //     initializeMap();
-  //   }
-  // }, [placeId]);
+  React.useEffect(() => {
+    if (window.naver && window.naver.maps && place) {
+      initializeMap();
+    }
+  }, [place]);
 
   if (!place) return <></>
   const lng = place?.position.py
@@ -76,6 +76,7 @@ import {
   DrawerDescription,
   DrawerFooter,
   DrawerHeader,
+  DrawerTitle
 } from "@/components/ui/drawer"
 import { IPlace } from '@/interface/place';
 import Image from 'next/image';
@@ -98,6 +99,7 @@ export default function Map() {
     <Drawer open={placeId !== -1} onOpenChange={(open) => chagePlaceId(open ? placeId : -1)}>
       <DrawerContent>
         <DrawerHeader className="text-left">
+          <DrawerTitle >{place.title}</DrawerTitle>
           <DrawerDescription>
             <NMap place={place} />
           </DrawerDescription>
