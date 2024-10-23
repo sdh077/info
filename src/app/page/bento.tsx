@@ -35,37 +35,37 @@ export const BentoGridItem = ({
 }) => {
   const isDesktop = useMediaQuery("(min-width: 1024px)")
   const { chagePlaceId, placeId } = useFilterStore(state => state)
-  if (isDesktop)
-    return (
-      <div
-        className={cn(
-          "relative row-span-1 rounded-xl group/bento hover:scale-[101%] transition duration-200 shadow-input dark:shadow-none p-2 dark:bg-black dark:border-white/[0.2] bg-white border border-transparent justify-between flex flex-col space-y-4 cursor-pointer",
-          placeId === place.id ? "border-2 border-primary" : ''
-        )}
-        onClick={() => chagePlaceId(place.id)}
-      >
-        <Image
-          src={`/place-image/${place.images[0]}`}
-          alt="Placeholder"
-          className="object-cover rounded-lg aspect-square"
-          width={600}
-          height={600}
-        />
-        <div className="translate-x-2 transition duration-200 flex justify-between items-center">
-          <div>
-            <div className="font-sans font-bold text-neutral-600 mt-2">
-              {place.title}
-            </div>
-            <div className="font-sans font-normal text-neutral-600 mb-2  text-xs ">
-              {place.description}
-            </div>
-          </div>
-          <div className="flex gap-1">{place.categories.map(category =>
-            <div key={category} className='w-fit text-sm'>#{category}</div>
-          )}</div>
-        </div>
-      </div>
-    );
+  // if (isDesktop)
+  //   return (
+  //     <div
+  //       className={cn(
+  //         "relative row-span-1 rounded-xl group/bento hover:scale-[101%] transition duration-200 shadow-input dark:shadow-none p-2 dark:bg-black dark:border-white/[0.2] bg-white border border-transparent justify-between flex flex-col space-y-4 cursor-pointer",
+  //         placeId === place.id ? "border-2 border-primary" : ''
+  //       )}
+  //       onClick={() => chagePlaceId(place.id)}
+  //     >
+  //       <Image
+  //         src={`/place-image/${place.images[0]}`}
+  //         alt="Placeholder"
+  //         className="object-cover rounded-lg aspect-square"
+  //         width={600}
+  //         height={600}
+  //       />
+  //       <div className="translate-x-2 transition duration-200 flex justify-between items-center">
+  //         <div>
+  //           <div className="font-sans font-bold text-neutral-600 mt-2">
+  //             {place.title}
+  //           </div>
+  //           <div className="font-sans font-normal text-neutral-600 mb-2  text-xs ">
+  //             {place.description}
+  //           </div>
+  //         </div>
+  //         <div className="flex gap-1">{place.categories.map(category =>
+  //           <div key={category} className='w-fit text-sm'>#{category}</div>
+  //         )}</div>
+  //       </div>
+  //     </div>
+  //   );
 
   return (<div className="max-w-xs w-full group/card" onClick={() => chagePlaceId(place.id)}>
     <div
