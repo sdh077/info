@@ -67,6 +67,14 @@ export function MobileNavigationUl({ navis }: { navis: INavi[] }) {
             </SheetDescription>
           </SheetHeader>
           <ScrollArea className="flex flex-col space-y-2 h-[calc(100vh-8rem)] ">
+            <div className="flex flex-col space-y-3 pt-6">
+              <MobileLink href={`/`}
+                onOpenChange={setOpen}
+                className="text-muted-foreground text-sm"
+              >
+                전체
+              </MobileLink>
+            </div>
             {navis.map((navi, index) => (
               <div key={index} className="flex flex-col space-y-3 pt-6">
                 <MobileLink href={`/?cate=${navi.id}`}

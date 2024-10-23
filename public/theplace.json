@@ -16,7 +16,9 @@
     "timetable": "",
     "description": [],
     "placeLink": "https://map.naver.com/p/entry/place/1547453593",
-    "categories": [],
+    "categories": [
+      "뷰"
+    ],
     "subType": [
       "시청"
     ],
@@ -75,7 +77,10 @@
       "남/녀 화장실 구분"
     ],
     "placeLink": "https://map.naver.com/p/entry/place/1224384502",
-    "categories": [],
+    "categories": [
+      "뷰",
+      "카공"
+    ],
     "subType": [
       "안국"
     ],
@@ -519,7 +524,9 @@
       "무선 인터넷"
     ],
     "placeLink": "https://map.naver.com/p/entry/place/1856920150",
-    "categories": [],
+    "categories": [
+      "원두"
+    ],
     "subType": [
       "서촌"
     ],
@@ -720,7 +727,9 @@
       "포장"
     ],
     "placeLink": "https://map.naver.com/p/entry/place/34412589",
-    "categories": [],
+    "categories": [
+      "디저트"
+    ],
     "subType": [
       "혜화"
     ],
@@ -811,7 +820,9 @@
     "timetable": "",
     "description": [],
     "placeLink": "https://map.naver.com/p/entry/place/1013996143",
-    "categories": [],
+    "categories": [
+      "뷰"
+    ],
     "subType": [
       "후암동"
     ],
@@ -840,7 +851,9 @@
       "무선 인터넷"
     ],
     "placeLink": "https://map.naver.com/p/entry/place/1317049468",
-    "categories": [],
+    "categories": [
+      "카공"
+    ],
     "subType": [
       "공덕"
     ],
@@ -900,7 +913,9 @@
       "남/녀 화장실 구분"
     ],
     "placeLink": "https://map.naver.com/p/entry/place/1956497986",
-    "categories": [],
+    "categories": [
+      "뷰"
+    ],
     "subType": [
       "해방촌"
     ],
@@ -961,7 +976,9 @@
       "주차"
     ],
     "placeLink": "https://map.naver.com/p/entry/place/1689645997",
-    "categories": [],
+    "categories": [
+      "카공"
+    ],
     "subType": [
       "광진구"
     ],
@@ -1024,7 +1041,10 @@
       "간편결제"
     ],
     "placeLink": "https://map.naver.com/p/entry/place/1000833099",
-    "categories": [],
+    "categories": [
+      "원두",
+      "카공"
+    ],
     "subType": [
       "은평구"
     ],
@@ -1056,7 +1076,9 @@
       "포장"
     ],
     "placeLink": "https://map.naver.com/p/entry/place/460950912",
-    "categories": [],
+    "categories": [
+      "카공"
+    ],
     "subType": [
       "신분당선"
     ],
@@ -1149,7 +1171,9 @@
       "발렛파킹"
     ],
     "placeLink": "https://map.naver.com/p/entry/place/38328122",
-    "categories": [],
+    "categories": [
+      "디저트"
+    ],
     "subType": [
       "압구정"
     ],
@@ -1179,7 +1203,9 @@
       "남/녀 화장실 구분"
     ],
     "placeLink": "https://map.naver.com/p/entry/place/1341393737",
-    "categories": [],
+    "categories": [
+      "원두"
+    ],
     "subType": [
       "압구정"
     ],
@@ -1208,7 +1234,9 @@
       "발렛파킹"
     ],
     "placeLink": "https://map.naver.com/p/entry/place/1619195092",
-    "categories": [],
+    "categories": [
+      "뷰"
+    ],
     "subType": [
       "합정"
     ],
@@ -1239,7 +1267,9 @@
       "반려동물 동반"
     ],
     "placeLink": "https://map.naver.com/p/entry/place/35431552",
-    "categories": [],
+    "categories": [
+      "원두"
+    ],
     "subType": [
       "합정"
     ],
@@ -1271,7 +1301,9 @@
       "주차"
     ],
     "placeLink": "https://map.naver.com/p/entry/place/13316501",
-    "categories": [],
+    "categories": [
+      "원두"
+    ],
     "subType": [
       "합정"
     ],
@@ -1355,7 +1387,10 @@
       "포장"
     ],
     "placeLink": "https://map.naver.com/p/entry/place/1634083509",
-    "categories": [],
+    "categories": [
+      "뷰",
+      "카공"
+    ],
     "subType": [
       "망원"
     ],
@@ -1384,7 +1419,10 @@
       "무선 인터넷"
     ],
     "placeLink": "https://map.naver.com/p/entry/place/1088501208",
-    "categories": [],
+    "categories": [
+      "원두",
+      "카공"
+    ],
     "subType": [
       "망원"
     ],
@@ -1447,7 +1485,9 @@
       "간편결제"
     ],
     "placeLink": "https://map.naver.com/p/entry/place/21856573",
-    "categories": [],
+    "categories": [
+      "원두"
+    ],
     "subType": [
       "연남,연희"
     ],
@@ -1478,7 +1518,10 @@
       "예약"
     ],
     "placeLink": "https://map.naver.com/p/entry/place/1432332591",
-    "categories": [],
+    "categories": [
+      "뷰",
+      "카공"
+    ],
     "subType": [
       "공덕"
     ],
