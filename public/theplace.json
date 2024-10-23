@@ -1,0 +1,1490 @@
+[
+  {
+    "id": 1547453593,
+    "source": "",
+    "cate": "중구",
+    "type": "",
+    "images": [
+      "1547453593.jpg",
+      "1547453593-2.jpg"
+    ],
+    "title": "커피앤시가렛",
+    "subTitle": "카페",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 중구 서소문로 116 유원빌딩17층 1706호",
+    "timetable": "",
+    "description": [],
+    "placeLink": "https://map.naver.com/p/entry/place/1547453593",
+    "categories": [],
+    "subType": [
+      "시청"
+    ],
+    "position": {
+      "px": 126.9740609,
+      "py": 37.5626729
+    }
+  },
+  {
+    "id": 1741938125,
+    "source": "",
+    "cate": "종로구",
+    "type": "",
+    "images": [
+      "1741938125.jpg",
+      "1741938125-2.jpg"
+    ],
+    "title": "아티스트베이커리 안국",
+    "subTitle": "베이커리",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 종로구 율곡로 45 1층",
+    "timetable": "",
+    "description": [
+      "포장",
+      "반려동물 동반"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1741938125",
+    "categories": [],
+    "subType": [
+      "안국"
+    ],
+    "position": {
+      "px": 126.9843435,
+      "py": 37.5762555
+    }
+  },
+  {
+    "id": 1224384502,
+    "source": "",
+    "cate": "종로구",
+    "type": "",
+    "images": [
+      "1224384502.jpg",
+      "1224384502-2.jpg"
+    ],
+    "title": "텅",
+    "subTitle": "카페",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 종로구 율곡로 82 701호",
+    "timetable": "",
+    "description": [
+      "무선 인터넷",
+      "포장",
+      "남/녀 화장실 구분"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1224384502",
+    "categories": [],
+    "subType": [
+      "안국"
+    ],
+    "position": {
+      "px": 126.9881544,
+      "py": 37.5771872
+    }
+  },
+  {
+    "id": 715782489,
+    "source": "",
+    "cate": "종로구",
+    "type": "",
+    "images": [
+      "715782489.jpg",
+      "715782489-2.jpg"
+    ],
+    "title": "프릳츠 원서점",
+    "subTitle": "카페",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 종로구 율곡로 83 아라리오 뮤지엄",
+    "timetable": "",
+    "description": [
+      "무선 인터넷",
+      "남/녀 화장실 구분",
+      "포장"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/715782489",
+    "categories": [],
+    "subType": [
+      "안국"
+    ],
+    "position": {
+      "px": 126.988491,
+      "py": 37.577669
+    }
+  },
+  {
+    "id": 1226668619,
+    "source": "",
+    "cate": "종로구",
+    "type": "",
+    "images": [
+      "1226668619.jpg",
+      "1226668619-2.jpg"
+    ],
+    "title": "그린마일커피 북촌점",
+    "subTitle": "카페",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 종로구 북촌로 64 1층,2층,3층(루프탑)",
+    "timetable": "",
+    "description": [
+      "무선 인터넷",
+      "단체 이용 가능",
+      "포장"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1226668619",
+    "categories": [],
+    "subType": [
+      "안국"
+    ],
+    "position": {
+      "px": 126.9852299,
+      "py": 37.5824372
+    }
+  },
+  {
+    "id": 1657702588,
+    "source": "",
+    "cate": "종로구",
+    "type": "",
+    "images": [
+      "1657702588.jpg",
+      "1657702588-2.jpg"
+    ],
+    "title": "커피사는세상",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 종로구 창덕궁길 73 노무현시민센터 3F 커피사는세상",
+    "timetable": "",
+    "description": [
+      "무선 인터넷",
+      "남/녀 화장실 구분",
+      "포장"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1657702588",
+    "categories": [],
+    "subType": [
+      "안국"
+    ],
+    "position": {
+      "px": 126.9889311,
+      "py": 37.5810174
+    }
+  },
+  {
+    "id": 1414582523,
+    "source": "",
+    "cate": "종로구",
+    "type": "",
+    "images": [
+      "1414582523.jpg",
+      "1414582523-2.jpg"
+    ],
+    "title": "오키드고멧 안국",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 종로구 창덕궁길 35 2층 오키드고멧 안국",
+    "timetable": "",
+    "description": [
+      "포장",
+      "예약",
+      "단체 이용 가능",
+      "무선 인터넷",
+      "남/녀 화장실 구분"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1414582523",
+    "categories": [],
+    "subType": [
+      "안국"
+    ],
+    "position": {
+      "px": 126.9891377,
+      "py": 37.5791065
+    }
+  },
+  {
+    "id": 20713693,
+    "source": "",
+    "cate": "종로구",
+    "type": "",
+    "images": [
+      "20713693.jpg",
+      "20713693-2.jpg"
+    ],
+    "title": "커피브론즈",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 종로구 율곡로5길 20 1층",
+    "timetable": "",
+    "description": [
+      "무선 인터넷",
+      "포장",
+      "간편결제"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/20713693",
+    "categories": [],
+    "subType": [
+      "안국"
+    ],
+    "position": {
+      "px": 126.9848785,
+      "py": 37.5771174
+    }
+  },
+  {
+    "id": 1212613272,
+    "source": "",
+    "cate": "종로구",
+    "type": "",
+    "images": [
+      "1212613272.jpg",
+      "1212613272-2.jpg"
+    ],
+    "title": "비지터",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 종로구 옥인길 32-3 1층 visitor",
+    "timetable": "",
+    "description": [
+      "포장",
+      "무선 인터넷",
+      "반려동물 동반",
+      "간편결제"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1212613272",
+    "categories": [],
+    "subType": [
+      "서촌"
+    ],
+    "position": {
+      "px": 126.9669065,
+      "py": 37.5810753
+    }
+  },
+  {
+    "id": 1379886719,
+    "source": "",
+    "cate": "종로구",
+    "type": "",
+    "images": [
+      "1379886719.jpg",
+      "1379886719-2.jpg"
+    ],
+    "title": "오버트서울",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 종로구 필운대로 3",
+    "timetable": "",
+    "description": [
+      "포장"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1379886719",
+    "categories": [],
+    "subType": [
+      "서촌"
+    ],
+    "position": {
+      "px": 126.969048,
+      "py": 37.5764766
+    }
+  },
+  {
+    "id": 1447473292,
+    "source": "",
+    "cate": "종로구",
+    "type": "",
+    "images": [
+      "1447473292.jpg",
+      "1447473292-2.jpg"
+    ],
+    "title": "FOLKI",
+    "subTitle": "공방",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 종로구 사직로9길 6",
+    "timetable": "",
+    "description": [
+      "예약",
+      "무선 인터넷",
+      "남/녀 화장실 구분",
+      "포장"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1447473292",
+    "categories": [],
+    "subType": [
+      "서촌"
+    ],
+    "position": {
+      "px": 126.9687919,
+      "py": 37.5765157
+    }
+  },
+  {
+    "id": 1717370507,
+    "source": "",
+    "cate": "종로구",
+    "type": "",
+    "images": [
+      "1717370507.jpg",
+      "1717370507-2.jpg"
+    ],
+    "title": "나흐바",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 종로구 필운대로 42",
+    "timetable": "",
+    "description": [],
+    "placeLink": "https://map.naver.com/p/entry/place/1717370507",
+    "categories": [],
+    "subType": [
+      "서촌"
+    ],
+    "position": {
+      "px": 126.9688246,
+      "py": 37.5797753
+    }
+  },
+  {
+    "id": 1276434255,
+    "source": "",
+    "cate": "종로구",
+    "type": "",
+    "images": [
+      "1276434255.jpg",
+      "1276434255-2.jpg"
+    ],
+    "title": "세이지핀치",
+    "subTitle": "브런치",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 종로구 필운대로1길 8 1층 sagefinch",
+    "timetable": "",
+    "description": [],
+    "placeLink": "https://map.naver.com/p/entry/place/1276434255",
+    "categories": [],
+    "subType": [
+      "서촌"
+    ],
+    "position": {
+      "px": 126.9689774,
+      "py": 37.5774485
+    }
+  },
+  {
+    "id": 1306088531,
+    "source": "",
+    "cate": "종로구",
+    "type": "",
+    "images": [
+      "1306088531.jpg",
+      "1306088531-2.jpg"
+    ],
+    "title": "에스알이커피룸",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 종로구 필운대로1길 17 1층",
+    "timetable": "",
+    "description": [
+      "단체 이용 가능",
+      "포장",
+      "배달",
+      "반려동물 동반",
+      "주차"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1306088531",
+    "categories": [],
+    "subType": [
+      "서촌"
+    ],
+    "position": {
+      "px": 126.9685195,
+      "py": 37.5776303
+    }
+  },
+  {
+    "id": 1142689405,
+    "source": "",
+    "cate": "종로구",
+    "type": "",
+    "images": [
+      "1142689405.jpg",
+      "1142689405-2.jpg"
+    ],
+    "title": "스태픽스",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 종로구 사직로9길 22 102호",
+    "timetable": "",
+    "description": [
+      "무선 인터넷",
+      "반려동물 동반",
+      "남/녀 화장실 구분",
+      "장애인 편의시설",
+      "포장"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1142689405",
+    "categories": [],
+    "subType": [
+      "서촌"
+    ],
+    "position": {
+      "px": 126.9680306,
+      "py": 37.5774705
+    }
+  },
+  {
+    "id": 1145452704,
+    "source": "",
+    "cate": "종로구",
+    "type": "",
+    "images": [
+      "1145452704.jpg",
+      "1145452704-2.jpg"
+    ],
+    "title": "도틀",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 종로구 필운대로 25-2 1층",
+    "timetable": "",
+    "description": [
+      "포장"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1145452704",
+    "categories": [],
+    "subType": [
+      "서촌"
+    ],
+    "position": {
+      "px": 126.969051,
+      "py": 37.5783738
+    }
+  },
+  {
+    "id": 1949418442,
+    "source": "",
+    "cate": "종로구",
+    "type": "",
+    "images": [
+      "1949418442.jpg",
+      "1949418442-2.jpg"
+    ],
+    "title": "베란다",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 종로구 사직로10길 9-4",
+    "timetable": "",
+    "description": [
+      "반려동물 동반"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1949418442",
+    "categories": [],
+    "subType": [
+      "서촌"
+    ],
+    "position": {
+      "px": 126.9705503,
+      "py": 37.5753694
+    }
+  },
+  {
+    "id": 1856920150,
+    "source": "",
+    "cate": "종로구",
+    "type": "",
+    "images": [
+      "1856920150.jpg",
+      "1856920150-2.jpg"
+    ],
+    "title": "인텔리젠시아 커피 서촌",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 종로구 자하문로 34 1층",
+    "timetable": "",
+    "description": [
+      "포장",
+      "남/녀 화장실 구분",
+      "무선 인터넷"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1856920150",
+    "categories": [],
+    "subType": [
+      "서촌"
+    ],
+    "position": {
+      "px": 126.9717542,
+      "py": 37.5791114
+    }
+  },
+  {
+    "id": 1593690876,
+    "source": "",
+    "cate": "종로구",
+    "type": "",
+    "images": [
+      "1593690876.jpg",
+      "1593690876-2.jpg"
+    ],
+    "title": "오커쇼어",
+    "subTitle": "베이커리",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 종로구 사직로 130 지상1층 2호",
+    "timetable": "",
+    "description": [
+      "무선 인터넷",
+      "포장",
+      "단체 이용 가능",
+      "반려동물 동반",
+      "남/녀 화장실 구분",
+      "간편결제",
+      "주차"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1593690876",
+    "categories": [],
+    "subType": [
+      "서촌"
+    ],
+    "position": {
+      "px": 126.9733437,
+      "py": 37.5753767
+    }
+  },
+  {
+    "id": 1727850641,
+    "source": "",
+    "cate": "종로구",
+    "type": "",
+    "images": [
+      "1727850641.jpg",
+      "1727850641-2.jpg"
+    ],
+    "title": "마녹",
+    "subTitle": "카페",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 종로구 계동길 84-3 1층 102호",
+    "timetable": "",
+    "description": [],
+    "placeLink": "https://map.naver.com/p/entry/place/1727850641",
+    "categories": [],
+    "subType": [
+      "안국"
+    ],
+    "position": {
+      "px": 126.9868504,
+      "py": 37.5812938
+    }
+  },
+  {
+    "id": 1798700410,
+    "source": "",
+    "cate": "중구",
+    "type": "",
+    "images": [
+      "1798700410.jpg",
+      "1798700410-2.jpg"
+    ],
+    "title": "니트커피",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 중구 소월로2길 30 1층 107호",
+    "timetable": "",
+    "description": [
+      "포장",
+      "남/녀 화장실 구분",
+      "반려동물 동반",
+      "간편결제",
+      "주차"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1798700410",
+    "categories": [],
+    "subType": [
+      "서울역"
+    ],
+    "position": {
+      "px": 126.9759735,
+      "py": 37.5537406
+    }
+  },
+  {
+    "id": 1283997031,
+    "source": "",
+    "cate": "중구",
+    "type": "",
+    "images": [
+      "1283997031.jpg",
+      "1283997031-2.jpg"
+    ],
+    "title": "평균율",
+    "subTitle": "바(BAR)",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 중구 충무로4길 3 올디스 타코 건물 2층",
+    "timetable": "",
+    "description": [
+      "남/녀 화장실 구분",
+      "예약"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1283997031",
+    "categories": [],
+    "subType": [
+      "을지로"
+    ],
+    "position": {
+      "px": 126.992969,
+      "py": 37.5650897
+    }
+  },
+  {
+    "id": 11716359,
+    "source": "",
+    "cate": "종로구",
+    "type": "",
+    "images": [
+      "11716359.jpg",
+      "11716359-2.jpg"
+    ],
+    "title": "학림",
+    "subTitle": "카페",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 종로구 대학로 119 2층 학림카페",
+    "timetable": "",
+    "description": [],
+    "placeLink": "https://map.naver.com/p/entry/place/11716359",
+    "categories": [],
+    "subType": [
+      "혜화"
+    ],
+    "position": {
+      "px": 127.0016561,
+      "py": 37.5819499
+    }
+  },
+  {
+    "id": 1377831784,
+    "source": "",
+    "cate": "종로구",
+    "type": "",
+    "images": [
+      "1377831784.jpg",
+      "1377831784-2.jpg"
+    ],
+    "title": "서화커피",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 종로구 대학로9가길 8 1층 서화커피",
+    "timetable": "",
+    "description": [],
+    "placeLink": "https://map.naver.com/p/entry/place/1377831784",
+    "categories": [],
+    "subType": [
+      "혜화"
+    ],
+    "position": {
+      "px": 127.0000161,
+      "py": 37.5815932
+    }
+  },
+  {
+    "id": 34412589,
+    "source": "",
+    "cate": "종로구",
+    "type": "",
+    "images": [
+      "34412589.jpg",
+      "34412589-2.jpg"
+    ],
+    "title": "스노브 대학로점",
+    "subTitle": "케이크전문",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 종로구 대학로11길 12",
+    "timetable": "",
+    "description": [
+      "포장"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/34412589",
+    "categories": [],
+    "subType": [
+      "혜화"
+    ],
+    "position": {
+      "px": 127.001086,
+      "py": 37.5824151
+    }
+  },
+  {
+    "id": 37691225,
+    "source": "",
+    "cate": "종로구",
+    "type": "",
+    "images": [
+      "37691225.jpg",
+      "37691225-2.jpg"
+    ],
+    "title": "수도원",
+    "subTitle": "술집",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 종로구 동숭3길 16 지하1층",
+    "timetable": "",
+    "description": [
+      "무선 인터넷",
+      "남/녀 화장실 구분",
+      "단체 이용 가능",
+      "예약"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/37691225",
+    "categories": [],
+    "subType": [
+      "혜화"
+    ],
+    "position": {
+      "px": 127.0047776,
+      "py": 37.5817524
+    }
+  },
+  {
+    "id": 1487216698,
+    "source": "",
+    "cate": "용산구",
+    "type": "",
+    "images": [
+      "1487216698.jpg",
+      "1487216698-2.jpg"
+    ],
+    "title": "콤포타블 남산",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 용산구 두텁바위로60길 49 대원정사 별관 4층",
+    "timetable": "",
+    "description": [
+      "단체 이용 가능",
+      "포장",
+      "배달",
+      "반려동물 동반",
+      "남/녀 화장실 구분",
+      "무선 인터넷",
+      "주차"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1487216698",
+    "categories": [],
+    "subType": [
+      "후암동"
+    ],
+    "position": {
+      "px": 126.9834248,
+      "py": 37.54932
+    }
+  },
+  {
+    "id": 1013996143,
+    "source": "",
+    "cate": "용산구",
+    "type": "",
+    "images": [
+      "1013996143.jpg",
+      "1013996143-2.jpg"
+    ],
+    "title": "무니",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 용산구 신흥로20길 37 카페 무니",
+    "timetable": "",
+    "description": [],
+    "placeLink": "https://map.naver.com/p/entry/place/1013996143",
+    "categories": [],
+    "subType": [
+      "후암동"
+    ],
+    "position": {
+      "px": 126.9838713,
+      "py": 37.5472185
+    }
+  },
+  {
+    "id": 1317049468,
+    "source": "",
+    "cate": "마포구",
+    "type": "",
+    "images": [
+      "1317049468.jpg",
+      "1317049468-2.jpg"
+    ],
+    "title": "나이스워크투데이",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 마포구 백범로10길 26 2F",
+    "timetable": "",
+    "description": [
+      "포장",
+      "무선 인터넷"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1317049468",
+    "categories": [],
+    "subType": [
+      "공덕"
+    ],
+    "position": {
+      "px": 126.9397607,
+      "py": 37.5482359
+    }
+  },
+  {
+    "id": 1035190165,
+    "source": "",
+    "cate": "용산구",
+    "type": "",
+    "images": [
+      "1035190165.jpg",
+      "1035190165-2.jpg"
+    ],
+    "title": "빌라커피바",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 용산구 신흥로 101-9 2층",
+    "timetable": "",
+    "description": [
+      "포장",
+      "무선 인터넷",
+      "반려동물 동반",
+      "단체 이용 가능"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1035190165",
+    "categories": [],
+    "subType": [
+      "해방촌"
+    ],
+    "position": {
+      "px": 126.9849111,
+      "py": 37.5447068
+    }
+  },
+  {
+    "id": 1956497986,
+    "source": "",
+    "cate": "용산구",
+    "type": "",
+    "images": [
+      "1956497986.jpg",
+      "1956497986-2.jpg"
+    ],
+    "title": "카페타자기",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 용산구 신흥로 97-5 내제 2층호",
+    "timetable": "",
+    "description": [
+      "무선 인터넷",
+      "남/녀 화장실 구분"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1956497986",
+    "categories": [],
+    "subType": [
+      "해방촌"
+    ],
+    "position": {
+      "px": 126.9849471,
+      "py": 37.5452049
+    }
+  },
+  {
+    "id": 1681935587,
+    "source": "",
+    "cate": "용산구",
+    "type": "",
+    "images": [
+      "1681935587.jpg",
+      "1681935587-2.jpg"
+    ],
+    "title": "업스탠딩",
+    "subTitle": "카페",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 용산구 신흥로 99-11 Upstanding Coffee",
+    "timetable": "",
+    "description": [
+      "무선 인터넷"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1681935587",
+    "categories": [],
+    "subType": [
+      "해방촌"
+    ],
+    "position": {
+      "px": 126.984968,
+      "py": 37.5449601
+    }
+  },
+  {
+    "id": 1689645997,
+    "source": "",
+    "cate": "광진구",
+    "type": "",
+    "images": [
+      "1689645997.jpg",
+      "1689645997-2.jpg"
+    ],
+    "title": "보난자커피 군자점",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 광진구 능동로 239-1 B동 1층 보난자커피",
+    "timetable": "",
+    "description": [
+      "단체 이용 가능",
+      "포장",
+      "무선 인터넷",
+      "남/녀 화장실 구분",
+      "배달",
+      "주차"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1689645997",
+    "categories": [],
+    "subType": [
+      "광진구"
+    ],
+    "position": {
+      "px": 127.0763031,
+      "py": 37.5516342
+    }
+  },
+  {
+    "id": 1998320142,
+    "source": "",
+    "cate": "성동구",
+    "type": "",
+    "images": [
+      "1998320142.jpg",
+      "1998320142-2.jpg"
+    ],
+    "title": "송정커피",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 성동구 송정길 82-3 송정커피",
+    "timetable": "",
+    "description": [
+      "단체 이용 가능",
+      "무선 인터넷",
+      "반려동물 동반",
+      "남/녀 화장실 구분"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1998320142",
+    "categories": [],
+    "subType": [
+      "송정동"
+    ],
+    "position": {
+      "px": 127.0671265,
+      "py": 37.5522888
+    }
+  },
+  {
+    "id": 1000833099,
+    "source": "",
+    "cate": "은평구",
+    "type": "",
+    "images": [
+      "1000833099.jpg",
+      "1000833099-2.jpg"
+    ],
+    "title": "파브스커피",
+    "subTitle": "카페",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 은평구 증산로15가길 15 1층 파브스커피",
+    "timetable": "",
+    "description": [
+      "포장",
+      "무선 인터넷",
+      "예약",
+      "반려동물 동반",
+      "간편결제"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1000833099",
+    "categories": [],
+    "subType": [
+      "은평구"
+    ],
+    "position": {
+      "px": 126.9117742,
+      "py": 37.5903914
+    }
+  },
+  {
+    "id": 460950912,
+    "source": "",
+    "cate": "서초구",
+    "type": "",
+    "images": [
+      "460950912.jpg",
+      "460950912-2.jpg"
+    ],
+    "title": "프릳츠 양재점",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 서초구 강남대로37길 24-11",
+    "timetable": "",
+    "description": [
+      "무선 인터넷",
+      "남/녀 화장실 구분",
+      "단체 이용 가능",
+      "반려동물 동반",
+      "포장"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/460950912",
+    "categories": [],
+    "subType": [
+      "신분당선"
+    ],
+    "position": {
+      "px": 127.0322383,
+      "py": 37.4853569
+    }
+  },
+  {
+    "id": 1478381424,
+    "source": "",
+    "cate": "강남구",
+    "type": "",
+    "images": [
+      "1478381424.jpg",
+      "1478381424-2.jpg"
+    ],
+    "title": "정월",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 강남구 강남대로102길 46 1층",
+    "timetable": "",
+    "description": [
+      "단체 이용 가능",
+      "무선 인터넷",
+      "반려동물 동반",
+      "포장",
+      "간편결제",
+      "주차",
+      "발렛파킹"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1478381424",
+    "categories": [],
+    "subType": [
+      "신분당선"
+    ],
+    "position": {
+      "px": 127.0286442,
+      "py": 37.5036729
+    }
+  },
+  {
+    "id": 1643374390,
+    "source": "",
+    "cate": "강남구",
+    "type": "",
+    "images": [
+      "1643374390.jpg",
+      "1643374390-2.jpg"
+    ],
+    "title": "레자미오네뜨",
+    "subTitle": "베이커리",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 강남구 학동로5길 5 1층",
+    "timetable": "",
+    "description": [
+      "포장"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1643374390",
+    "categories": [],
+    "subType": [
+      "신분당선"
+    ],
+    "position": {
+      "px": 127.0229232,
+      "py": 37.5120871
+    }
+  },
+  {
+    "id": 38328122,
+    "source": "",
+    "cate": "강남구",
+    "type": "",
+    "images": [
+      "38328122.jpg",
+      "38328122-2.jpg"
+    ],
+    "title": "SADDLER HAUS",
+    "subTitle": "와플",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 강남구 도산대로17길 10 B1 새들러하우스",
+    "timetable": "",
+    "description": [
+      "무선 인터넷",
+      "포장",
+      "주차",
+      "발렛파킹"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/38328122",
+    "categories": [],
+    "subType": [
+      "압구정"
+    ],
+    "position": {
+      "px": 127.0249425,
+      "py": 37.5193887
+    }
+  },
+  {
+    "id": 1341393737,
+    "source": "",
+    "cate": "강남구",
+    "type": "",
+    "images": [
+      "1341393737.jpg",
+      "1341393737-2.jpg"
+    ],
+    "title": "벙커컴퍼니 압구정점",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 강남구 언주로167길 23 1,2층",
+    "timetable": "",
+    "description": [
+      "포장",
+      "무선 인터넷",
+      "남/녀 화장실 구분"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1341393737",
+    "categories": [],
+    "subType": [
+      "압구정"
+    ],
+    "position": {
+      "px": 127.0312294,
+      "py": 37.5263818
+    }
+  },
+  {
+    "id": 1619195092,
+    "source": "",
+    "cate": "마포구",
+    "type": "",
+    "images": [
+      "1619195092.jpg",
+      "1619195092-2.jpg"
+    ],
+    "title": "TYPE 한강점",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 마포구 토정로 128 서강8경빌딩 5층 TYPE HANGANG",
+    "timetable": "",
+    "description": [
+      "주차",
+      "발렛파킹"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1619195092",
+    "categories": [],
+    "subType": [
+      "합정"
+    ],
+    "position": {
+      "px": 126.9253568,
+      "py": 37.5449567
+    }
+  },
+  {
+    "id": 35431552,
+    "source": "",
+    "cate": "마포구",
+    "type": "",
+    "images": [
+      "35431552.jpg",
+      "35431552-2.jpg"
+    ],
+    "title": "빈브라더스 합정",
+    "subTitle": "카페",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 마포구 토정로 35-1",
+    "timetable": "",
+    "description": [
+      "무선 인터넷",
+      "남/녀 화장실 구분",
+      "포장",
+      "반려동물 동반"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/35431552",
+    "categories": [],
+    "subType": [
+      "합정"
+    ],
+    "position": {
+      "px": 126.9149771,
+      "py": 37.5456938
+    }
+  },
+  {
+    "id": 13316501,
+    "source": "",
+    "cate": "마포구",
+    "type": "",
+    "images": [
+      "13316501.jpg",
+      "13316501-2.jpg"
+    ],
+    "title": "앤트러사이트 합정점",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 마포구 토정로5길 10",
+    "timetable": "",
+    "description": [
+      "남/녀 화장실 구분",
+      "포장",
+      "반려동물 동반",
+      "무선 인터넷",
+      "주차"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/13316501",
+    "categories": [],
+    "subType": [
+      "합정"
+    ],
+    "position": {
+      "px": 126.9184372,
+      "py": 37.5458323
+    }
+  },
+  {
+    "id": 1269161573,
+    "source": "",
+    "cate": "마포구",
+    "type": "",
+    "images": [
+      "1269161573.jpg",
+      "1269161573-2.jpg"
+    ],
+    "title": "종이잡지클럽",
+    "subTitle": "서점",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 마포구 양화로8길 32-15 지하 1층",
+    "timetable": "",
+    "description": [],
+    "placeLink": "https://map.naver.com/p/entry/place/1269161573",
+    "categories": [],
+    "subType": [
+      "합정"
+    ],
+    "position": {
+      "px": 126.915729,
+      "py": 37.5493447
+    }
+  },
+  {
+    "id": 1156218786,
+    "source": "",
+    "cate": "마포구",
+    "type": "",
+    "images": [
+      "1156218786.jpg",
+      "1156218786-2.jpg"
+    ],
+    "title": "LP 메모리",
+    "subTitle": "맥주,호프",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 마포구 월드컵로3길 27 2층",
+    "timetable": "",
+    "description": [
+      "간편결제"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1156218786",
+    "categories": [],
+    "subType": [
+      "합정"
+    ],
+    "position": {
+      "px": 126.9112561,
+      "py": 37.5502575
+    }
+  },
+  {
+    "id": 1634083509,
+    "source": "",
+    "cate": "마포구",
+    "type": "",
+    "images": [
+      "1634083509.jpg",
+      "1634083509-2.jpg"
+    ],
+    "title": "카페꼼마 합정점",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 마포구 포은로 49",
+    "timetable": "",
+    "description": [
+      "무선 인터넷",
+      "남/녀 화장실 구분",
+      "포장"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1634083509",
+    "categories": [],
+    "subType": [
+      "망원"
+    ],
+    "position": {
+      "px": 126.9067777,
+      "py": 37.551906
+    }
+  },
+  {
+    "id": 1088501208,
+    "source": "",
+    "cate": "마포구",
+    "type": "",
+    "images": [
+      "1088501208.jpg",
+      "1088501208-2.jpg"
+    ],
+    "title": "앤트러사이트 서교점",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 마포구 월드컵로12길 11",
+    "timetable": "",
+    "description": [
+      "남/녀 화장실 구분",
+      "무선 인터넷"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1088501208",
+    "categories": [],
+    "subType": [
+      "망원"
+    ],
+    "position": {
+      "px": 126.9116843,
+      "py": 37.5555156
+    }
+  },
+  {
+    "id": 97642371,
+    "source": "",
+    "cate": "마포구",
+    "type": "",
+    "images": [
+      "97642371.jpg",
+      "97642371-2.jpg"
+    ],
+    "title": "콘하스 연남점",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 마포구 연희로 1-1 1,2층",
+    "timetable": "",
+    "description": [
+      "무선 인터넷",
+      "포장",
+      "단체 이용 가능"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/97642371",
+    "categories": [],
+    "subType": [
+      "연남,연희"
+    ],
+    "position": {
+      "px": 126.9261488,
+      "py": 37.5590159
+    }
+  },
+  {
+    "id": 21856573,
+    "source": "",
+    "cate": "마포구",
+    "type": "",
+    "images": [
+      "21856573.jpg",
+      "21856573-2.jpg"
+    ],
+    "title": "커피리브레 연남점",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 마포구 성미산로32길 20-5",
+    "timetable": "",
+    "description": [
+      "무선 인터넷",
+      "포장",
+      "남/녀 화장실 구분",
+      "단체 이용 가능",
+      "유아의자",
+      "간편결제"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/21856573",
+    "categories": [],
+    "subType": [
+      "연남,연희"
+    ],
+    "position": {
+      "px": 126.9237657,
+      "py": 37.5636887
+    }
+  },
+  {
+    "id": 1432332591,
+    "source": "",
+    "cate": "마포구",
+    "type": "",
+    "images": [
+      "1432332591.jpg",
+      "1432332591-2.jpg"
+    ],
+    "title": "채그로",
+    "subTitle": "북카페",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 마포구 마포대로4다길 31",
+    "timetable": "",
+    "description": [
+      "주차",
+      "남/녀 화장실 구분",
+      "무선 인터넷",
+      "예약"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1432332591",
+    "categories": [],
+    "subType": [
+      "공덕"
+    ],
+    "position": {
+      "px": 126.9442193,
+      "py": 37.5356886
+    }
+  }
+]

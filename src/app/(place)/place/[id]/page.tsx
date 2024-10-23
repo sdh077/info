@@ -3,7 +3,7 @@ import IconWrapper from "@/components/IconWrapper";
 import { IPlace } from "@/interface/place";
 import Image from "next/image";
 import { BsCardText, BsGeoAlt, BsHeart, BsInstagram, BsMap, BsPeople, BsShare, BsTable } from "react-icons/bs";
-import places from '@/data/theplace.json'
+import places from '@public/theplace.json'
 import Link from "next/link";
 
 

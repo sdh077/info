@@ -19,6 +19,9 @@ const FloatingActionButton = dynamic(() => import('@/components/floatingButton')
 export const metadata: Metadata = {
   title: "The Place",
   description: "최고의 장소",
+  keywords: ['데이트 장소',
+    '서울 맛집',
+    '흑백요리사 출연진 식당 리스트', '흑백요리사 가게', '쯔양 리스트', '또간집 리스트', '먹을텐데 리스트']
 };
 
 export default function RootLayout({

@@ -19027,5 +19027,57 @@
       "py": 37.6044867
     },
     "subType": []
+  },
+  {
+    "id": 1717370507,
+    "source": "",
+    "cate": "종로구",
+    "type": "",
+    "images": [
+      "1717370507.jpg",
+      "1717370507-2.jpg"
+    ],
+    "title": "나흐바",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 종로구 필운대로 42",
+    "timetable": "",
+    "description": "카페,디저트",
+    "placeLink": "https://map.naver.com/p/entry/place/1717370507",
+    "categories": [],
+    "subType": [
+      "서촌"
+    ],
+    "position": {
+      "px": "126.9688246",
+      "py": "37.5797753"
+    }
+  },
+  {
+    "id": 1276434255,
+    "source": "",
+    "cate": "종로구",
+    "type": "",
+    "images": [
+      "1276434255.jpg",
+      "1276434255-2.jpg"
+    ],
+    "title": "세이지핀치",
+    "subTitle": "브런치",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 종로구 필운대로1길 8 1층 sagefinch",
+    "timetable": "",
+    "description": "브런치",
+    "placeLink": "https://map.naver.com/p/entry/place/1276434255",
+    "categories": [],
+    "subType": [
+      "서촌"
+    ],
+    "position": {
+      "px": "126.9689774",
+      "py": "37.5774485"
+    }
   }
 ]

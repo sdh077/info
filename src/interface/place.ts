@@ -8,7 +8,7 @@ export interface IPlace extends IInfo {
   snsLink?: string;
   location: string;
   timetable: string;
-  description: string;
+  description: string[];
   placeLink: string;
   categories: string[];
   position: { px: number; py: number }

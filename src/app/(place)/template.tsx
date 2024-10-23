@@ -3,7 +3,7 @@ import React from 'react'
 import { Navigation } from '@/components/navigation';
 import { INavi } from '@/interface/navi';
 import { Container } from '@/components/Container';
-import navis from './navis.json'
+import naviObject from './navis.json'
 import { MobileNavigation } from '@/components/mobilte-navigation';
 import Link from 'next/link';
 
@@ -12,8 +12,9 @@ export default function Template({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const navis = Object.entries(naviObject).map(([id, value]) => ({ id: Number(id), ...value }))
   return (
-    <div>
+    < div >
       <div className='md:hidden block sticky top-0 z-50 bg-background'>
         <MobileNavigation navis={navis} />
       </div>
@@ -29,6 +30,6 @@ export default function Template({
         </div>
       </div>
       {children}
-    </div>
+    </div >
   )
 }
