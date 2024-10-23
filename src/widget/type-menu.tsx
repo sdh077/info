@@ -11,7 +11,6 @@ const TypeMenu = ({ cate }: { cate: { type: string, title: string }[] }) => {
   const searchParams = useSearchParams();
   const params = new URLSearchParams(searchParams.toString());
   const subcate = params.get('subcate') as string
-  if (!cate.length) return <></>
   return (
     <div className="container my-4 flex gap-4 w-full overflow-x-auto border-b-[1px] pb-4">
       {cate.map(({ type, title }) =>

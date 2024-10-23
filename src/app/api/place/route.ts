@@ -3,6 +3,13 @@ import axios from 'axios';
 import * as cheerio from 'cheerio';
 import fs from 'fs';
 import file from '@public/theplace.json'
+import { JsonDB, Config } from 'node-json-db';
+
+
+export async function GET(request: NextRequest) {
+  const db = new JsonDB(new Config("public/theplace.json", true, false, '/'));
+  return Response.json(await db.getData('/'))
+}
 
 export const dynamic = 'force-static'
 function saveJsonToFile<T>(filename: string, jsonData: T) {

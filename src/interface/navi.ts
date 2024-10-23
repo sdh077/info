@@ -8,3 +8,4 @@ export interface INavi {
   cate: string[];
   types: INaviType[];
 }
+export type INaviContent = Omit<INavi, "id">

@@ -35,7 +35,7 @@ export default async function page({
   const filterItem: IPlace[] = totalItems.slice((pageNo - 1) * 9, pageNo * 9) ?? []
   return (
     <div className=''>
-      <TypeMenu cate={subCate} />
+      {!!subCate.length && <TypeMenu cate={subCate} />}
       <div className="relative mt-8 flex flex-col md:flex-row items-start justify-start w-full container gap-8">
         <Tile places={filterItem} />
         <Map places={filterItem} />

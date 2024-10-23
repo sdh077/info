@@ -12,4 +12,5 @@ export interface IPlace extends IInfo {
   placeLink: string;
   categories: string[];
   position: { px: number; py: number }
+  subType: string[]
 }

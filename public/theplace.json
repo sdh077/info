@@ -1591,5 +1591,35 @@
       "px": 127.0027246,
       "py": 37.5659502
     }
+  },
+  {
+    "id": 1232726331,
+    "source": "",
+    "cate": "금천구",
+    "type": "",
+    "images": [
+      "1232726331.jpg",
+      "1232726331-2.jpg"
+    ],
+    "title": "인크커피 가산점",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 금천구 가산디지털2로 127-20",
+    "timetable": "",
+    "description": [
+      "포장",
+      "무선 인터넷",
+      "남/녀 화장실 구분"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1232726331",
+    "categories": [],
+    "subType": [
+      "금천구"
+    ],
+    "position": {
+      "px": 126.878041,
+      "py": 37.4793668
+    }
   }
 ]
