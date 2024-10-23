@@ -39,7 +39,7 @@ export default function RootLayout({
       >
         <FilterStoreProvider>
           {children}
-          <FloatingActionButton />
+          {/* <FloatingActionButton /> */}
         </FilterStoreProvider>
         <SiteFooter />
         <Analytics />

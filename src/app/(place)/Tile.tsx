@@ -6,7 +6,7 @@ import { BentoGrid, BentoGridItem } from '../page/bento';
 
 export default function Tile({ places }: { places: IPlace[] }) {
   return (
-    <BentoGrid className="md:w-[60%] order-2 md:order-none">
+    <BentoGrid className="w-full md:w-[60%] order-2 md:order-none">
       {places.map((place, i) => (
         <BentoGridItem
           key={i}
