@@ -30,9 +30,7 @@ export default async function page({
     <div className=''>
       {!!subCate.length && <TypeMenu cate={subCate} />}
       <div className="relative mt-8 flex flex-col md:flex-row items-start justify-start w-full container gap-8">
-        <div className="md:w-[60%]">
-          <Tile places={places ?? []} />
-        </div>
+        <Tile places={places ?? []} />
         <Map places={places ?? []} />
       </div>
       {!!count && <CustomPagination total={Math.ceil(count / 9)} />}

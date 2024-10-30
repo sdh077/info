@@ -85,7 +85,7 @@ export const BentoGridItem = ({
         <h1 className="font-bold text-md md:text-xl text-right relative z-10">
           {place.title}
         </h1>
-        {id && isBook ? <BsBookmarkFill onClick={() => handleBook(false)} /> : <BsBookmark onClick={() => handleBook(true)} />}
+        {/* {id && isBook ? <BsBookmarkFill onClick={() => handleBook(false)} /> : <BsBookmark onClick={() => handleBook(true)} />} */}
       </div>
     </div>)
 };

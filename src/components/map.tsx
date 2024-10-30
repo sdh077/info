@@ -89,6 +89,7 @@ import {
 } from "@/components/ui/drawer"
 import { IPlace } from '@/interface/place';
 import Image from 'next/image';
+import Link from 'next/link';
 
 export default function Map({ places }: { places: IPlace[] }) {
   const { placeId, chagePlaceId } = useFilterStore(state => state)
@@ -113,6 +114,7 @@ export default function Map({ places }: { places: IPlace[] }) {
           </DrawerDescription>
         </DrawerHeader>
         <DrawerFooter className="pt-2">
+          <Link href={`https://map.naver.com/p/entry/place/${placeId}`}><Button className='w-full bg-[#03AA5A] text-white' variant="outline">지도방문</Button></Link>
           <DrawerClose asChild>
             <Button variant="outline">Cancel</Button>
           </DrawerClose>
