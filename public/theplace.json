@@ -1621,5 +1621,407 @@
       "px": 126.878041,
       "py": 37.4793668
     }
+  },
+  {
+    "id": 1206209216,
+    "source": "",
+    "cate": "중구",
+    "type": "",
+    "images": [
+      "1206209216.jpg",
+      "1206209216-2.jpg"
+    ],
+    "title": "을지빈",
+    "subTitle": "카페",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 중구 을지로14길 21 2층 을지빈",
+    "timetable": "",
+    "description": [
+      "포장",
+      "무선 인터넷",
+      "남/녀 화장실 구분",
+      "단체 이용 가능",
+      "반려동물 동반",
+      "예약"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1206209216",
+    "categories": [],
+    "subType": [
+      "을지로"
+    ],
+    "position": {
+      "px": 126.992204,
+      "py": 37.5652209
+    }
+  },
+  {
+    "id": 56169725,
+    "source": "",
+    "cate": "중구",
+    "type": "",
+    "images": [
+      "56169725.jpg",
+      "56169725-2.jpg"
+    ],
+    "title": "십분의일",
+    "subTitle": "와인",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 중구 수표로 42-9 2층",
+    "timetable": "",
+    "description": [
+      "무선 인터넷",
+      "단체 이용 가능",
+      "포장",
+      "예약",
+      "대기공간"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/56169725",
+    "categories": [],
+    "subType": [
+      "을지로"
+    ],
+    "position": {
+      "px": 126.9902089,
+      "py": 37.5653084
+    }
+  },
+  {
+    "id": 1899768521,
+    "source": "",
+    "cate": "중구",
+    "type": "",
+    "images": [
+      "1899768521.jpg",
+      "1899768521-2.jpg"
+    ],
+    "title": "전축",
+    "subTitle": "와인",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 중구 충무로 23 2층",
+    "timetable": "",
+    "description": [],
+    "placeLink": "https://map.naver.com/p/entry/place/1899768521",
+    "categories": [],
+    "subType": [
+      "을지로"
+    ],
+    "position": {
+      "px": 126.9928084,
+      "py": 37.5632479
+    }
+  },
+  {
+    "id": 1913147400,
+    "source": "",
+    "cate": "중구",
+    "type": "",
+    "images": [
+      "1913147400.jpg",
+      "1913147400-2.jpg"
+    ],
+    "title": "섬광",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 중구 창경궁로1길 38 5층",
+    "timetable": "",
+    "description": [
+      "단체 이용 가능",
+      "예약",
+      "무선 인터넷"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1913147400",
+    "categories": [],
+    "subType": [
+      "을지로"
+    ],
+    "position": {
+      "px": 126.9963437,
+      "py": 37.5625173
+    }
+  },
+  {
+    "id": 1345576006,
+    "source": "",
+    "cate": "종로구",
+    "type": "",
+    "images": [
+      "1345576006.jpg",
+      "1345576006-2.jpg"
+    ],
+    "title": "앵글340",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 종로구 청계천로 155 3층",
+    "timetable": "",
+    "description": [
+      "단체 이용 가능",
+      "무선 인터넷",
+      "포장"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1345576006",
+    "categories": [],
+    "subType": [
+      "을지로"
+    ],
+    "position": {
+      "px": 126.9948124,
+      "py": 37.5688228
+    }
+  },
+  {
+    "id": 1460968982,
+    "source": "",
+    "cate": "중구",
+    "type": "",
+    "images": [
+      "1460968982.jpg",
+      "1460968982-2.jpg"
+    ],
+    "title": "브루클린커피",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 중구 남대문로10길 6 1~2층",
+    "timetable": "",
+    "description": [
+      "단체 이용 가능",
+      "남/녀 화장실 구분",
+      "무선 인터넷"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1460968982",
+    "categories": [],
+    "subType": [
+      "을지로"
+    ],
+    "position": {
+      "px": 126.9831484,
+      "py": 37.5668243
+    }
+  },
+  {
+    "id": 181633326,
+    "source": "",
+    "cate": "중구",
+    "type": "",
+    "images": [
+      "181633326.jpg",
+      "181633326-2.jpg"
+    ],
+    "title": "더 스팟 패뷸러스",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 중구 명동2길 22 1.2층",
+    "timetable": "",
+    "description": [
+      "배달",
+      "포장",
+      "남/녀 화장실 구분",
+      "단체 이용 가능",
+      "무선 인터넷"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/181633326",
+    "categories": [],
+    "subType": [
+      "명동"
+    ],
+    "position": {
+      "px": 126.9826004,
+      "py": 37.5623404
+    }
+  },
+  {
+    "id": 1203199583,
+    "source": "",
+    "cate": "종로구",
+    "type": "",
+    "images": [
+      "1203199583.jpg",
+      "1203199583-2.jpg"
+    ],
+    "title": "ACR 알레그리아 덕수궁 디팰리스점",
+    "subTitle": "카페",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 종로구 새문안로2길 10 덕수궁 디팰리스 1층",
+    "timetable": "",
+    "description": [
+      "포장",
+      "무선 인터넷",
+      "남/녀 화장실 구분",
+      "주차",
+      "단체 이용 가능"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1203199583",
+    "categories": [],
+    "subType": [
+      "광화문"
+    ],
+    "position": {
+      "px": 126.9721561,
+      "py": 37.5688577
+    }
+  },
+  {
+    "id": 1120415606,
+    "source": "",
+    "cate": "종로구",
+    "type": "",
+    "images": [
+      "1120415606.jpg",
+      "1120415606-2.jpg"
+    ],
+    "title": "인덱스카라멜 광화문",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 종로구 종로3길 17 1층",
+    "timetable": "",
+    "description": [
+      "무선 인터넷",
+      "포장",
+      "주차"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1120415606",
+    "categories": [],
+    "subType": [
+      "광화문"
+    ],
+    "position": {
+      "px": 126.9787904,
+      "py": 37.5709312
+    }
+  },
+  {
+    "id": 1597683319,
+    "source": "",
+    "cate": "영등포구",
+    "type": "",
+    "images": [
+      "1597683319.jpg",
+      "1597683319-2.jpg"
+    ],
+    "title": "아파트먼트",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 영등포구 경인로77길 12 2층",
+    "timetable": "",
+    "description": [
+      "포장",
+      "배달",
+      "반려동물 동반",
+      "무선 인터넷",
+      "주차"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1597683319",
+    "categories": [],
+    "subType": [
+      "문래"
+    ],
+    "position": {
+      "px": 126.8929902,
+      "py": 37.5127863
+    }
+  },
+  {
+    "id": 1580770357,
+    "source": "",
+    "cate": "영등포구",
+    "type": "",
+    "images": [
+      "1580770357.jpg",
+      "1580770357-2.jpg"
+    ],
+    "title": "러스트 베이커리",
+    "subTitle": "베이커리",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 영등포구 경인로79길 15 러스트베이커리",
+    "timetable": "",
+    "description": [
+      "포장",
+      "무선 인터넷",
+      "남/녀 화장실 구분",
+      "배달",
+      "반려동물 동반"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1580770357",
+    "categories": [],
+    "subType": [
+      "문래"
+    ],
+    "position": {
+      "px": 126.8937186,
+      "py": 37.5131931
+    }
+  },
+  {
+    "id": 1123371020,
+    "source": "",
+    "cate": "중구",
+    "type": "",
+    "images": [
+      "1123371020.jpg",
+      "1123371020-2.jpg"
+    ],
+    "title": "콘하스 ddp점",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 중구 장충단로 215 1~5층",
+    "timetable": "",
+    "description": [
+      "무선 인터넷",
+      "단체 이용 가능",
+      "남/녀 화장실 구분"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/1123371020",
+    "categories": [
+      "카공"
+    ],
+    "subType": [
+      "동대문"
+    ],
+    "position": {
+      "px": 127.0068049,
+      "py": 37.5638522
+    }
+  },
+  {
+    "id": 36939793,
+    "source": "",
+    "cate": "중구",
+    "type": "",
+    "images": [
+      "36939793.jpg",
+      "36939793-2.jpg"
+    ],
+    "title": "브릭하우스",
+    "subTitle": "카페,디저트",
+    "sns": "",
+    "snsLink": "",
+    "location": "서울 중구 퇴계로 456 1,2층",
+    "timetable": "",
+    "description": [
+      "남/녀 화장실 구분",
+      "포장"
+    ],
+    "placeLink": "https://map.naver.com/p/entry/place/36939793",
+    "categories": [
+      "카공"
+    ],
+    "subType": [
+      "신당"
+    ],
+    "position": {
+      "px": 127.0222095,
+      "py": 37.5652623
+    }
   }
 ]

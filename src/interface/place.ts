@@ -1,3 +1,4 @@
+import { Bookmark } from "./bookmark";
 import { IInfo } from "./info";
 
 export interface IPlace extends IInfo {
@@ -13,4 +14,5 @@ export interface IPlace extends IInfo {
   categories: string[];
   position: { px: number; py: number }
   subType: string[]
+  bookmark?: Bookmark[]
 }

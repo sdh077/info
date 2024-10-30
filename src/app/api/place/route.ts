@@ -2,8 +2,8 @@ import { type NextRequest } from 'next/server'
 import axios from 'axios';
 import * as cheerio from 'cheerio';
 import fs from 'fs';
-import file from '@public/theplace.json'
 import { JsonDB, Config } from 'node-json-db';
+import { createClient } from '@/utils/supabase/server';
 
 
 export async function GET(request: NextRequest) {
@@ -25,6 +25,7 @@ export async function PUT(request: NextRequest) {
   const req = await request.json()
   const ids: string[] = req.ids;
   const subType = req.subType ?? []
+  const categories = req.categories ?? []
   const places: any = []
   for (const id of ids) {
     const url = `https://pcmap.place.naver.com/restaurant/${id}/home`;
@@ -50,8 +51,10 @@ export async function PUT(request: NextRequest) {
         console.error('Error fetching the page:', error);
       });
   }
+  const supabase = createClient()
+
   for (const place of places) {
-    file.push({
+    const { error, data } = await supabase.from('place').insert({
       id: Number(place.id),
       source: '',
       cate: place.roadAddress.split(' ')[1],
@@ -65,12 +68,12 @@ export async function PUT(request: NextRequest) {
       timetable: '',
       description: place.conveniences ?? [],
       placeLink: `https://map.naver.com/p/entry/place/${place.id}`,
-      categories: [],
+      categories,
       subType,
       position: { px: Number(place.coordinate.x), py: Number(place.coordinate.y) }
     })
+
   }
-  saveJsonToFile('theplace.json', file)
   return Response.json(places)
 
 }

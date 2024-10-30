@@ -2,7 +2,6 @@
 import { NAVER_KEY } from '@/lib/constants';
 import { useFilterStore } from '@/stores/filter-store-provider';
 import Script from 'next/script'
-import { renderToString } from 'react-dom/server';
 
 export type NaverMap = naver.maps.Map;
 function MapInfo({ place }: { place: IPlace }) {
@@ -22,10 +21,11 @@ function NMap({ places, place }: { places: IPlace[], place: IPlace | undefined }
     }
   }, [place, places]);
   if (!places.length) return <div></div>
-  const lng = place?.position.py ?? places[0].position.py
-  const lat = place?.position.px ?? places[0].position.px
+  const lat = place?.position.py ?? places[0].position.py
+  const lng = place?.position.px ?? places[0].position.px
+  console.log(lng, lat)
   const initializeMap = () => {
-    const location = new naver.maps.LatLng(lng, lat);
+    const location = new naver.maps.LatLng(lat, lng);
     const mapOptions = {
       center: new window.naver.maps.LatLng(location),
       zoom: 15,

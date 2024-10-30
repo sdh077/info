@@ -1,13 +1,17 @@
 import React from 'react'
 
 import { Navigation } from '@/components/navigation';
-import { INavi } from '@/interface/navi';
+import { getServerSession } from "next-auth/next"
 import { Container } from '@/components/Container';
 import naviObject from './navis.json'
 import { MobileNavigation } from '@/components/mobilte-navigation';
 import Link from 'next/link';
+import dynamic from 'next/dynamic';
+import { LoginDropdown } from '@/components/LoginDropdown';
 
-export default function Template({
+const FloatingActionButton = dynamic(() => import('@/components/floatingButton'), { ssr: false })
+
+export default async function Template({
   children,
 }: Readonly<{
   children: React.ReactNode;
@@ -26,10 +30,12 @@ export default function Template({
               The Place
             </Link>
             <Navigation navis={navis} width='900px' />
+            {/* <LoginDropdown /> */}
           </Container>
         </div>
       </div>
       {children}
+      <FloatingActionButton />
     </div >
   )
 }
