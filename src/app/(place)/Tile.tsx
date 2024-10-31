@@ -4,8 +4,8 @@ import { IPlace } from '@/interface/place';
 import Link from 'next/link';
 import { BentoGrid, BentoGridItem } from '@/page/bento';
 import { createClient } from '@/utils/supabase/client';
-import placeAll from '@public/theplace.json'
 import { useSession } from 'next-auth/react';
+import placeAll from '@public/theplaces.json'
 export default function Tile({ places }: { places: IPlace[] }) {
   const { data } = useSession()
   const id = data?.user?.id

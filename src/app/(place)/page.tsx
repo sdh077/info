@@ -1,7 +1,7 @@
 import { IPlace } from "@/interface/place";
 import Tile from "./Tile";
 import CustomPagination from "@/components/Pagination";
-import navis from './navis.json'
+import navis from '@/lib/navis.json'
 import { cookies } from 'next/headers'
 import Map from "@/components/map";
 import TypeMenu from "@/widget/type-menu";
@@ -23,15 +23,17 @@ export default async function page({
 
   const activeNavi = navis[cate]
   const pfs = cookies().get('pfs')?.value ?? ''
+  const mode = cookies().get('mode')?.value ?? 'cafe'
+  console.log(pfs, mode)
 
-  const { data: places, count } = await getPlace(activeNavi?.cate ?? [], subcate, pfs, pageNo)
+  const { data: places, count } = await getPlace(activeNavi?.cate ?? [], subcate, pfs, mode, pageNo)
   const subCate = cate ? navis[cate]?.types : []
   return (
     <div className=''>
       {!!subCate.length && <TypeMenu cate={subCate} />}
       <div className="relative mt-8 flex flex-col md:flex-row items-start justify-start w-full container gap-8">
         <Tile places={places ?? []} />
-        <Map places={places ?? []} />
+        {/* <Map places={places ?? []} /> */}
       </div>
       {!!count && <CustomPagination total={Math.ceil(count / 9)} />}
     </div>

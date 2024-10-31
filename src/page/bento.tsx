@@ -8,6 +8,7 @@ import { boolean } from "zod";
 import Cookires from 'js-cookie'
 import { createClient } from "@/utils/supabase/client";
 import { useSession } from "next-auth/react";
+import { ArrowBigLeft, ChevronLeft, ChevronRight } from "lucide-react";
 export const BentoGrid = ({
   className,
   children,
@@ -18,8 +19,10 @@ export const BentoGrid = ({
   return (
     <div
       className={cn(
-        "grid grid-cols-1 gap-2 ",
-        'md:grid-cols-3',
+        "grid grid-cols-1",
+        "md:grid-cols-3",
+        "gap-2",
+        'lg:grid-cols-4',
         className
       )}
     >
@@ -33,6 +36,7 @@ export const BentoGridItem = ({
 }: {
   place: IPlace, id: string | undefined
 }) => {
+  const [carousel, setCarousel] = useState(0)
   const { chagePlaceId, placeId } = useFilterStore(state => state)
   const [enter, setEnter] = useState(false)
   const [isBook, setBook] = useState(place.bookmark?.length && place.bookmark[0].use_yn)
@@ -49,25 +53,25 @@ export const BentoGridItem = ({
   }
 
   return (
-    <div className="max-w-xs w-full group/card h-fit" >
+    <div className="w-full group/card h-fit" >
       <div
         className={cn(
-          " cursor-pointer overflow-hidden relative card h-40 rounded-md shadow-xl  max-w-sm mx-auto backgroundImage flex flex-col justify-between",
+          " cursor-pointer overflow-hidden relative card h-80 rounded-md shadow-xl mx-auto backgroundImage flex flex-col justify-between",
           " bg-cover bg-center",
           `bg-[url(/place-image/${place.images[0]})] bg-cover`,
           `before:fixed before:inset-0 before:opacity-0 before:z-[-1]`,
           "hover:after:content-[''] hover:after:absolute hover:after:inset-0  hover:after:opacity-50",
           // "transition-all duration-500"
         )}
-        onClick={() => chagePlaceId(place.id)}
+
         onMouseEnter={() => setEnter(true)}
         onMouseLeave={() => setEnter(false)}
 
         style={{
-          backgroundImage: `url(/place-image/${place.images[enter ? 1 : 0]})`,
+          backgroundImage: `url(/place-image/${place.images[carousel]})`,
         }}
       >
-        <div className="absolute w-full h-full top-0 left-0 group-hover/card:bg-black/30 group-hover/card:scale-[101%] opacity-60"></div>
+        <div className="absolute w-full h-full top-0 left-0 group-hover/card:bg-black/30 group-hover/card:scale-[101%] opacity-60 z-10" onClick={() => chagePlaceId(place.id)}></div>
         <div className="relative text content hover:bg-black/20 w-full h-full p-2 flex flex-col justify-between">
           <div>
             <div className="font-normal text-base relative z-10 text-gray-200">
@@ -80,6 +84,11 @@ export const BentoGridItem = ({
             </div>
           </div>
         </div>
+        {enter ? <>
+          <ChevronLeft className="absolute top-[50%] p-1 left-3 w-4 h-4 bg-gray rounded-full z-10 text-white" onClick={() => setCarousel((carousel + 1) % 2)} />
+          <ChevronRight className="absolute top-[50%] p-1 right-3 w-4 h-4 bg-gray rounded-full z-10 text-white" onClick={() => setCarousel((carousel + 1) % 2)} />
+        </> : <></>
+        }
       </div>
       <div className="flex justify-between items-center">
         <h1 className="font-bold text-md md:text-xl text-right relative z-10">

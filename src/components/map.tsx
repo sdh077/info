@@ -23,7 +23,6 @@ function NMap({ places, place }: { places: IPlace[], place: IPlace | undefined }
   if (!places.length) return <div></div>
   const lat = place?.position.py ?? places[0].position.py
   const lng = place?.position.px ?? places[0].position.px
-  console.log(lng, lat)
   const initializeMap = () => {
     const location = new naver.maps.LatLng(lat, lng);
     const mapOptions = {
@@ -62,7 +61,7 @@ function NMap({ places, place }: { places: IPlace[], place: IPlace | undefined }
     }
   }
   return (
-    <div className='sticky top-32 w-full h-full order-1 md:order-none'>
+    <div className='w-full h-full order-1 md:order-none'>
       <Script
         strategy="afterInteractive"
         type="text/javascript"
@@ -97,9 +96,14 @@ export default function Map({ places }: { places: IPlace[] }) {
   const place = places.find(place => place.id === placeId)
   if (isDesktop) {
     return (
-      <div className='w-[40%] min-w-[500px]'>
-        {place && <div>{place.title}</div>}
+      <div className='w-[40%] min-w-[500px] sticky top-32 '>
         <NMap places={places} place={place} />
+        {place && <div>
+          <div className='text-lg'>{place.title}</div>
+          <div className='text-sm'>{place.location}</div>
+          <Link href={`https://map.naver.com/p/entry/place/${placeId}`}><Button className='w-full bg-[#03AA5A] text-white' variant="outline">지도방문</Button></Link>
+        </div>
+        }
       </div>
     )
   }
