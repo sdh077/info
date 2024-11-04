@@ -45,10 +45,6 @@ export function LoginDropdown() {
         <DropdownMenuLabel>SOCIAL</DropdownMenuLabel>
         <DropdownMenuSeparator />
         <DropdownMenuGroup>
-          <DropdownMenuItem onClick={() => signIn('kakao', { callbackUrl: '/' })}>
-            <Image className="mr-2" src='/image/social/kakao.png' width={16} height={16} alt="naver login" />
-            <span>KAKAO</span>
-          </DropdownMenuItem>
           <DropdownMenuItem
             onClick={() => signIn('naver', { callbackUrl: '/' })}
           >

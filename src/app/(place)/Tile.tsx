@@ -136,7 +136,7 @@ export const ItemView = ({
       <div className='flex justify-between'>
         <div className='flex gap-1'>
           {place.categories.map(sub =>
-            <div>{sub}</div>
+            <div key={sub}>{sub}</div>
           )}
         </div>
         <div className="flex">

@@ -33,6 +33,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <link rel="icon" href="/theplaceLogo.png" sizes="any" />
       <body
         className={cn(
           "min-h-screen bg-background",
