@@ -14,7 +14,7 @@ export default async function Template({
     <div>
       <Header />
       {children}
-      {/* <FloatingActionButton /> */}
+      <FloatingActionButton />
     </div >
   )
 }

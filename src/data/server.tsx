@@ -19,6 +19,16 @@ export const getBookmark = async (id: string): Promise<PostgrestSingleResponse<B
   return await supabase.from('bookmark').select('*').eq("user_id", id,).returns<Bookmark[]>()
 }
 
+export const getPlaceById = async (id: string) => {
+  const supabase = createClient()
+
+  const session = await getServerSession(authOptions)
+  let q = session?.user?.id ?
+    supabase.from('place').select('*, bookmark(*)', { count: 'estimated', head: false }).eq('bookmark.user_id', session.user.id) :
+    supabase.from('place').select('*', { count: 'estimated', head: false })
+  q = q.eq('id', id)
+  return await q.single<IPlace>()
+}
 export const getPlace = async (activeNavi: string[], subcate: string, pfs: string, mode: string = 'cafe', pageNo: number | null) => {
   const supabase = createClient()
 

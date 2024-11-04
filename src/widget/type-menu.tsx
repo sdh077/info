@@ -12,7 +12,7 @@ const TypeMenu = ({ cate }: { cate: { type: string, title: string }[] }) => {
   const params = new URLSearchParams(searchParams.toString());
   const subcate = params.get('subcate') as string
   return (
-    <div className="container my-4 flex gap-4 w-full overflow-x-auto border-b-[1px] pb-4">
+    <div className="container mt-2 flex gap-4 w-full overflow-x-auto">
       {cate.map(({ type, title }) =>
         <Link href={`${pathname}?${queryString("subcate", title)}`} key={title}>
           <Button

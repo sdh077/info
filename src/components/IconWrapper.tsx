@@ -13,7 +13,7 @@ const IconWrapper = React.forwardRef<
       <div
         ref={ref}
         className={cn(
-          "w-11 h-11 relative flex items-center justify-center text-xl",
+          "w-8 h-8 relative flex items-center justify-center text-md",
           className
         )}
         {...props}

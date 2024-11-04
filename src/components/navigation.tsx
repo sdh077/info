@@ -14,14 +14,17 @@ import {
   navigationMenuTriggerStyle,
 } from "@/components/ui/navigation-menu"
 import { INavi } from "@/interface/navi"
-import { usePathname } from "next/navigation"
+import { usePathname, useSearchParams } from "next/navigation"
+import { Button } from "./ui/button"
 
 
 
 export function Navigation({ navis, width }: { navis: INavi[], width?: string }) {
   const pathname = usePathname()
+  const searchParams = useSearchParams()
+  const cate = Number(searchParams.get('cate') ?? '0')
   return (
-    <NavigationMenu className="bg-background py-2">
+    <NavigationMenu className="bg-background container justify-start py-2">
       <NavigationMenuList>
         <NavigationMenuItem>
           <Link href={'/'} legacyBehavior passHref>
@@ -31,24 +34,9 @@ export function Navigation({ navis, width }: { navis: INavi[], width?: string })
           </Link>
         </NavigationMenuItem>
         {navis.map(navi => {
-          // return navi.types.length ?
-          //   <NavigationMenuItem key={navi.cate} className="relative">
-          //     <NavigationMenuTrigger>{navi.menu}</NavigationMenuTrigger>
-          //     <NavigationMenuContent className="right-0 left-auto">
-          //       <ul className="grid gap-3 p-4 grid-cols-4" style={{ width: width ?? '500px' }}>
-          //         <ListItem href={`/?cate=${navi.id}`} title={`ALL`}>
-          //         </ListItem>
-          //         {navi.types.map(type =>
-          //           <ListItem key={type.type} href={`/?cate=${navi.id}&type=${type.type}`} title={type.title}>
-          //           </ListItem>
-          //         )}
-          //       </ul>
-          //     </NavigationMenuContent>
-          //   </NavigationMenuItem>
-          // :
           return <NavigationMenuItem key={navi.id}>
             <Link href={`/?cate=${navi.id}`} legacyBehavior passHref>
-              <NavigationMenuLink className={navigationMenuTriggerStyle()}>
+              <NavigationMenuLink className={cn(navigationMenuTriggerStyle(), cate === navi.id ? 'text-primary' : '')}>
                 {navi.menu}
               </NavigationMenuLink>
             </Link>

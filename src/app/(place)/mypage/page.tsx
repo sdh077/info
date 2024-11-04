@@ -18,8 +18,7 @@ import { authOptions } from '@/app/api/auth/[...nextauth]'
 
 function ContactTable({ contacts }: { contacts: Contact[] }) {
   return (
-    <Table>
-      <TableCaption>추가 요청 카페</TableCaption>
+    <Table className='container'>
       <TableHeader>
         <TableRow>
           <TableHead className="w-48">가게명</TableHead>
@@ -48,9 +47,9 @@ const Page = async () => {
   const { data: contacts } = await getContact(session.user.id)
   const { data: places, count } = await getBookmarkPlace()
   return (
-    <div className='max-w-7xl mx-auto min-h-screen mt-16 grid md:grid-cols-2 gap-16'>
-      <ContactTable contacts={contacts ?? []} />
+    <div className='min-h-screen mt-16 flex flex-col gap-16'>
       <Tile places={places ?? []} />
+      <ContactTable contacts={contacts ?? []} />
     </div>
   )
 }

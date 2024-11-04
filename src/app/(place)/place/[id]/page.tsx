@@ -5,6 +5,8 @@ import Image from "next/image";
 import { BsCardText, BsGeoAlt, BsHeart, BsInstagram, BsMap, BsPeople, BsShare, BsTable } from "react-icons/bs";
 import places from '@public/theplaces.json'
 import Link from "next/link";
+import { cn } from "@/lib/utils";
+import { getPlaceById } from "@/data/server";
 
 
 export default async function page({
@@ -14,16 +16,16 @@ export default async function page({
   params: { id: string }
   searchParams: { [key: string]: string | string[] | undefined }
 }) {
-  const place = places.find(place => place.id === Number(params.id)) ?? places[0]
-
+  const { data: place } = await getPlaceById(params.id)
   const box = 'w-5/6 mx-auto md:w-[300px] md:h-[300px] bg-black flex justify-center items-center flex-col p-4'
+  if (!place) return <></>
   return (
     <div>
       <Container className="my-8">
         <header className='flex items-center justify-between'>
           <div>
             <h1 className="text-2xl">{place.title}</h1>
-            <h4 className="text-gray">{place.cate} / {place.type}</h4>
+            <h4 className="text-gray">{place.location}</h4>
           </div>
           <div className="flex gap-4">
             <Link href={place.placeLink} target="_blank"><IconWrapper><BsMap /></IconWrapper></Link>
@@ -32,8 +34,12 @@ export default async function page({
           </div>
         </header>
       </Container>
-      <section className="w-full relative h-[80vh]">
-        <Image src={`/place-image/${place.images[0]}`} alt="" fill className="object-cover" />
+      <section className={cn(`w-full relative h-[80vh] grid grid-cols-${place.images.length}`)}>
+        {place.images.map(image =>
+          <div className="relative h-full w-full" key={image}>
+            <Image src={`/place-image/${image}`} alt="" fill className="object-cover" />
+          </div>
+        )}
       </section>
       <section className="my-8">
         <Container>

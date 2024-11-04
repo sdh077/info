@@ -3,12 +3,9 @@ import { IPlace } from "@/interface/place";
 import { cn } from "@/lib/utils";
 import { useFilterStore } from "@/stores/filter-store-provider";
 import { useState } from "react";
-import { BsBookmark, BsBookmarkFill } from "react-icons/bs";
-import { boolean } from "zod";
-import Cookires from 'js-cookie'
 import { createClient } from "@/utils/supabase/client";
-import { useSession } from "next-auth/react";
-import { ArrowBigLeft, ChevronLeft, ChevronRight } from "lucide-react";
+import { ChevronLeft, ChevronRight } from "lucide-react";
+import { BsBookmark, BsBookmarkFill } from "react-icons/bs";
 export const BentoGrid = ({
   className,
   children,
@@ -53,10 +50,10 @@ export const BentoGridItem = ({
   }
 
   return (
-    <div className="w-full group/card h-fit" >
+    <div className="w-full group/card h-fit bg-white" >
       <div
         className={cn(
-          " cursor-pointer overflow-hidden relative card h-80 rounded-md shadow-xl mx-auto backgroundImage flex flex-col justify-between",
+          " cursor-pointer overflow-hidden relative card h-80 shadow-xl mx-auto backgroundImage flex flex-col justify-between",
           " bg-cover bg-center",
           `bg-[url(/place-image/${place.images[0]})] bg-cover`,
           `before:fixed before:inset-0 before:opacity-0 before:z-[-1]`,
@@ -84,17 +81,17 @@ export const BentoGridItem = ({
             </div>
           </div>
         </div>
-        {enter ? <>
+        {enter && place.images.length > 1 ? <>
           <ChevronLeft className="absolute top-[50%] p-1 left-3 w-4 h-4 bg-gray rounded-full z-10 text-white" onClick={() => setCarousel((carousel + 1) % 2)} />
           <ChevronRight className="absolute top-[50%] p-1 right-3 w-4 h-4 bg-gray rounded-full z-10 text-white" onClick={() => setCarousel((carousel + 1) % 2)} />
         </> : <></>
         }
       </div>
       <div className="flex justify-between items-center">
-        <h1 className="font-bold text-md md:text-xl text-right relative z-10">
+        <h1 className="font-bold text-xl md:text-3xl text-right relative z-10">
           {place.title}
         </h1>
-        {/* {id && isBook ? <BsBookmarkFill onClick={() => handleBook(false)} /> : <BsBookmark onClick={() => handleBook(true)} />} */}
+        {id && isBook ? <BsBookmarkFill onClick={() => handleBook(false)} /> : <BsBookmark onClick={() => handleBook(true)} />}
       </div>
     </div>)
 };
