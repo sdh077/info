@@ -26,7 +26,7 @@ export default async function page({
 
   const { data: places, count } = await getPlace(activeNavi?.cate ?? [], subcate, pfs, mode, pageNo)
   return (
-    <div className=''>
+    <div className='container'>
       <Tile places={places ?? []} />
       {/* <Map places={places ?? []} /> */}
       {!!count && <CustomPagination total={Math.ceil(count / 9)} />}

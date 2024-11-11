@@ -47,7 +47,7 @@ const Page = async () => {
   const { data: contacts } = await getContact(session.user.id)
   const { data: places, count } = await getBookmarkPlace()
   return (
-    <div className='min-h-screen mt-16 flex flex-col gap-16'>
+    <div className='min-h-screen flex flex-col gap-16 container'>
       <Tile places={places ?? []} />
       <ContactTable contacts={contacts ?? []} />
     </div>

@@ -42,7 +42,7 @@ export const BentoGrid = ({
         "grid grid-cols-1",
         "md:grid-cols-3",
         'lg:grid-cols-4',
-        'lg:px-8 lg:mx-auto',
+        'lg:mx-auto',
         className
       )}
     >
@@ -136,7 +136,7 @@ export const ItemView = ({
       <div className='flex justify-between'>
         <div className='flex gap-1'>
           {place.categories.map(sub =>
-            <div key={sub}>{sub}</div>
+            <div className='text-sm text-gray-500' key={sub}>#{sub}</div>
           )}
         </div>
         <div className="flex">
@@ -148,7 +148,7 @@ export const ItemView = ({
           <Link href={place.placeLink} target="_blank">
             <IconWrapper><BsMap /></IconWrapper></Link>
           {place.snsLink && <Link href={place.snsLink} target="_blank"><IconWrapper><BsInstagram /></IconWrapper></Link>}
-          <IconWrapper><BsShare /></IconWrapper>
+          {/* <IconWrapper><BsShare /></IconWrapper> */}
         </div>
       </div>
 
