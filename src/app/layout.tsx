@@ -34,6 +34,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <link rel="icon" href="/theplaceLogo.png" sizes="any" />
+      <meta name="google-adsense-account" content="ca-pub-4626570365982922" />
       <body
         className={cn(
           "min-h-screen bg-background",
