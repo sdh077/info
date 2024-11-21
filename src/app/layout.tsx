@@ -11,7 +11,13 @@ import { NAVER_KEY } from "@/lib/constants";
 import AuthProvider from "@/lib/next-auth";
 import { Toaster } from "@/components/ui/toaster";
 import Provider from "./provider";
+import { JetBrains_Mono } from 'next/font/google'
 
+const jetbrainsMono = JetBrains_Mono({
+  subsets: ["latin"],
+  weight: ["100", "200", "300", "400", "500", "600", "700", "800"],
+  variable: "--font-jetbrainsMono"
+})
 
 // const fontSans = FontSans({
 //   subsets: ["latin"],
@@ -38,6 +44,7 @@ export default function RootLayout({
       <body
         className={cn(
           "min-h-screen bg-background",
+          jetbrainsMono.variable
           // fontSans.variable
         )}
       >

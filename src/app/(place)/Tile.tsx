@@ -16,7 +16,7 @@ export default function Tile({ places }: { places: IPlace[] }) {
   const id = data?.user?.id
   return (
     <>
-      <BentoGrid className="w-full order-2 md:order-none bg-gray-200 gap-y-1 lg:bg-white lg:gap-2">
+      <BentoGrid className="w-full order-2 md:order-none gap-y-8 lg:bg-white lg:gap-x-4">
         {places.map((place, i) => (
           <BentoGridItem
             key={i}
@@ -41,7 +41,7 @@ export const BentoGrid = ({
       className={cn(
         "grid grid-cols-1",
         "md:grid-cols-3",
-        'lg:grid-cols-4',
+        'lg:grid-cols-3',
         'lg:mx-auto',
         className
       )}
@@ -91,7 +91,7 @@ export const ItemView = ({
     <div className="w-full group/card h-fit bg-white" >
       <div
         className={cn(
-          " cursor-pointer overflow-hidden relative card h-80 shadow-xl mx-auto backgroundImage flex flex-col justify-between",
+          " cursor-pointer overflow-hidden relative card h-96 shadow-xl mx-auto backgroundImage flex flex-col justify-between",
           " bg-cover bg-center",
           `bg-[url(/place-image/${place.images[0]})] bg-cover`,
           `before:fixed before:inset-0 before:opacity-0 before:z-[-1]`,
@@ -106,13 +106,13 @@ export const ItemView = ({
           backgroundImage: `url(/place-image/${place.images[carousel]})`,
         }}
       >
-        <div className="absolute w-full h-full top-0 left-0 group-hover/card:bg-black/30 group-hover/card:scale-[101%] opacity-60 z-10"
+        <div className="absolute w-full h-full top-0 left-0  group-hover/card:scale-[101%] opacity-60 z-10"
         // onClick={() => {
         //   chagePlaceId(place.id)
         //   router.push(`/place/${place.id}`)
         // }}
         ></div>
-        <div className="relative text content hover:bg-black/20 w-full h-full p-2 flex flex-col justify-between">
+        <div className="relative text content  w-full h-full p-2 flex flex-col justify-between">
           <div className="font-normal text-base relative z-10 text-gray-200">
             {place.subTitle}
           </div>
@@ -128,8 +128,8 @@ export const ItemView = ({
         </> : <></>
         }
       </div>
-      <div className="flex justify-between items-center">
-        <h1 className="font-bold text-xl md:text-2xl text-right relative z-10">
+      <div className="flex justify-between items-center mr-2">
+        <h1 className="text-xl md:text-xl text-right relative z-10">
           {place.title}
         </h1>
       </div>
@@ -163,7 +163,7 @@ export const ItemViewMobile = ({
     <div className="w-full group/card h-fit bg-white" >
       <div
         className={cn(
-          " cursor-pointer overflow-hidden relative card h-80 shadow-xl mx-auto backgroundImage flex flex-col justify-between",
+          " cursor-pointer overflow-hidden relative card h-80 mx-auto backgroundImage flex flex-col justify-between",
           " bg-cover bg-center",
           `bg-[url(/place-image/${place.images[0]})] bg-cover`,
           `before:fixed before:inset-0 before:opacity-0 before:z-[-1]`,
@@ -179,7 +179,7 @@ export const ItemViewMobile = ({
       <div className='container flex flex-col gap-2 my-2'>
         <div className="flex justify-between items-center">
           <h1 className="font-bold text-xl md:text-2xl text-right relative z-10">
-            {place.title}<span className='text-sm leading-3 text-gray-500'>{place.subTitle}</span>
+            {place.title}<span className='text-sm mx-2 leading-3 text-gray-500'>{place.subTitle}</span>
           </h1>
           {!!id &&
             <>

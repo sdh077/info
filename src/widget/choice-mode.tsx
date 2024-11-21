@@ -10,8 +10,8 @@ const ChoiceMode = () => {
   return (
 
     <div className='flex gap-2'>
-      <div onClick={() => handleMode('cafe')} className={cn(mode === 'cafe' ? 'text-primary' : 'text-gray-400', 'font-semibold cursor-pointer hover:text-primary', 'text-lg')}>카페</div>
-      <div onClick={() => handleMode('food')} className={cn(mode === 'food' ? 'text-primary' : 'text-gray-400', 'font-semibold cursor-pointer hover:text-primary', 'text-lg')}>음식점</div>
+      <div onClick={() => handleMode('cafe')} className={cn(mode === 'cafe' ? 'text-black font-semibold' : 'text-gray-400', 'font-semibold cursor-pointer hover:text-primary', 'text-lg')}>카페</div>
+      <div onClick={() => handleMode('food')} className={cn(mode === 'food' ? 'text-black font-semibold' : 'text-gray-400', 'font-semibold cursor-pointer hover:text-primary', 'text-lg')}>음식점</div>
     </div>
   )
 }
